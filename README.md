@@ -19,6 +19,7 @@
 - 刊物白名单：[config/venues.json](config/venues.json)（想加刊改这个文件）
 - 命中关键词：[config/filters.json](config/filters.json)
 - 结构化数据：[data/papers.json](data/papers.json)（可直接被别的项目引用）
+- 历次更新流水：[CHANGELOG.md](CHANGELOG.md)
 
 ## 收录概览
 
@@ -46,7 +47,9 @@
 
 ## 论文列表
 
-⭐ = 领域内公认的里程碑工作（人工标注）
+<img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top"> = 本次同步新增 ｜ ⭐ = 里程碑工作（人工标注）
+
+历次新增的完整流水见 [CHANGELOG.md](CHANGELOG.md)。
 
 <!-- PAPERS:BEGIN -->
 #### 🆕 最近收录

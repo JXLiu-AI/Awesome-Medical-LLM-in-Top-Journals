@@ -6,7 +6,7 @@
     python3 scripts/fetch.py            # 增量抓取
     python3 scripts/fetch.py --dry-run  # 只打印新命中，不写盘
 """
-import json, re, sys, time, urllib.parse, urllib.request
+import datetime, json, re, sys, time, urllib.parse, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -82,6 +82,9 @@ def matches(rec, flt):
     return True
 
 
+BATCH = datetime.date.today().isoformat()
+
+
 def to_entry(rec, group, journal_display):
     doi = (rec.get("doi") or "").lower()
     au = rec.get("authorString", "")
@@ -102,6 +105,7 @@ def to_entry(rec, group, journal_display):
         "code": code.group(0).rstrip(".)") if code else "",
         "abstract": abstract[:600],
         "pub_types": pub_types(rec),
+        "added_batch": BATCH,   # 本条是哪一次同步捞进来的，render 据此标"本次新增"
         "tags": [],          # 人工补：模型类型 / 科室 / 任务
         "highlight": False,  # 人工标：值得置顶的重磅工作
         "status": "new",     # new -> 人工审过改成 kept；不想要的改成 rejected
@@ -139,6 +143,12 @@ def main():
                 print(f"  + [{j['display']}] {e['date']} {e['title'][:80]}")
             print(f"{j['display']}: 扫描 {len(recs)} 篇 / 命中 {len(hit)} 篇 / 新增 {fresh} 篇")
 
+    db.setdefault("batches", [])
+    if added:
+        db["batches"] = [b for b in db["batches"] if b["batch"] != BATCH]
+        db["batches"].append({"batch": BATCH, "added": added})
+        db["batches"].sort(key=lambda b: b["batch"])
+    db["latest_batch"] = BATCH if added else db.get("latest_batch", "")
     db["papers"].sort(key=lambda p: (p.get("date") or ""), reverse=True)
     print(f"\n合计新增 {added} 篇，库内共 {len(db['papers'])} 篇")
     if not dry:
