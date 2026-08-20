@@ -16,6 +16,16 @@
 
 徽章用的是 shields.io 图片，不是 `<mark>`。GitHub 的 sanitizer 会剥掉 `style` 属性，`<mark>` 只有默认的黄色，指定不了颜色。
 
+## 科室图标
+
+每条论文末尾挂的 emoji 是科室，规则在 [config/specialties.json](config/specialties.json)，`scripts/tag.py` 按标题和摘要里的关键词自动归类，一篇最多三个，按命中次数排序。
+
+用 emoji 而不是彩色徽章，是因为 199 篇每篇挂几个 shields.io 图片就是几百个外链，README 会明显变慢。
+
+有 70 多篇没有科室图标，这些是跨科室的通用工作（基础模型、智能体框架、评测基准），本来就不属于某一科。
+
+改了关键词之后跑 `python3 scripts/tag.py --force` 重新全量归类。不加 `--force` 只会给没标过的补，人工改过的不动。
+
 ## 怎么补充
 
 每周一 GitHub Action 跑 `fetch.py`，把新命中的论文以 PR 形式提出来，`status` 是 `new`。
@@ -29,6 +39,7 @@
 ```bash
 python3 scripts/fetch.py --dry-run   # 看这周有什么新东西
 python3 scripts/fetch.py             # 写入 data/papers.json
+python3 scripts/tag.py               # 打科室标签
 python3 scripts/triage.py            # 逐条过审
 python3 scripts/render.py            # 重新生成 README 和 CHANGELOG
 ```

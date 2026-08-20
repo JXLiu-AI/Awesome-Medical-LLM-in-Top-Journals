@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """由 data/papers.json 重新生成 README.md 的论文区（模板：README.template.md）。"""
 import json
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 MARK_A, MARK_B = "<!-- PAPERS:BEGIN -->", "<!-- PAPERS:END -->"
+LEG_A, LEG_B = "<!-- LEGEND:BEGIN -->", "<!-- LEGEND:END -->"
+ICONS = {}   # key -> (icon, name)，main() 里从 config 载入
 STAT_A, STAT_B = "<!-- STATS:BEGIN -->", "<!-- STATS:END -->"
 
 
@@ -24,12 +26,16 @@ def row(p, latest_batch=None):
     code = f" [[code]]({p['code']})" if p.get("code") else ""
     tags = " ".join(f"`{t}`" for t in p.get("tags", []))
     au = f"{p['first_author']} et al." if p.get("first_author") else ""
-    return f"- {new}{star}**{title}**{code}<br/>{au} · *{p['journal']}* · {p['date']} {tags}".rstrip()
+    sp = "".join(ICONS[k][0] for k in p.get("specialties", []) if k in ICONS)
+    sp = f" {sp}" if sp else ""
+    return f"- {new}{star}**{title}**{code}<br/>{au} · *{p['journal']}* · {p['date']}{sp} {tags}".rstrip()
 
 
 def main():
     db = json.loads((ROOT / "data/papers.json").read_text(encoding="utf-8"))
     venues = json.loads((ROOT / "config/venues.json").read_text(encoding="utf-8"))
+    spec = json.loads((ROOT / "config/specialties.json").read_text(encoding="utf-8"))
+    ICONS.update({s["key"]: (s["icon"], s["name"]) for s in spec["specialties"]})
     papers = [p for p in db["papers"] if p.get("status") != "rejected"]
     latest = db.get("latest_batch") or ""
     if latest == "initial":
@@ -82,6 +88,13 @@ def main():
     stats.append(f"| **合计** | **{len(papers)}** |")
     stats_md = "\n".join(stats)
 
+    used = Counter(k for p in papers for k in p.get("specialties", []))
+    legend_md = " ｜ ".join(f"{ICONS[k][0]} {ICONS[k][1]}（{n}）"
+                           for k, n in used.most_common() if k in ICONS)
+    no_sp = sum(1 for p in papers if not p.get("specialties"))
+    if no_sp:
+        legend_md += f"\n\n未标科室的 {no_sp} 篇多为跨科室的通用工作（基础模型、智能体、评测基准）。"
+
     tpl = (ROOT / "README.template.md").read_text(encoding="utf-8")
     def splice(text, a, b, body):
         head, rest = text.split(a, 1)
@@ -89,6 +102,7 @@ def main():
         return f"{head}{a}\n{body}\n{b}{tail}"
     tpl = splice(tpl, MARK_A, MARK_B, papers_md)
     tpl = splice(tpl, STAT_A, STAT_B, stats_md)
+    tpl = splice(tpl, LEG_A, LEG_B, legend_md)
     (ROOT / "README.md").write_text(tpl, encoding="utf-8")
 
     # CHANGELOG：每次同步一节，永久留痕

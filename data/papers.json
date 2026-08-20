@@ -18,7 +18,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "psych"
+      ]
     },
     {
       "doi": "10.1038/s41591-026-04521-4",
@@ -38,7 +41,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path"
+      ]
     },
     {
       "doi": "10.1016/j.landig.2026.101013",
@@ -58,7 +64,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/j.landig.2026.101007",
@@ -78,7 +85,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41551-026-01739-y",
@@ -98,7 +106,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path"
+      ]
     },
     {
       "doi": "10.1038/s41551-026-01741-4",
@@ -118,7 +129,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1038/s41551-026-01740-5",
@@ -138,7 +152,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1126/science.adz4351",
@@ -158,7 +175,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-026-04502-7",
@@ -178,7 +196,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "onco"
+      ]
     },
     {
       "doi": "10.1038/s41551-026-01736-1",
@@ -198,7 +219,12 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "onco",
+        "ortho",
+        "radiol"
+      ]
     },
     {
       "doi": "10.1001/jama.2026.9507",
@@ -218,7 +244,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1148/ryai.250923",
@@ -238,7 +265,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1148/ryai.250982",
@@ -259,7 +287,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1038/s41591-026-04494-4",
@@ -279,7 +310,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "onco"
+      ]
     },
     {
       "doi": "10.1038/s41591-026-04503-6",
@@ -301,7 +335,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "prim",
+        "ehr"
+      ]
     },
     {
       "doi": "10.1038/s41591-026-04501-8",
@@ -321,7 +359,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41551-026-01713-8",
@@ -341,7 +380,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol",
+        "dent"
+      ]
     },
     {
       "doi": "10.1056/aics2501343",
@@ -361,7 +404,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "genom"
+      ]
     },
     {
       "doi": "10.1126/scitranslmed.adz4172",
@@ -381,7 +427,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "genom",
+        "path"
+      ]
     },
     {
       "doi": "10.1038/s41586-026-10764-5",
@@ -401,7 +451,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "drug"
+      ]
     },
     {
       "doi": "10.1038/s41586-026-10675-5",
@@ -421,7 +474,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ehr"
+      ]
     },
     {
       "doi": "10.1038/s41591-026-04431-5",
@@ -441,7 +497,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/j.landig.2026.101011",
@@ -462,7 +519,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "drug"
+      ]
     },
     {
       "doi": "10.1038/s41591-026-04403-9",
@@ -482,7 +542,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path",
+        "onco"
+      ]
     },
     {
       "doi": "10.1016/j.landig.2026.100991",
@@ -503,7 +567,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ehr"
+      ]
     },
     {
       "doi": "10.1038/s41591-026-04371-0",
@@ -524,7 +591,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-026-04427-1",
@@ -544,7 +612,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "emerg"
+      ]
     },
     {
       "doi": "10.1148/ryai.250585",
@@ -564,7 +635,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1148/ryai.250714",
@@ -585,7 +659,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1126/science.adz4433",
@@ -605,7 +682,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-026-04357-y",
@@ -626,7 +704,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path",
+        "onco"
+      ]
     },
     {
       "doi": "10.1038/s41551-026-01662-2",
@@ -646,7 +728,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ophth"
+      ]
     },
     {
       "doi": "10.1038/s41551-026-01666-y",
@@ -666,7 +751,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol",
+        "neuro"
+      ]
     },
     {
       "doi": "10.1038/s41551-026-01668-w",
@@ -686,7 +775,12 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol",
+        "path",
+        "neuro"
+      ]
     },
     {
       "doi": "10.1016/j.landig.2026.100980",
@@ -707,7 +801,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ophth"
+      ]
     },
     {
       "doi": "10.1016/s0140-6736(26)00464-2",
@@ -727,7 +824,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "pubh"
+      ]
     },
     {
       "doi": "10.1016/j.landig.2025.100977",
@@ -748,7 +848,12 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path",
+        "neuro",
+        "genom"
+      ]
     },
     {
       "doi": "10.1038/s41551-026-01634-6",
@@ -768,7 +873,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-026-04278-w",
@@ -789,7 +895,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "psych"
+      ]
     },
     {
       "doi": "10.1038/s41591-026-04252-6",
@@ -810,7 +919,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41586-026-10181-8",
@@ -831,7 +941,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1038/s41591-026-04229-5",
@@ -853,7 +966,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1148/ryai.250477",
@@ -875,7 +989,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1148/ryai.250203",
@@ -895,7 +1010,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1148/ryai.250651",
@@ -916,7 +1034,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1038/s42256-026-01180-5",
@@ -937,7 +1058,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "cardio"
+      ]
     },
     {
       "doi": "10.1038/s41587-026-03035-1",
@@ -958,7 +1082,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "drug"
+      ]
     },
     {
       "doi": "10.1038/s41591-026-04297-7",
@@ -979,7 +1106,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "emerg"
+      ]
     },
     {
       "doi": "10.1016/j.landig.2025.100967",
@@ -999,7 +1129,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ophth"
+      ]
     },
     {
       "doi": "10.1038/s41586-025-10097-9",
@@ -1021,7 +1154,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "genom",
+        "prim"
+      ]
     },
     {
       "doi": "10.1016/j.landig.2025.100960",
@@ -1044,7 +1181,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1038/s41551-025-01599-y",
@@ -1064,7 +1204,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-04074-y",
@@ -1086,7 +1229,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "pubh"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-04190-9",
@@ -1108,7 +1254,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "cardio"
+      ]
     },
     {
       "doi": "10.1038/s41551-025-01608-0",
@@ -1128,7 +1277,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol",
+        "neuro"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-04184-7",
@@ -1149,7 +1302,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ehr"
+      ]
     },
     {
       "doi": "10.1016/j.landig.2025.100943",
@@ -1171,7 +1327,12 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "neuro",
+        "genom",
+        "drug"
+      ]
     },
     {
       "doi": "10.1038/s41551-025-01587-2",
@@ -1191,7 +1352,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "onco",
+        "genom"
+      ]
     },
     {
       "doi": "10.1056/aics2500676",
@@ -1212,7 +1377,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "dent"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-04151-2",
@@ -1233,7 +1401,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ehr"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-04176-7",
@@ -1255,7 +1426,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "prim"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-04133-4",
@@ -1276,7 +1450,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "psych"
+      ]
     },
     {
       "doi": "10.1038/s41551-025-01574-7",
@@ -1296,7 +1473,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-04042-6",
@@ -1319,7 +1499,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1148/ryai.240646",
@@ -1340,7 +1523,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol",
+        "onco"
+      ]
     },
     {
       "doi": "10.1016/j.landig.2025.100926",
@@ -1363,7 +1550,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ehr"
+      ]
     },
     {
       "doi": "10.1038/s41592-025-02899-6",
@@ -1383,7 +1573,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1136/bmj-2025-085324",
@@ -1403,7 +1594,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1056/aioa2500164",
@@ -1424,7 +1616,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "cardio"
+      ]
     },
     {
       "doi": "10.1136/bmj-2025-085323",
@@ -1444,7 +1639,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/j.landig.2025.100922",
@@ -1464,7 +1660,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-025-03982-3",
@@ -1485,7 +1682,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path"
+      ]
     },
     {
       "doi": "10.1136/bmj.r2290",
@@ -1505,7 +1705,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "psych"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-04006-w",
@@ -1526,7 +1729,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ehr"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-03983-2",
@@ -1547,7 +1753,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/j.landig.2025.100900",
@@ -1568,7 +1775,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "edu",
+        "pubh"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-03836-y",
@@ -1588,7 +1799,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41551-025-01516-3",
@@ -1609,7 +1821,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path",
+        "gi"
+      ]
     },
     {
       "doi": "10.1038/s41551-025-01471-z",
@@ -1630,7 +1846,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41551-025-01497-3",
@@ -1650,7 +1867,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41551-025-01488-4",
@@ -1670,7 +1888,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path"
+      ]
     },
     {
       "doi": "10.1148/ryai.240277",
@@ -1691,7 +1912,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-03900-7",
@@ -1712,7 +1936,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ophth"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-03923-0",
@@ -1733,7 +1960,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-025-03888-0",
@@ -1754,7 +1982,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/j.landig.2025.100890",
@@ -1776,7 +2005,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41551-025-01468-8",
@@ -1796,7 +2026,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/j.landig.2025.100876",
@@ -1818,7 +2049,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "onco"
+      ]
     },
     {
       "doi": "10.1136/bmj-2024-083305",
@@ -1839,7 +2073,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-025-03856-8",
@@ -1859,7 +2094,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1136/bmj.r1418",
@@ -1879,7 +2115,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "edu"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-03780-x",
@@ -1900,7 +2139,12 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path",
+        "onco",
+        "genom"
+      ]
     },
     {
       "doi": "10.1038/s41586-025-09215-4",
@@ -1922,7 +2166,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/j.cell.2025.05.018",
@@ -1943,7 +2188,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path"
+      ]
     },
     {
       "doi": "10.1148/ryai.240790",
@@ -1965,7 +2213,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1148/ryai.240476",
@@ -1986,7 +2237,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1056/aioa2401033",
@@ -2007,7 +2261,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "cardio"
+      ]
     },
     {
       "doi": "10.1038/s41586-025-09079-8",
@@ -2027,7 +2284,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1016/s0140-6736(25)01237-1",
@@ -2047,7 +2307,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "psych"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-03747-y",
@@ -2068,7 +2331,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "derm",
+        "onco"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-03743-2",
@@ -2092,7 +2359,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "resp"
+      ]
     },
     {
       "doi": "10.1038/s41592-025-02707-1",
@@ -2113,7 +2383,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path",
+        "genom"
+      ]
     },
     {
       "doi": "10.1038/s42256-025-01030-w",
@@ -2134,7 +2408,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-03470-0",
@@ -2155,7 +2430,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1001/jama.2025.2806",
@@ -2175,7 +2451,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1148/ryai.240313",
@@ -2195,7 +2472,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-03726-3",
@@ -2216,7 +2496,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "edu",
+        "onco"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-03727-2",
@@ -2237,7 +2521,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1056/aira2401164",
@@ -2258,7 +2543,12 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "onco",
+        "radiol",
+        "path"
+      ]
     },
     {
       "doi": "10.1038/s41586-025-08869-4",
@@ -2280,7 +2570,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41586-025-08866-7",
@@ -2302,7 +2593,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-025-03618-6",
@@ -2324,7 +2616,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-025-03626-6",
@@ -2344,7 +2637,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "emerg"
+      ]
     },
     {
       "doi": "10.1038/s41586-025-08675-y",
@@ -2365,7 +2661,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1016/j.cell.2025.02.025",
@@ -2385,7 +2684,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "genom"
+      ]
     },
     {
       "doi": "10.1038/s41551-025-01365-0",
@@ -2405,7 +2707,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ophth"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-03520-1",
@@ -2425,7 +2730,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1001/jama.2024.28047",
@@ -2446,7 +2752,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-03456-y",
@@ -2468,7 +2775,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-03434-4",
@@ -2491,7 +2799,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41586-024-08378-w",
@@ -2513,7 +2822,12 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path",
+        "onco",
+        "ehr"
+      ]
     },
     {
       "doi": "10.1038/s41586-024-08328-6",
@@ -2534,7 +2848,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "drug"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-03425-5",
@@ -2558,7 +2875,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-03423-7",
@@ -2579,7 +2897,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "edu"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-03445-1",
@@ -2600,7 +2921,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-03416-6",
@@ -2620,7 +2942,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/s2589-7500(24)00255-3",
@@ -2642,7 +2965,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "psych",
+        "ehr"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-03328-5",
@@ -2663,7 +2990,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41592-024-02519-9",
@@ -2683,7 +3011,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/s0140-6736(24)02797-1",
@@ -2703,7 +3032,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/s2589-7500(24)00246-2",
@@ -2725,7 +3055,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1001/jama.2024.21700",
@@ -2749,7 +3080,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1001/jama.2024.23860",
@@ -2769,7 +3101,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-03359-y",
@@ -2789,7 +3122,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41587-024-02503-w",
@@ -2810,7 +3144,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "gi",
+        "drug"
+      ]
     },
     {
       "doi": "10.1038/s41551-024-01283-7",
@@ -2831,7 +3169,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41551-024-01302-7",
@@ -2851,7 +3190,12 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "onco",
+        "radiol",
+        "us"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-03313-y",
@@ -2871,7 +3215,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-03333-8",
@@ -2891,7 +3236,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41586-024-08411-y",
@@ -2912,7 +3258,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "genom"
+      ]
     },
     {
       "doi": "10.1038/s41592-024-02499-w",
@@ -2932,7 +3281,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/s2589-7500(24)00202-4",
@@ -2953,7 +3303,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41586-024-08169-3",
@@ -2976,7 +3327,12 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "neuro",
+        "surg",
+        "onco"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-03302-1",
@@ -2997,7 +3353,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1056/aics2400420",
@@ -3018,7 +3377,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "emerg"
+      ]
     },
     {
       "doi": "10.1016/j.cell.2024.09.022",
@@ -3039,7 +3401,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-03233-x",
@@ -3060,7 +3423,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-03258-2",
@@ -3081,7 +3445,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "pubh"
+      ]
     },
     {
       "doi": "10.1016/s2589-7500(24)00143-2",
@@ -3104,7 +3471,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s42256-024-00889-5",
@@ -3125,7 +3493,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path",
+        "onco"
+      ]
     },
     {
       "doi": "10.1038/s41586-024-07894-z",
@@ -3149,7 +3521,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path",
+        "onco"
+      ]
     },
     {
       "doi": "10.1016/s2589-7500(24)00124-9",
@@ -3171,7 +3547,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41551-024-01246-y",
@@ -3192,7 +3569,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol",
+        "path"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-03185-2",
@@ -3213,7 +3594,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-03180-7",
@@ -3234,7 +3616,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-03141-0",
@@ -3255,7 +3638,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path",
+        "onco"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-03139-8",
@@ -3276,7 +3663,12 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ophth",
+        "pubh",
+        "prim"
+      ]
     },
     {
       "doi": "10.1056/aics2300301",
@@ -3297,7 +3689,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "pubh",
+        "ehr"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-03148-7",
@@ -3318,7 +3714,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "prim"
+      ]
     },
     {
       "doi": "10.1016/s2589-7500(24)00114-6",
@@ -3342,7 +3741,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-03097-1",
@@ -3363,7 +3765,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1148/ryai.230364",
@@ -3384,7 +3787,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol",
+        "emerg"
+      ]
     },
     {
       "doi": "10.1038/s41586-024-07421-0",
@@ -3405,7 +3812,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1038/s41586-024-07618-3",
@@ -3426,7 +3836,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path"
+      ]
     },
     {
       "doi": "10.1038/s41592-024-02305-7",
@@ -3446,7 +3859,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41586-024-07441-w",
@@ -3467,7 +3881,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path",
+        "onco"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-02970-3",
@@ -3488,7 +3906,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "surg"
+      ]
     },
     {
       "doi": "10.1038/s42256-024-00832-8",
@@ -3509,7 +3930,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "drug"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-02959-y",
@@ -3531,7 +3955,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "cardio",
+        "us"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-02943-6",
@@ -3553,7 +3981,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "psych"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-02933-8",
@@ -3575,7 +4006,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "drug"
+      ]
     },
     {
       "doi": "10.1016/s2589-7500(24)00060-8",
@@ -3596,7 +4030,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/s2589-7500(24)00061-x",
@@ -3618,7 +4053,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-02887-x",
@@ -3641,7 +4077,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1056/aioa2300151",
@@ -3662,7 +4099,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "onco"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-02838-6",
@@ -3683,7 +4123,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1136/bmj-2023-078538",
@@ -3704,7 +4145,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-02856-4",
@@ -3727,7 +4169,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-02857-3",
@@ -3750,7 +4195,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path"
+      ]
     },
     {
       "doi": "10.1136/bmj.q675",
@@ -3770,7 +4218,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1056/aidbp2300110",
@@ -3791,7 +4240,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "onco",
+        "ehr"
+      ]
     },
     {
       "doi": "10.1148/ryai.230205",
@@ -3812,7 +4265,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-02855-5",
@@ -3835,7 +4291,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ehr",
+        "radiol"
+      ]
     },
     {
       "doi": "10.1038/s41591-023-02766-x",
@@ -3857,7 +4317,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "prim",
+        "psych"
+      ]
     },
     {
       "doi": "10.1056/aioa2300068",
@@ -3878,7 +4342,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/s2589-7500(23)00225-x",
@@ -3901,7 +4366,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1001/jama.2023.25054",
@@ -3921,7 +4387,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ehr"
+      ]
     },
     {
       "doi": "10.1148/ryai.230103",
@@ -3942,7 +4411,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol",
+        "edu"
+      ]
     },
     {
       "doi": "10.1038/s41551-023-01160-9",
@@ -3962,7 +4435,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "derm"
+      ]
     },
     {
       "doi": "10.1016/s2589-7500(23)00201-7",
@@ -3986,7 +4462,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ophth"
+      ]
     },
     {
       "doi": "10.1016/s2589-7500(23)00179-6",
@@ -4008,7 +4487,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ehr"
+      ]
     },
     {
       "doi": "10.1126/science.adk8626",
@@ -4028,7 +4510,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41587-023-02011-3",
@@ -4048,7 +4531,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1016/s0140-6736(23)02056-1",
@@ -4069,7 +4553,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "pubh"
+      ]
     },
     {
       "doi": "10.1038/s44222-023-00114-9",
@@ -4090,7 +4577,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "drug"
+      ]
     },
     {
       "doi": "10.1038/s41591-023-02412-6",
@@ -4110,7 +4600,8 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": []
     },
     {
       "doi": "10.1148/ryai.230060",
@@ -4131,7 +4622,11 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "radiol",
+        "pubh"
+      ]
     },
     {
       "doi": "10.1038/s41586-023-06555-x",
@@ -4153,7 +4648,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "ophth"
+      ]
     },
     {
       "doi": "10.1038/s41591-023-02504-3",
@@ -4174,7 +4672,10 @@
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial"
+      "added_batch": "initial",
+      "specialties": [
+        "path"
+      ]
     }
   ],
   "batches": [

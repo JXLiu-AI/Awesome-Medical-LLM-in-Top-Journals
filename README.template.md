@@ -20,6 +20,11 @@
 
 ## 论文列表
 
+每条末尾的图标是科室，一篇最多挂三个，按关键词自动归类（规则在 [config/specialties.json](config/specialties.json)）：
+
+<!-- LEGEND:BEGIN -->
+<!-- LEGEND:END -->
+
 <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top"> 是本次同步新增，⭐ 是人工标的重点工作。
 
 <!-- PAPERS:BEGIN -->

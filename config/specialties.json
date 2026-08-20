@@ -1,0 +1,360 @@
+{
+  "_comment": "科室图标表。按 order 从上到下匹配，每篇最多挂 max_per_paper 个。kw 在标题+摘要里匹配，短词（≤6 字符且无空格）按词边界匹配，避免 PET 命中 competition。",
+  "max_per_paper": 3,
+  "specialties": [
+    {
+      "key": "dent",
+      "icon": "🦷",
+      "name": "口腔",
+      "kw": [
+        "dental",
+        "dentistry",
+        "oral health",
+        "periodont",
+        "caries",
+        "orthodont",
+        "maxillofacial",
+        "endodont"
+      ]
+    },
+    {
+      "key": "ophth",
+      "icon": "👁️",
+      "name": "眼科",
+      "kw": [
+        "OCT",
+        "cataract",
+        "cornea",
+        "diabetic retinopathy",
+        "eye care",
+        "eye disease",
+        "fundus",
+        "glaucoma",
+        "macular",
+        "ocular",
+        "ophthalmic",
+        "ophthalmolog",
+        "optic",
+        "retina",
+        "retinal",
+        "vision loss",
+        "visual acuity"
+      ]
+    },
+    {
+      "key": "cardio",
+      "icon": "🫀",
+      "name": "心血管",
+      "kw": [
+        "ECG",
+        "EKG",
+        "arrhythmia",
+        "atrial fibrillation",
+        "cardiac",
+        "cardiolog",
+        "cardiomyopath",
+        "cardiovascular",
+        "coronary",
+        "echocardio",
+        "electrocardiogram",
+        "heart failure",
+        "myocardial"
+      ]
+    },
+    {
+      "key": "us",
+      "icon": "🌊",
+      "name": "超声",
+      "kw": [
+        "ultrasound",
+        "ultrasonograph",
+        "echocardiograph",
+        "echocardiogram",
+        "sonograph",
+        "doppler"
+      ]
+    },
+    {
+      "key": "radiol",
+      "icon": "🩻",
+      "name": "放射影像",
+      "kw": [
+        "CT scan",
+        "MRI",
+        "PET",
+        "angiograph",
+        "chest X-ray",
+        "chest radiograph",
+        "computed tomography",
+        "digital subtraction",
+        "interventional radiolog",
+        "magnetic resonance imaging",
+        "mammograph",
+        "radiograph",
+        "radiolog"
+      ]
+    },
+    {
+      "key": "path",
+      "icon": "🔬",
+      "name": "病理",
+      "kw": [
+        "patholog",
+        "histopatholog",
+        "whole-slide",
+        "whole slide",
+        "biopsy",
+        "cytolog",
+        "immunohistochem"
+      ]
+    },
+    {
+      "key": "neuro",
+      "icon": "🧠",
+      "name": "神经",
+      "kw": [
+        "alzheimer",
+        "brain imaging",
+        "cognitive impairment",
+        "dementia",
+        "epilep",
+        "glioma",
+        "multiple sclerosis",
+        "neurodegenerative",
+        "neuroimaging",
+        "neurolog",
+        "neurosurg",
+        "parkinson",
+        "stroke"
+      ]
+    },
+    {
+      "key": "onco",
+      "icon": "🎗️",
+      "name": "肿瘤",
+      "kw": [
+        "oncolog",
+        "cancer",
+        "tumour",
+        "tumor",
+        "carcinoma",
+        "metasta",
+        "chemotherap",
+        "immunotherap",
+        "leukemia",
+        "lymphoma"
+      ]
+    },
+    {
+      "key": "derm",
+      "icon": "🩹",
+      "name": "皮肤",
+      "kw": [
+        "dermatolog",
+        "skin lesion",
+        "melanoma",
+        "dermoscop",
+        "psoriasis",
+        "eczema"
+      ]
+    },
+    {
+      "key": "psych",
+      "icon": "🧩",
+      "name": "精神心理",
+      "kw": [
+        "psychiatr",
+        "mental health",
+        "depression",
+        "anxiety",
+        "psychotherap",
+        "suicid",
+        "schizophren",
+        "counseling"
+      ]
+    },
+    {
+      "key": "resp",
+      "icon": "🫁",
+      "name": "呼吸",
+      "kw": [
+        "pulmonar",
+        "respirator",
+        "asthma",
+        "COPD",
+        "pneumonia",
+        "tuberculosis",
+        "lung nodule"
+      ]
+    },
+    {
+      "key": "gi",
+      "icon": "🔎",
+      "name": "消化内镜",
+      "kw": [
+        "colonoscop",
+        "colorectal",
+        "endoscop",
+        "endoscopic",
+        "gastroenterolog",
+        "gastrointestinal",
+        "hepat",
+        "inflammatory bowel",
+        "liver disease"
+      ]
+    },
+    {
+      "key": "peds",
+      "icon": "👶",
+      "name": "儿科",
+      "kw": [
+        "pediatric",
+        "paediatric",
+        "neonat",
+        "infant",
+        "child health"
+      ]
+    },
+    {
+      "key": "obgyn",
+      "icon": "🤰",
+      "name": "妇产",
+      "kw": [
+        "obstetric",
+        "gynecolog",
+        "gynaecolog",
+        "pregnan",
+        "prenatal",
+        "fetal",
+        "maternal health"
+      ]
+    },
+    {
+      "key": "ortho",
+      "icon": "🦴",
+      "name": "骨科",
+      "kw": [
+        "orthopaed",
+        "orthoped",
+        "fracture",
+        "bone metasta",
+        "musculoskeletal",
+        "arthritis",
+        "skeletal"
+      ]
+    },
+    {
+      "key": "surg",
+      "icon": "✂️",
+      "name": "外科手术",
+      "kw": [
+        "surgical",
+        "surgery",
+        "intraoperative",
+        "perioperative",
+        "operating room",
+        "laparoscop"
+      ]
+    },
+    {
+      "key": "emerg",
+      "icon": "🚑",
+      "name": "急诊重症",
+      "kw": [
+        "emergency department",
+        "intensive care",
+        "critical care",
+        "ICU",
+        "sepsis",
+        "triage"
+      ]
+    },
+    {
+      "key": "genom",
+      "icon": "🧬",
+      "name": "基因组",
+      "kw": [
+        "genomic",
+        "genome",
+        "exome",
+        "sequencing",
+        "rare disease",
+        "variant interpretation",
+        "proteomic"
+      ]
+    },
+    {
+      "key": "drug",
+      "icon": "💊",
+      "name": "药学",
+      "kw": [
+        "drug discovery",
+        "pharmac",
+        "prescrib",
+        "prescription",
+        "medication",
+        "adverse drug",
+        "molecule design"
+      ]
+    },
+    {
+      "key": "ehr",
+      "icon": "📋",
+      "name": "病历文书",
+      "kw": [
+        "EHR",
+        "billing",
+        "clinical coding",
+        "clinical documentation",
+        "clinical note",
+        "discharge summar",
+        "discharge summary",
+        "documentation burden",
+        "electronic health record",
+        "medical record",
+        "progress note"
+      ]
+    },
+    {
+      "key": "edu",
+      "icon": "🎓",
+      "name": "医学教育",
+      "kw": [
+        "medical education",
+        "board examination",
+        "licensing examination",
+        "USMLE",
+        "medical student",
+        "resident training"
+      ]
+    },
+    {
+      "key": "pubh",
+      "icon": "🌍",
+      "name": "公共卫生",
+      "kw": [
+        "public health",
+        "epidemiolog",
+        "population health",
+        "health equity",
+        "disparit",
+        "global health",
+        "surveillance"
+      ]
+    },
+    {
+      "key": "prim",
+      "icon": "🩺",
+      "name": "全科基层",
+      "kw": [
+        "primary care",
+        "general practice",
+        "family medicine",
+        "outpatient",
+        "community health",
+        "referral",
+        "patient-facing chatbot"
+      ]
+    }
+  ]
+}

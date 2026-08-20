@@ -18,6 +18,8 @@ jobs:
           python-version: "3.12"
       - name: Fetch new papers
         run: python3 -u scripts/fetch.py | tee /tmp/fetch.log
+      - name: Tag specialties
+        run: python3 -u scripts/tag.py
       - name: Render README
         run: python3 scripts/render.py
       - name: Open PR
