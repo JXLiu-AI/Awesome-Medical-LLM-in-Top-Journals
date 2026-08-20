@@ -17,7 +17,7 @@
 <!-- LEGEND:BEGIN -->
 <!-- LEGEND:END -->
 
-<img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top"> 是本次同步新增，⭐ 是人工标的重点工作。历次新增见 [CHANGELOG.md](CHANGELOG.md)。
+<img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top"> 是本次同步新增。历次新增见 [CHANGELOG.md](CHANGELOG.md)。
 
 <!-- PAPERS:BEGIN -->
 <!-- PAPERS:END -->

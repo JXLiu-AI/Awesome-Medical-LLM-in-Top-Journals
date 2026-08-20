@@ -37,7 +37,7 @@
 🩻 放射影像（33） ｜ 🔬 病理（26） ｜ 🎗️ 肿瘤（21） ｜ 📋 病历文书（14） ｜ 🧬 基因组（10） ｜ 💊 药学（9） ｜ 🧩 精神心理（8） ｜ 👁️ 眼科（8） ｜ 🌍 公共卫生（8） ｜ 🩺 全科基层（6） ｜ 🧠 神经（6） ｜ 🚑 急诊重症（5） ｜ 🫀 心血管（5） ｜ 🎓 医学教育（5） ｜ 🔎 消化内镜（2） ｜ 🩹 皮肤（2） ｜ 🌊 超声（2） ｜ ✂️ 外科手术（2） ｜ 🦴 骨科（1） ｜ 🦷 口腔（1） ｜ 🫁 呼吸（1）
 <!-- LEGEND:END -->
 
-<img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top"> 是本次同步新增，⭐ 是人工标的重点工作。历次新增见 [CHANGELOG.md](CHANGELOG.md)。
+<img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top"> 是本次同步新增。历次新增见 [CHANGELOG.md](CHANGELOG.md)。
 
 <!-- PAPERS:BEGIN -->
 #### 最近收录
