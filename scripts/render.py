@@ -91,9 +91,6 @@ def main():
     used = Counter(k for p in papers for k in p.get("specialties", []))
     legend_md = " ｜ ".join(f"{ICONS[k][0]} {ICONS[k][1]}（{n}）"
                            for k, n in used.most_common() if k in ICONS)
-    no_sp = sum(1 for p in papers if not p.get("specialties"))
-    if no_sp:
-        legend_md += f"\n\n未标科室的 {no_sp} 篇多为跨科室的通用工作（基础模型、智能体、评测基准）。"
 
     tpl = (ROOT / "README.template.md").read_text(encoding="utf-8")
     def splice(text, a, b, body):

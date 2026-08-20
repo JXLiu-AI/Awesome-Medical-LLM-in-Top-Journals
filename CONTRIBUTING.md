@@ -6,7 +6,7 @@
 2. 核心方法是大语言模型、多模态基础模型，或者建立在它们之上的智能体。传统 CNN、统计模型不算。
 3. 面向临床、公共卫生或生物医学场景，不是通用 NLP。
 
-关键词只在标题和摘要前 700 字里匹配（`lead_chars`）。早先在整篇摘要里匹配，讨论段落里顺带提一句 large language model 就会被收进来，混进过 Cell 的 mRNA 疗法和 Nature 的电催化机器人。
+关键词只在标题和摘要前 700 字里匹配，长度由 `lead_chars` 控制。
 
 ## 新增条目的标记
 
@@ -14,15 +14,13 @@
 
 下次同步时徽章会转移到新一批身上，历史仍留在 CHANGELOG 里。
 
-徽章用的是 shields.io 图片，不是 `<mark>`。GitHub 的 sanitizer 会剥掉 `style` 属性，`<mark>` 只有默认的黄色，指定不了颜色。
+徽章用 shields.io 图片。GitHub 会剥掉 `style` 属性，`<mark>` 只有默认黄色。
 
 ## 科室图标
 
 每条论文末尾挂的 emoji 是科室，规则在 [config/specialties.json](config/specialties.json)，`scripts/tag.py` 按标题和摘要里的关键词自动归类，一篇最多三个，按命中次数排序。
 
-用 emoji 而不是彩色徽章，是因为 199 篇每篇挂几个 shields.io 图片就是几百个外链，README 会明显变慢。
-
-有 70 多篇没有科室图标，这些是跨科室的通用工作（基础模型、智能体框架、评测基准），本来就不属于某一科。
+未标科室的是跨科室工作，如基础模型、智能体框架、评测基准。
 
 改了关键词之后跑 `python3 scripts/tag.py --force` 重新全量归类。不加 `--force` 只会给没标过的补，人工改过的不动。
 
