@@ -1,25 +1,17 @@
 # Awesome Medical LLMs in Top Journals
 
-> 只收 **Nature / Science / Cell / Lancet / NEJM / JAMA 正刊与旗舰子刊**（近三年）上的医学大模型与医学基础模型工作。
-> 每周自动抓取 + 人工审校，不做综述附属品，只做长期维护的追踪表。
+医学大模型、医学基础模型的论文清单。收录范围限于 Nature、Science、Cell、Lancet、NEJM、JAMA 的正刊及其旗舰子刊，时间自 2023 年 8 月起。每周从 Europe PMC 自动抓一次，人工过一遍再合并。
 
 [![weekly update](https://github.com/JXLiu-AI/Awesome-Medical-LLM-in-Top-Journals/actions/workflows/update.yml/badge.svg)](https://github.com/JXLiu-AI/Awesome-Medical-LLM-in-Top-Journals/actions/workflows/update.yml)
 ![papers](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/JXLiu-AI/Awesome-Medical-LLM-in-Top-Journals/main/data/papers.json&query=$.papers.length&label=papers)
 
-## 为什么再做一个
+## 范围
 
-现有的医学大模型清单大多是某篇综述的附属仓库，论文见刊之后就停止更新；而按刊物族组织的 AI4X 清单又不聚焦医学大模型。
-本仓库的取舍是：**范围窄（只收顶刊）、更新勤（每周自动化）、可复核（每条都有 DOI 与抓取来源）**。
+刊物白名单在 [config/venues.json](config/venues.json)。npj Digital Medicine、JAMIA、Nature Communications、JAMA Network Open 这几本目前是关着的（`enabled: false`），它们一年有几百篇相关论文，一并收进来会把正刊的工作淹掉。想要的话把对应刊物的 `enabled` 改成 `true`，重跑一次就有了。
 
-范围刻意收紧到"一个人读得完"的量级：npj Digital Medicine、JAMIA、Nature Communications、JAMA Network Open
-这类走量的数字健康刊已在 [config/venues.json](config/venues.json) 里标为 `enabled: false`——
-它们一年产出几百篇 LLM 论文，收进来会把正刊工作淹掉。需要的话把对应刊物的 `enabled` 改成 `true`，重跑一次即可。
+命中关键词在 [config/filters.json](config/filters.json)，只匹配标题和摘要开头，避免讨论段里顺带提一句就被收进来。详细的收录标准见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
-- 收录标准见 [CONTRIBUTING.md](CONTRIBUTING.md)
-- 刊物白名单：[config/venues.json](config/venues.json)（想加刊改这个文件）
-- 命中关键词：[config/filters.json](config/filters.json)
-- 结构化数据：[data/papers.json](data/papers.json)（可直接被别的项目引用）
-- 历次更新流水：[CHANGELOG.md](CHANGELOG.md)
+结构化数据在 [data/papers.json](data/papers.json)，每条都带 DOI，可以直接拿去用。历次新增记录在 [CHANGELOG.md](CHANGELOG.md)。
 
 ## 收录概览
 
@@ -47,12 +39,10 @@
 
 ## 论文列表
 
-<img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top"> = 本次同步新增 ｜ ⭐ = 里程碑工作（人工标注）
-
-历次新增的完整流水见 [CHANGELOG.md](CHANGELOG.md)。
+<img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top"> 是本次同步新增，⭐ 是人工标的重点工作。
 
 <!-- PAPERS:BEGIN -->
-#### 🆕 最近收录
+#### 最近收录
 
 - **[A clinically validated framework for auditing AI chatbot behavior in mental health interactions](https://doi.org/10.1038/s41591-026-04577-2)**<br/>Weilnhammer V et al. · *Nature Medicine* · 2026-08-07
 - **[End-to-end multimodal pathology foundation model with clinical dialogue](https://doi.org/10.1038/s41591-026-04521-4)**<br/>Vorontsov E et al. · *Nature Medicine* · 2026-07-31
@@ -72,7 +62,7 @@
 
 ---
 
-### 🌿 Nature 正刊与子刊
+### Nature 正刊与子刊
 
 <details open>
 <summary><b>Nature</b>（18）</summary>
@@ -240,7 +230,7 @@
 
 </details>
 
-### 🔬 Science 正刊与子刊
+### Science 正刊与子刊
 
 <details open>
 <summary><b>Science</b>（3）</summary>
@@ -258,7 +248,7 @@
 
 </details>
 
-### 🧬 Cell 正刊与子刊
+### Cell 正刊与子刊
 
 <details open>
 <summary><b>Cell</b>（3）</summary>
@@ -269,7 +259,7 @@
 
 </details>
 
-### 🩺 顶级医学期刊
+### 顶级医学期刊
 
 <details open>
 <summary><b>NEJM AI</b>（10）</summary>
@@ -353,7 +343,7 @@
 
 </details>
 
-### 🖼️ 影像与医学信息学旗舰刊
+### 影像与医学信息学旗舰刊
 
 <details open>
 <summary><b>Radiology: Artificial Intelligence</b>（16）</summary>
@@ -379,10 +369,10 @@
 
 <!-- PAPERS:END -->
 
-## 引用
+## 补充与勘误
 
-如果这个列表对你的工作有帮助，欢迎 star 或在综述中引用本仓库。
+漏收、误收、链接失效，欢迎开 Issue 或提 PR。注意 README 是脚本生成的，改动请落在 [data/papers.json](data/papers.json)。
 
 ## License
 
-CC0-1.0（论文元数据来自 Europe PMC，遵循其开放许可）。
+CC0-1.0。论文元数据来自 Europe PMC。

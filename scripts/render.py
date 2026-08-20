@@ -47,7 +47,7 @@ def main():
     for gname, emoji, journals in order:
         if not by_gj.get(gname):
             continue
-        out.append(f"### {emoji} {gname}\n")
+        out.append(f"### {(emoji + ' ') if emoji else ''}{gname}\n")
         for jd, tier in journals:
             items = by_gj[gname].get(jd)
             if not items:
@@ -66,11 +66,11 @@ def main():
     top_md = ""
     if fresh:
         fresh_sorted = sorted(fresh, key=lambda p: p.get("date", ""), reverse=True)
-        top_md += (f"#### 本次更新 · {latest}（新增 {len(fresh)} 篇）\n\n"
+        top_md += (f"#### 本次更新 {latest}，新增 {len(fresh)} 篇\n\n"
                    + "\n".join(row(p, latest) for p in fresh_sorted) + "\n\n")
     if hi:
-        top_md += "#### 🏆 里程碑\n\n" + "\n".join(row(p, latest) for p in hi) + "\n\n"
-    top_md += "#### 🆕 最近收录\n\n" + "\n".join(row(p, latest) for p in recent)
+        top_md += "#### 重点工作\n\n" + "\n".join(row(p, latest) for p in hi) + "\n\n"
+    top_md += "#### 最近收录\n\n" + "\n".join(row(p, latest) for p in recent)
     papers_md = top_md + "\n\n---\n\n" + papers_md
 
     # 统计表
