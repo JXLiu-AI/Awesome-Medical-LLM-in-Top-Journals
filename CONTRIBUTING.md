@@ -8,6 +8,10 @@
 
 关键词只在标题和摘要前 700 字里匹配，长度由 `lead_chars` 控制。
 
+数据源有两个：Europe PMC 和 Crossref。Europe PMC 对 Nature Machine Intelligence、Nature Reviews Bioengineering、NEJM AI 的收录只有 7%~13%，Crossref 按 ISSN 补齐。Crossref 没有文献类型字段，来信和社论靠 `exclude_title_prefix` 的标题前缀挡掉。
+
+Crossref 的 `journals/{issn}` 路由只认一个 ISSN，填错不会报错，返回 0 篇。加刊物时先用 `curl 'https://api.crossref.org/journals/<issn>/works?rows=0'` 确认 total-results 不是 0。
+
 ## 新增条目的标记
 
 每次 `fetch.py` 会给新捞到的论文写一个 `added_batch`，值是抓取当天的日期。`render.py` 读它做三件事：在 README 顶部生成「本次更新」区块、给这批条目挂一个浅粉 NEW 徽章、把这批追加进 [CHANGELOG.md](CHANGELOG.md)。
@@ -37,6 +41,7 @@
 ```bash
 python3 scripts/fetch.py --dry-run   # 看这周有什么新东西
 python3 scripts/fetch.py             # 写入 data/papers.json
+python3 scripts/add.py <DOI>          # 按 DOI 手工加一篇（可跨白名单）
 python3 scripts/tag.py               # 打科室标签
 python3 scripts/triage.py            # 逐条过审
 python3 scripts/render.py            # 重新生成 README 和 CHANGELOG

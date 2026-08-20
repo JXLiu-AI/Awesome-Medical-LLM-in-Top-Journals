@@ -1,5 +1,5 @@
 {
-  "_comment": "刊物白名单。group = README 里的一级分组；aliases = Europe PMC 中该刊 JOURNAL 字段的写法变体（大小写不敏感，但缩写/全称要都列上）。加刊物只改这里。 tier=1 的刊在 README 里默认展开，tier=2 默认折叠。 enabled=false 的刊不抓取也不渲染，想扩范围就改成 true。",
+  "_comment": "刊物白名单。group = README 里的一级分组；aliases = Europe PMC 中该刊 JOURNAL 字段的写法变体（大小写不敏感，但缩写/全称要都列上）。加刊物只改这里。 tier=1 的刊在 README 里默认展开，tier=2 默认折叠。 enabled=false 的刊不抓取也不渲染，想扩范围就改成 true。 issn 用于 Crossref 补抓，Europe PMC 对部分刊收录不全。",
   "groups": [
     {
       "name": "Nature 正刊与子刊",
@@ -12,7 +12,8 @@
             "Nature"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "1476-4687"
         },
         {
           "key": "nat-med",
@@ -21,7 +22,8 @@
             "Nature medicine"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "1546-170X"
         },
         {
           "key": "nat-bme",
@@ -30,7 +32,8 @@
             "Nature biomedical engineering"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "2157-846X"
         },
         {
           "key": "nat-mi",
@@ -39,7 +42,8 @@
             "Nature machine intelligence"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "2522-5839"
         },
         {
           "key": "nat-biotech",
@@ -48,7 +52,8 @@
             "Nature biotechnology"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "1546-1696"
         },
         {
           "key": "nat-methods",
@@ -57,7 +62,8 @@
             "Nature methods"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "1548-7105"
         },
         {
           "key": "nat-cancer",
@@ -66,7 +72,8 @@
             "Nature cancer"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "2662-1347"
         },
         {
           "key": "nat-comms",
@@ -75,7 +82,8 @@
             "Nature communications"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "2041-1723"
         },
         {
           "key": "npj-digimed",
@@ -85,7 +93,8 @@
             "npj digital medicine"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "2398-6352"
         },
         {
           "key": "nat-rev-bioe",
@@ -95,7 +104,8 @@
             "Nature Reviews Bioengineering"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "2731-6092"
         },
         {
           "key": "nat-mental",
@@ -104,7 +114,8 @@
             "Nature mental health"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "2731-6076"
         },
         {
           "key": "nat-aging",
@@ -113,7 +124,8 @@
             "Nature aging"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "2662-8465"
         }
       ]
     },
@@ -129,7 +141,8 @@
             "Science"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "1095-9203"
         },
         {
           "key": "sci-transl",
@@ -138,7 +151,8 @@
             "Science translational medicine"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "1946-6242"
         },
         {
           "key": "sci-adv",
@@ -147,7 +161,8 @@
             "Science advances"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "2375-2548"
         }
       ]
     },
@@ -162,7 +177,8 @@
             "Cell"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "0092-8674"
         },
         {
           "key": "cell-rep-med",
@@ -171,7 +187,8 @@
             "Cell reports. Medicine"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "2666-3791"
         },
         {
           "key": "med",
@@ -180,7 +197,8 @@
             "Med (New York, N.Y.)"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "2666-6340"
         },
         {
           "key": "patterns",
@@ -189,7 +207,8 @@
             "Patterns (New York, N.Y.)"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "2666-3899"
         }
       ]
     },
@@ -204,7 +223,8 @@
             "The New England journal of medicine"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "0028-4793"
         },
         {
           "key": "nejm-ai",
@@ -213,7 +233,8 @@
             "NEJM AI"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "2836-9386"
         },
         {
           "key": "lancet",
@@ -222,7 +243,8 @@
             "Lancet (London, England)"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "0140-6736"
         },
         {
           "key": "lancet-digi",
@@ -231,7 +253,8 @@
             "The Lancet. Digital health"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "2589-7500"
         },
         {
           "key": "jama",
@@ -240,7 +263,8 @@
             "JAMA"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "0098-7484"
         },
         {
           "key": "jama-netw",
@@ -249,7 +273,8 @@
             "JAMA network open"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "2574-3805"
         },
         {
           "key": "jama-im",
@@ -258,7 +283,8 @@
             "JAMA internal medicine"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "2168-6114"
         },
         {
           "key": "bmj",
@@ -267,7 +293,8 @@
             "BMJ (Clinical research ed.)"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "1756-1833"
         },
         {
           "key": "ebiomedicine",
@@ -276,7 +303,8 @@
             "EBioMedicine"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "2352-3964"
         }
       ]
     },
@@ -291,7 +319,8 @@
             "Radiology"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "1527-1315"
         },
         {
           "key": "rad-ai",
@@ -300,7 +329,8 @@
             "Radiology. Artificial intelligence"
           ],
           "tier": 1,
-          "enabled": true
+          "enabled": true,
+          "issn": "2638-6100"
         },
         {
           "key": "jamia",
@@ -309,7 +339,8 @@
             "Journal of the American Medical Informatics Association : JAMIA"
           ],
           "tier": 2,
-          "enabled": false
+          "enabled": false,
+          "issn": "1527-974X"
         }
       ]
     }

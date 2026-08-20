@@ -41,9 +41,11 @@ def main():
     if latest == "initial":
         latest = ""   # 首次建库不标 NEW
     fresh = [p for p in papers if p.get("added_batch") == latest] if latest else []
+    manual_j = {p["journal"] for p in papers if p.get("manual")}
 
     order = [(g["name"], g.get("emoji", ""),
-              [(j["display"], j.get("tier", 2)) for j in g["journals"] if j.get("enabled", True)])
+              [(j["display"], j.get("tier", 2)) for j in g["journals"]
+               if j.get("enabled", True) or j["display"] in manual_j])
              for g in venues["groups"]]
     by_gj = defaultdict(lambda: defaultdict(list))
     for p in papers:

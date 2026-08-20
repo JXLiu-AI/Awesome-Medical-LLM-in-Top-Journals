@@ -70,7 +70,62 @@ def _hit(blob, terms):
     return None
 
 
+CROSSREF = "https://api.crossref.org/journals/{issn}/works"
+
+
+def query_crossref(issn, date_from):
+    """Crossref 按 ISSN 拉全刊。Europe PMC 对 Nature Machine Intelligence、
+    Nature Reviews Bioengineering、NEJM AI 这几本的收录只有 7%~13%，靠它补齐。"""
+    cur, out = "*", []
+    while True:
+        params = urllib.parse.urlencode({
+            "filter": f"from-pub-date:{date_from},type:journal-article",
+            "rows": 1000, "cursor": cur,
+            "select": "DOI,title,abstract,container-title,published,author,type",
+            "mailto": "noreply@example.com",
+        })
+        req = urllib.request.Request(CROSSREF.format(issn=issn) + "?" + params, headers=UA)
+        with urllib.request.urlopen(req, timeout=90) as r:
+            d = json.loads(r.read().decode("utf-8"))
+        items = d["message"].get("items", [])
+        out.extend(items)
+        nxt = d["message"].get("next-cursor")
+        if not items or not nxt or nxt == cur:
+            break
+        cur = nxt
+        time.sleep(0.2)
+    return out
+
+
+def cr_to_epmc(it):
+    """把 Crossref 记录整形成 Europe PMC 的字段名，好走同一套 matches()。"""
+    title = " ".join(it.get("title") or []).strip()
+    ab = re.sub(r"<[^>]+>", " ", it.get("abstract", "") or "")
+    ab = re.sub(r"\s+", " ", ab).strip()
+    parts = (it.get("published", {}) or {}).get("date-parts", [[]])[0]
+    date = "-".join(f"{p:02d}" if i else str(p) for i, p in enumerate(parts)) if parts else ""
+    while len(date.split("-")) < 3:
+        date += "-01"
+    au = it.get("author") or []
+    astr = ", ".join(f"{a.get('family','')} {a.get('given','')[:1]}".strip() for a in au[:3])
+    sub = (it.get("subtype") or "").lower()
+    pt = ["journal article"] if sub in ("", "article") else [sub]
+    if re.match(r"^(author )?correction|^erratum|^retraction", title, re.I):
+        pt = ["correction"]
+    return {"title": title, "abstractText": ab, "doi": it.get("DOI", "").lower(),
+            "pmid": "", "firstPublicationDate": date, "pubYear": date[:4],
+            "authorString": astr, "pubTypeList": {"pubType": pt}}
+
+
+def bad_title(title, flt):
+    """Crossref 记录没有 pubType，只能从标题识别来信、社论、勘误。"""
+    t = re.sub(r"^[\s\"'\u201c\u2018]+", "", (title or "").lower())
+    return any(re.match(rf"{re.escape(x)}\b", t) for x in flt.get("exclude_title_prefix", []))
+
+
 def matches(rec, flt):
+    if bad_title(rec.get("title", ""), flt):
+        return False
     types = pub_types(rec)
     bad = [t.lower() for t in flt.get("exclude_pub_types", [])]
     if any(any(b in t for b in bad) for t in types):
@@ -111,6 +166,7 @@ def to_entry(rec, group, journal_display):
         "code": code.group(0).rstrip(".)") if code else "",
         "abstract": abstract[:600],
         "pub_types": pub_types(rec),
+        "source": "epmc" if rec.get("pmid") else "crossref",
         "added_batch": BATCH,   # 本条是哪一次同步捞进来的，render 据此标"本次新增"
         "tags": [],          # 人工补：模型类型 / 科室 / 任务
         "highlight": False,  # 人工标：值得置顶的重磅工作
@@ -135,6 +191,11 @@ def main():
             except Exception as e:
                 print(f"  ! {j['display']} 抓取失败: {e}", file=sys.stderr)
                 continue
+            if j.get("issn"):
+                try:
+                    recs += [cr_to_epmc(x) for x in query_crossref(j["issn"], flt["date_from"])]
+                except Exception as e:
+                    print(f"  ! {j['display']} Crossref 失败: {e}", file=sys.stderr)
             hit = [r for r in recs if matches(r, flt)]
             fresh = 0
             for r in hit:
