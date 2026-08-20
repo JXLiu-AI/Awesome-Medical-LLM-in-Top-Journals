@@ -1,0 +1,30 @@
+name: update
+on:
+  schedule:
+    - cron: "0 1 * * 1"   # 每周一 UTC 01:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch new papers
+        run: python3 -u scripts/fetch.py | tee /tmp/fetch.log
+      - name: Render README
+        run: python3 scripts/render.py
+      - name: Open PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: auto/weekly-update
+          title: "chore: 本周新增医学大模型顶刊论文"
+          commit-message: "chore: weekly paper sync"
+          body-path: /tmp/fetch.log
+          delete-branch: true

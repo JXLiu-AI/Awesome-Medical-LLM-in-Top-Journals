@@ -1,0 +1,317 @@
+{
+  "_comment": "刊物白名单。group = README 里的一级分组；aliases = Europe PMC 中该刊 JOURNAL 字段的写法变体（大小写不敏感，但缩写/全称要都列上）。加刊物只改这里。 tier=1 的刊在 README 里默认展开，tier=2 默认折叠。 enabled=false 的刊不抓取也不渲染，想扩范围就改成 true。",
+  "groups": [
+    {
+      "name": "Nature 正刊与子刊",
+      "emoji": "🌿",
+      "journals": [
+        {
+          "key": "nature",
+          "display": "Nature",
+          "aliases": [
+            "Nature"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "nat-med",
+          "display": "Nature Medicine",
+          "aliases": [
+            "Nature medicine"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "nat-bme",
+          "display": "Nature Biomedical Engineering",
+          "aliases": [
+            "Nature biomedical engineering"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "nat-mi",
+          "display": "Nature Machine Intelligence",
+          "aliases": [
+            "Nature machine intelligence"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "nat-biotech",
+          "display": "Nature Biotechnology",
+          "aliases": [
+            "Nature biotechnology"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "nat-methods",
+          "display": "Nature Methods",
+          "aliases": [
+            "Nature methods"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "nat-cancer",
+          "display": "Nature Cancer",
+          "aliases": [
+            "Nature cancer"
+          ],
+          "tier": 2,
+          "enabled": false
+        },
+        {
+          "key": "nat-comms",
+          "display": "Nature Communications",
+          "aliases": [
+            "Nature communications"
+          ],
+          "tier": 2,
+          "enabled": false
+        },
+        {
+          "key": "npj-digimed",
+          "display": "npj Digital Medicine",
+          "aliases": [
+            "NPJ digital medicine",
+            "npj digital medicine"
+          ],
+          "tier": 2,
+          "enabled": false
+        },
+        {
+          "key": "nat-rev-bioe",
+          "display": "Nature Reviews Bioengineering",
+          "aliases": [
+            "Nature reviews. Bioengineering",
+            "Nature Reviews Bioengineering"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "nat-mental",
+          "display": "Nature Mental Health",
+          "aliases": [
+            "Nature mental health"
+          ],
+          "tier": 2,
+          "enabled": false
+        },
+        {
+          "key": "nat-aging",
+          "display": "Nature Aging",
+          "aliases": [
+            "Nature aging"
+          ],
+          "tier": 2,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "name": "Science 正刊与子刊",
+      "emoji": "🔬",
+      "journals": [
+        {
+          "key": "science",
+          "display": "Science",
+          "aliases": [
+            "Science (New York, N.Y.)",
+            "Science"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "sci-transl",
+          "display": "Science Translational Medicine",
+          "aliases": [
+            "Science translational medicine"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "sci-adv",
+          "display": "Science Advances",
+          "aliases": [
+            "Science advances"
+          ],
+          "tier": 2,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "name": "Cell 正刊与子刊",
+      "emoji": "🧬",
+      "journals": [
+        {
+          "key": "cell",
+          "display": "Cell",
+          "aliases": [
+            "Cell"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "cell-rep-med",
+          "display": "Cell Reports Medicine",
+          "aliases": [
+            "Cell reports. Medicine"
+          ],
+          "tier": 2,
+          "enabled": false
+        },
+        {
+          "key": "med",
+          "display": "Med",
+          "aliases": [
+            "Med (New York, N.Y.)"
+          ],
+          "tier": 2,
+          "enabled": false
+        },
+        {
+          "key": "patterns",
+          "display": "Patterns",
+          "aliases": [
+            "Patterns (New York, N.Y.)"
+          ],
+          "tier": 2,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "name": "顶级医学期刊",
+      "emoji": "🩺",
+      "journals": [
+        {
+          "key": "nejm",
+          "display": "NEJM",
+          "aliases": [
+            "The New England journal of medicine"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "nejm-ai",
+          "display": "NEJM AI",
+          "aliases": [
+            "NEJM AI"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "lancet",
+          "display": "The Lancet",
+          "aliases": [
+            "Lancet (London, England)"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "lancet-digi",
+          "display": "The Lancet Digital Health",
+          "aliases": [
+            "The Lancet. Digital health"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "jama",
+          "display": "JAMA",
+          "aliases": [
+            "JAMA"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "jama-netw",
+          "display": "JAMA Network Open",
+          "aliases": [
+            "JAMA network open"
+          ],
+          "tier": 2,
+          "enabled": false
+        },
+        {
+          "key": "jama-im",
+          "display": "JAMA Internal Medicine",
+          "aliases": [
+            "JAMA internal medicine"
+          ],
+          "tier": 2,
+          "enabled": false
+        },
+        {
+          "key": "bmj",
+          "display": "BMJ",
+          "aliases": [
+            "BMJ (Clinical research ed.)"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "ebiomedicine",
+          "display": "eBioMedicine",
+          "aliases": [
+            "EBioMedicine"
+          ],
+          "tier": 2,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "name": "影像与医学信息学旗舰刊",
+      "emoji": "🖼️",
+      "journals": [
+        {
+          "key": "radiology",
+          "display": "Radiology",
+          "aliases": [
+            "Radiology"
+          ],
+          "tier": 2,
+          "enabled": false
+        },
+        {
+          "key": "rad-ai",
+          "display": "Radiology: Artificial Intelligence",
+          "aliases": [
+            "Radiology. Artificial intelligence"
+          ],
+          "tier": 1,
+          "enabled": true
+        },
+        {
+          "key": "jamia",
+          "display": "JAMIA",
+          "aliases": [
+            "Journal of the American Medical Informatics Association : JAMIA"
+          ],
+          "tier": 2,
+          "enabled": false
+        }
+      ]
+    }
+  ]
+}
