@@ -52,14 +52,20 @@ def pub_types(rec):
     return [str(t).lower() for t in (pt if isinstance(pt, list) else [pt])]
 
 
+def _pat(term):
+    """前边界一律要求，后边界只对缩写类短词要求。
+
+    前边界挡住 behavioral health 命中 oral health；
+    后边界只给 PET、ECG、EHR 这类短词，好让 radiolog、patholog 这些词干仍能匹配 radiology、pathology。
+    """
+    t = term.lower()
+    tail = "(?![a-z0-9])" if (len(t) <= 6 and " " not in t) else ""
+    return rf"(?<![a-z0-9]){re.escape(t)}{tail}"
+
+
 def _hit(blob, terms):
-    """短词（如 LLM、GPT-4、Med）按词边界匹配，长短语按子串匹配。"""
     for t in terms:
-        t = t.lower()
-        if len(t) <= 6 and " " not in t:
-            if re.search(rf"(?<![a-z0-9]){re.escape(t)}(?![a-z0-9])", blob):
-                return t
-        elif t in blob:
+        if re.search(_pat(t), blob):
             return t
     return None
 

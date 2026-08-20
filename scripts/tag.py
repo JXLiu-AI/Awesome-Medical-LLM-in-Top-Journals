@@ -12,16 +12,19 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 
+def _pat(term):
+    """前边界一律要求，后边界只对缩写类短词要求。
+
+    前边界挡住 behavioral health 命中 oral health；
+    后边界只给 PET、ECG、EHR 这类短词，好让 radiolog、patholog 这些词干仍能匹配 radiology、pathology。
+    """
+    t = term.lower()
+    tail = "(?![a-z0-9])" if (len(t) <= 6 and " " not in t) else ""
+    return rf"(?<![a-z0-9]){re.escape(t)}{tail}"
+
+
 def hits(blob, kws):
-    """返回命中次数。短词按词边界匹配，避免 PET 命中 competition、ICU 命中 medicus。"""
-    n = 0
-    for k in kws:
-        k = k.lower()
-        if len(k) <= 6 and " " not in k:
-            n += len(re.findall(rf"(?<![a-z0-9]){re.escape(k)}(?![a-z0-9])", blob))
-        else:
-            n += blob.count(k)
-    return n
+    return sum(len(re.findall(_pat(k), blob)) for k in kws)
 
 
 def main():

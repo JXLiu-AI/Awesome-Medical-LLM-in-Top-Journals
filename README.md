@@ -34,7 +34,7 @@
 每条末尾的图标是科室，规则在 [config/specialties.json](config/specialties.json)：
 
 <!-- LEGEND:BEGIN -->
-🩻 放射影像（33） ｜ 🔬 病理（26） ｜ 🎗️ 肿瘤（21） ｜ 📋 病历文书（14） ｜ 🧬 基因组（10） ｜ 💊 药学（9） ｜ 🧩 精神心理（8） ｜ 👁️ 眼科（8） ｜ 🌍 公共卫生（8） ｜ 🩺 全科基层（6） ｜ 🧠 神经（6） ｜ 🚑 急诊重症（5） ｜ 🫀 心血管（5） ｜ 🎓 医学教育（5） ｜ 🦷 口腔（2） ｜ 🔎 消化内镜（2） ｜ 🩹 皮肤（2） ｜ 🌊 超声（2） ｜ ✂️ 外科手术（2） ｜ 🦴 骨科（1） ｜ 🫁 呼吸（1）
+🩻 放射影像（33） ｜ 🔬 病理（26） ｜ 🎗️ 肿瘤（21） ｜ 📋 病历文书（14） ｜ 🧬 基因组（10） ｜ 💊 药学（9） ｜ 🧩 精神心理（8） ｜ 👁️ 眼科（8） ｜ 🌍 公共卫生（8） ｜ 🩺 全科基层（6） ｜ 🧠 神经（6） ｜ 🚑 急诊重症（5） ｜ 🫀 心血管（5） ｜ 🎓 医学教育（5） ｜ 🔎 消化内镜（2） ｜ 🩹 皮肤（2） ｜ 🌊 超声（2） ｜ ✂️ 外科手术（2） ｜ 🦴 骨科（1） ｜ 🦷 口腔（1） ｜ 🫁 呼吸（1）
 <!-- LEGEND:END -->
 
 <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top"> 是本次同步新增，⭐ 是人工标的重点工作。历次新增见 [CHANGELOG.md](CHANGELOG.md)。
@@ -119,7 +119,7 @@
 - **[Global distribution of research efforts, disease burden, and impact of US public funding withdrawal](https://doi.org/10.1038/s41591-025-03923-0)**<br/>Schmallenbach L et al. · *Nature Medicine* · 2025-08-27
 - **[A personal health large language model for sleep and fitness coaching](https://doi.org/10.1038/s41591-025-03888-0)**<br/>Khasentino J et al. · *Nature Medicine* · 2025-08-14
 - **[Large language model-based biological age prediction in large-scale populations](https://doi.org/10.1038/s41591-025-03856-8)**<br/>Li Y et al. · *Nature Medicine* · 2025-07-23
-- **[Real-world deployment of a fine-tuned pathology foundation model for lung cancer biomarker detection](https://doi.org/10.1038/s41591-025-03780-x)**<br/>Campanella G et al. · *Nature Medicine* · 2025-07-09 🔬🎗️🧬
+- **[Real-world deployment of a fine-tuned pathology foundation model for lung cancer biomarker detection](https://doi.org/10.1038/s41591-025-03780-x)**<br/>Campanella G et al. · *Nature Medicine* · 2025-07-09 🧬🔬🎗️
 - **[A multimodal vision foundation model for clinical dermatology](https://doi.org/10.1038/s41591-025-03747-y)**<br/>Yan S et al. · *Nature Medicine* · 2025-06-06 🩹🎗️
 - **[A generative AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis: a randomized phase 2a trial](https://doi.org/10.1038/s41591-025-03743-2)**<br/>Xu Z et al. · *Nature Medicine* · 2025-06-03 🫁
 - **[The MI-CLAIM-GEN checklist for generative artificial intelligence in health](https://doi.org/10.1038/s41591-024-03470-0)**<br/>Miao BY et al. · *Nature Medicine* · 2025-05-01
@@ -214,7 +214,7 @@
 <summary><b>Nature Methods</b>（5）</summary>
 
 - **[Novae: a graph-based foundation model for spatial transcriptomics data](https://doi.org/10.1038/s41592-025-02899-6)** [[code]](https://github.com/MICS-Lab/novae)<br/>Blampey Q et al. · *Nature Methods* · 2025-12-10
-- **[A visual-omics foundation model to bridge histopathology with spatial transcriptomics](https://doi.org/10.1038/s41592-025-02707-1)**<br/>Chen W et al. · *Nature Methods* · 2025-05-29 🔬🧬
+- **[A visual-omics foundation model to bridge histopathology with spatial transcriptomics](https://doi.org/10.1038/s41592-025-02707-1)**<br/>Chen W et al. · *Nature Methods* · 2025-05-29 🧬🔬
 - **[A foundation model unlocks unified biomedical image analysis](https://doi.org/10.1038/s41592-024-02519-9)**<br/>Huang Y et al. · *Nature Methods* · 2025-01-01
 - **[A foundation model for joint segmentation, detection and recognition of biomedical objects across nine modalities](https://doi.org/10.1038/s41592-024-02499-w)**<br/>Zhao T et al. · *Nature Methods* · 2024-11-18
 - **[Large-scale foundation model on single-cell transcriptomics](https://doi.org/10.1038/s41592-024-02305-7)**<br/>Hao M et al. · *Nature Methods* · 2024-06-06
@@ -263,7 +263,7 @@
 <summary><b>NEJM AI</b>（10）</summary>
 
 - **[LLM-Assisted Reanalysis of Unsolved Rare Disease Genomes Increases Diagnostic Yield](https://doi.org/10.1056/aics2501343)**<br/>Jaech A et al. · *NEJM AI* · 2026-06-25 🧬
-- **[Assessing Generative AI Chatbots for Alcohol Misuse Support: A Longitudinal Simulation Study](https://doi.org/10.1056/aics2500676)**<br/>Uscher-Pines L et al. · *NEJM AI* · 2026-01-22 🦷
+- **[Assessing Generative AI Chatbots for Alcohol Misuse Support: A Longitudinal Simulation Study](https://doi.org/10.1056/aics2500676)**<br/>Uscher-Pines L et al. · *NEJM AI* · 2026-01-22
 - **[A foundation transformer model with self-supervised learning for ECG-based assessment of cardiac and coronary function](https://doi.org/10.1056/aioa2500164)**<br/>Moody JB et al. · *NEJM AI* · 2025-11-26 🫀
 - **[An Electrocardiogram Foundation Model Built on over 10 Million Recordings](https://doi.org/10.1056/aioa2401033)**<br/>Li J et al. · *NEJM AI* · 2025-06-26 🫀
 - **[The use of artificial intelligence for cancer therapeutic decision-making](https://doi.org/10.1056/aira2401164)**<br/>Elemento O et al. · *NEJM AI* · 2025-04-17 🎗️🩻🔬
