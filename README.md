@@ -3,8 +3,8 @@
 > 只收 **Nature / Science / Cell / Lancet / NEJM / JAMA 正刊与旗舰子刊**（近三年）上的医学大模型与医学基础模型工作。
 > 每周自动抓取 + 人工审校，不做综述附属品，只做长期维护的追踪表。
 
-[![weekly update](https://github.com/OWNER/REPO/actions/workflows/update.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/update.yml)
-![papers](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/OWNER/REPO/main/data/papers.json&query=$.papers.length&label=papers)
+[![weekly update](https://github.com/JXLiu-AI/Awesome-Medical-LLM-in-Top-Journals/actions/workflows/update.yml/badge.svg)](https://github.com/JXLiu-AI/Awesome-Medical-LLM-in-Top-Journals/actions/workflows/update.yml)
+![papers](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/JXLiu-AI/Awesome-Medical-LLM-in-Top-Journals/main/data/papers.json&query=$.papers.length&label=papers)
 
 ## 为什么再做一个
 
