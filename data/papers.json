@@ -22,7 +22,8 @@
       "specialties": [
         "genom"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aip2600583",
@@ -44,7 +45,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aip2600239",
@@ -66,7 +68,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-026-04577-2",
@@ -90,7 +93,8 @@
       "specialties": [
         "psych"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-026-04521-4",
@@ -114,7 +118,8 @@
       "specialties": [
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "PRISM2"
     },
     {
       "doi": "10.1016/j.landig.2026.101013",
@@ -136,7 +141,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2026.101007",
@@ -158,7 +164,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "MerMED-FM"
     },
     {
       "doi": "10.1038/s41551-026-01739-y",
@@ -182,7 +189,8 @@
       "specialties": [
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "Pathology-CoT"
     },
     {
       "doi": "10.1038/s41551-026-01741-4",
@@ -206,7 +214,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "CLEAR"
     },
     {
       "doi": "10.1038/s41467-026-75718-x",
@@ -231,7 +240,8 @@
       "highlight": false,
       "manual": true,
       "status": "kept",
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-026-01740-5",
@@ -255,7 +265,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "MARS"
     },
     {
       "doi": "10.1126/science.adz4351",
@@ -277,7 +288,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-026-04502-7",
@@ -301,7 +313,8 @@
       "specialties": [
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "COMPASS"
     },
     {
       "doi": "10.1038/s41551-026-01736-1",
@@ -327,7 +340,8 @@
         "ortho",
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "BoneCoT"
     },
     {
       "doi": "10.1001/jama.2026.9507",
@@ -349,7 +363,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.250923",
@@ -371,7 +386,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "ReclAIm"
     },
     {
       "doi": "10.1148/ryai.250982",
@@ -396,7 +412,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-026-04494-4",
@@ -420,7 +437,8 @@
       "specialties": [
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "HemaGuide"
     },
     {
       "doi": "10.1038/s41591-026-04503-6",
@@ -447,7 +465,8 @@
         "prim",
         "ehr"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-026-04501-8",
@@ -469,7 +488,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-026-01713-8",
@@ -494,7 +514,8 @@
         "radiol",
         "dent"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aics2501343",
@@ -518,7 +539,8 @@
       "specialties": [
         "genom"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1126/scitranslmed.adz4172",
@@ -543,7 +565,8 @@
         "genom",
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "AI-CURA"
     },
     {
       "doi": "10.1038/s41586-026-10764-5",
@@ -567,7 +590,8 @@
       "specialties": [
         "drug"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-026-10675-5",
@@ -591,7 +615,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-026-01719-2",
@@ -615,7 +640,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "BRIDGE"
     },
     {
       "doi": "10.1038/s41591-026-04457-9",
@@ -637,29 +663,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
-    },
-    {
-      "doi": "10.1126/scitranslmed.ads4699",
-      "pmid": "",
-      "title": "Deep learning–enabled discovery of antibiotics effective against\n                    <i>Neisseria gonorrhoeae</i>",
-      "journal": "Science Translational Medicine",
-      "group": "Science 正刊与子刊",
-      "date": "2026-06-17",
-      "year": "2026",
-      "first_author": "Anahtar M",
-      "url": "https://doi.org/10.1126/scitranslmed.ads4699",
-      "code": "",
-      "abstract": "Neisseria gonorrhoeae is a common Gram-negative pathogen with increasing resistance to all recommended antibiotics. There is a critical need to improve the efficiency of the antibiotic hit discovery process to replenish the drug development pipeline. Here, we show that deep learning models can augment high-throughput screens to identify readily available molecules with narrow-spectrum activity against difficult-to-treat strains of N. gonorrhoeae . We phenotypically tested 38,650 small molecules for N. gonorrhoeae growth inhibition to train a predictive graph neural network (GNN) model. We benc",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-026-04431-5",
@@ -681,7 +686,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-026-01696-6",
@@ -705,7 +711,8 @@
       "specialties": [
         "path"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2026.101014",
@@ -729,33 +736,8 @@
       "specialties": [
         "psych"
       ],
-      "source": "epmc"
-    },
-    {
-      "doi": "10.1016/s0140-6736(26)00693-8",
-      "pmid": "42263727",
-      "title": "Global advances in health artificial intelligence: a workforce imperative",
-      "journal": "The Lancet",
-      "group": "顶级医学期刊",
-      "date": "2026-06-09",
-      "year": "2026",
-      "first_author": "Dai T",
-      "url": "https://doi.org/10.1016/s0140-6736(26)00693-8",
-      "code": "",
-      "abstract": "The global health workforce is approaching a breaking point, driven by administrative overload, inefficient workflows, burnout, and accelerating retirements, with a projected global shortfall of 11 million health professionals by 2030. This urgency coincides with the rapid emergence of clinical artificial intelligence (AI) tools, especially generative systems now embedded in documentation, triage, and workflow support. Therefore, AI should be framed less as a substitute for clinicians than as a retention strategy that preserves careers, expertise, and the human core of care. High-impact uses i",
-      "pub_types": [
-        "review",
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "emerg",
-        "pubh"
-      ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2026.101011",
@@ -780,7 +762,8 @@
       "specialties": [
         "drug"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-026-04403-9",
@@ -805,7 +788,8 @@
         "path",
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2026.101064",
@@ -829,7 +813,8 @@
       "specialties": [
         "psych"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2026.100982",
@@ -851,7 +836,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": "Co-intelligence"
     },
     {
       "doi": "10.1056/ailtr2600197",
@@ -873,7 +859,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2026.100991",
@@ -898,7 +885,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-026-04371-0",
@@ -921,29 +909,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
-    },
-    {
-      "doi": "10.1038/s41587-026-03128-x",
-      "pmid": "",
-      "title": "Deep peptide recognition profiling decodes TCR specificity and enables disease-associated antigen discovery",
-      "journal": "Nature Biotechnology",
-      "group": "Nature 正刊与子刊",
-      "date": "2026-05-13",
-      "year": "2026",
-      "first_author": "Wang N",
-      "url": "https://doi.org/10.1038/s41587-026-03128-x",
-      "code": "",
-      "abstract": "Abstract Predicting T cell receptor (TCR) specificity on the basis of sequence is challenging because TCRs of similar sequence can recognize entirely different antigens, whereas TCRs of different sequence can recognize the same antigens. Here we present a system that integrates high-throughput yeast display with fine-tuned protein language models (pLMs) to generate deep peptide recognition profiles (PRPs) for individual TCRs, each detailing binding against millions of peptides. We provide detailed PRPs for a panel of HLA-B*27:05-restricted TCRs from persons with ankylosing spondylitis and acut",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "crossref"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-026-04427-1",
@@ -967,7 +934,8 @@
       "specialties": [
         "emerg"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.250585",
@@ -991,7 +959,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.250714",
@@ -1016,7 +985,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-026-01653-3",
@@ -1038,7 +1008,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.250600",
@@ -1062,7 +1033,8 @@
       "specialties": [
         "onco"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1126/science.adz4433",
@@ -1084,7 +1056,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-026-04357-y",
@@ -1110,7 +1083,8 @@
         "path",
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s42256-026-01224-w",
@@ -1134,7 +1108,8 @@
       "specialties": [
         "psych"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-026-01662-2",
@@ -1158,7 +1133,8 @@
       "specialties": [
         "ophth"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "OCTCube-M"
     },
     {
       "doi": "10.1038/s41551-026-01666-y",
@@ -1183,7 +1159,8 @@
         "radiol",
         "neuro"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aioa2501001",
@@ -1205,7 +1182,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-026-01668-w",
@@ -1231,30 +1209,8 @@
         "path",
         "neuro"
       ],
-      "source": "epmc"
-    },
-    {
-      "doi": "10.1038/s41551-026-01636-4",
-      "pmid": "41981312",
-      "title": "Phenotypic prediction of missense variants via deep contrastive learning",
-      "journal": "Nature Biomedical Engineering",
-      "group": "Nature 正刊与子刊",
-      "date": "2026-04-14",
-      "year": "2026",
-      "first_author": "Wen J",
-      "url": "https://doi.org/10.1038/s41551-026-01636-4",
-      "code": "",
-      "abstract": "Missense variants (MVs) influence clinical phenotypes, but our understanding of their phenotypic consequences remains constrained. Existing computational approaches to interpret MVs predominantly assess their pathogenicity, without considering phenotypic heterogeneity. We present a machine-learning-based method, PheMART, to predict the clinical phenotypic consequences of MVs. PheMART integrates comprehensive variant and phenotype characterizations by leveraging a robust combination of multiple resources involving protein language models, protein-protein interactions, protein domains, medical k",
-      "pub_types": [
-        "research-article",
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2026.100980",
@@ -1279,7 +1235,8 @@
       "specialties": [
         "ophth"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/s0140-6736(26)00464-2",
@@ -1303,7 +1260,8 @@
       "specialties": [
         "pubh"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2025.100977",
@@ -1326,11 +1284,12 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [
-        "path",
         "neuro",
+        "path",
         "genom"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-026-01634-6",
@@ -1352,7 +1311,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "BioMedAgent"
     },
     {
       "doi": "10.1056/aioa2500595",
@@ -1374,7 +1334,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": "MedVersa"
     },
     {
       "doi": "10.1038/s41592-026-03044-7",
@@ -1399,7 +1360,8 @@
       "specialties": [
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "LazySlide"
     },
     {
       "doi": "10.1038/s41591-026-04278-w",
@@ -1424,7 +1386,8 @@
       "specialties": [
         "psych"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-026-04252-6",
@@ -1447,7 +1410,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-026-10181-8",
@@ -1472,7 +1436,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "Merlin"
     },
     {
       "doi": "10.1038/s41591-026-04229-5",
@@ -1496,34 +1461,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
-    },
-    {
-      "doi": "10.1038/s41586-026-10323-y",
-      "pmid": "41775935",
-      "title": "Genetically encoded assembly recorder temporally resolves cellular history",
-      "journal": "Nature",
-      "group": "Nature 正刊与子刊",
-      "date": "2026-03-03",
-      "year": "2026",
-      "first_author": "Yan Y",
-      "url": "https://doi.org/10.1038/s41586-026-10323-y",
-      "code": "",
-      "abstract": "Cells constantly change their molecular state in response to internal and external cues<sup>1</sup>. Mapping cellular activity in tissues with spatiotemporal precision is essential for understanding organ physiology, pathology and regenerative processes. Current cell-sensing modalities primarily rely on either end point analysis that takes static snapshots<sup>2</sup> or real-time sensing that monitors a small subset of cells<sup>3,4</sup>. Here we introduce granularly expanding memory for intracellular narrative integration (GEMINI), an in cellulo recording platform that leverages a computati",
-      "pub_types": [
-        "research support, non-u.s. gov't",
-        "research-article",
-        "journal article",
-        "research support, n.i.h., extramural"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "path"
-      ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.250477",
@@ -1547,7 +1486,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.250203",
@@ -1571,7 +1511,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.250651",
@@ -1596,7 +1537,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2025.100953",
@@ -1622,7 +1564,8 @@
         "genom",
         "pubh"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "RareArena"
     },
     {
       "doi": "10.1038/s42256-026-01180-5",
@@ -1647,7 +1590,8 @@
       "specialties": [
         "cardio"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41587-026-03035-1",
@@ -1672,7 +1616,8 @@
       "specialties": [
         "drug"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-026-04297-7",
@@ -1697,7 +1642,8 @@
       "specialties": [
         "emerg"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2025.100967",
@@ -1721,7 +1667,8 @@
       "specialties": [
         "ophth"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-025-10097-9",
@@ -1748,7 +1695,8 @@
         "genom",
         "prim"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "DeepRare"
     },
     {
       "doi": "10.1016/j.landig.2025.100960",
@@ -1775,7 +1723,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-025-01599-y",
@@ -1799,7 +1748,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "CT-CLIP"
     },
     {
       "doi": "10.1038/s41591-025-04074-y",
@@ -1825,7 +1775,8 @@
       "specialties": [
         "pubh"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-04190-9",
@@ -1851,7 +1802,8 @@
       "specialties": [
         "cardio"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-025-01608-0",
@@ -1876,7 +1828,8 @@
         "radiol",
         "neuro"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-026-04215-x",
@@ -1898,7 +1851,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-04184-7",
@@ -1923,7 +1877,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2025.100943",
@@ -1951,7 +1906,8 @@
         "genom",
         "drug"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "CARDBiomedBench"
     },
     {
       "doi": "10.1016/j.landig.2025.100931",
@@ -1974,7 +1930,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1001/jama.2025.23744",
@@ -1998,7 +1955,8 @@
       "specialties": [
         "psych"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-025-01587-2",
@@ -2023,7 +1981,8 @@
         "onco",
         "genom"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aics2500676",
@@ -2046,7 +2005,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aics2500239",
@@ -2068,7 +2028,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-04151-2",
@@ -2093,7 +2054,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "MedHELM"
     },
     {
       "doi": "10.1038/s41591-025-04176-7",
@@ -2119,7 +2081,8 @@
       "specialties": [
         "prim"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-04133-4",
@@ -2144,7 +2107,8 @@
       "specialties": [
         "psych"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "SleepFM"
     },
     {
       "doi": "10.1038/s41551-025-01574-7",
@@ -2168,7 +2132,8 @@
       "specialties": [
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-04042-6",
@@ -2195,7 +2160,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "GenDSA-V2"
     },
     {
       "doi": "10.1148/ryai.240646",
@@ -2221,7 +2187,8 @@
         "radiol",
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aidbp2500418",
@@ -2245,7 +2212,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2025.100949",
@@ -2269,7 +2237,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2025.100950",
@@ -2291,7 +2260,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2025.100926",
@@ -2316,9 +2286,11 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [
+        "peds",
         "ehr"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "NeonatalBERT"
     },
     {
       "doi": "10.1016/j.landig.2025.100917",
@@ -2341,7 +2313,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41592-025-02899-6",
@@ -2363,7 +2336,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "Novae"
     },
     {
       "doi": "10.1038/s42256-025-01148-x",
@@ -2387,7 +2361,8 @@
       "specialties": [
         "path"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1001/jama.2025.19143",
@@ -2411,7 +2386,8 @@
       "specialties": [
         "pubh"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1136/bmj-2025-085324",
@@ -2433,7 +2409,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2025.100938",
@@ -2455,7 +2432,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aioa2500164",
@@ -2480,7 +2458,8 @@
       "specialties": [
         "cardio"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aioa2501000",
@@ -2506,7 +2485,8 @@
         "ehr",
         "prim"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1136/bmj-2025-085323",
@@ -2528,7 +2508,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2025.100922",
@@ -2550,7 +2531,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-025-01544-z",
@@ -2575,7 +2557,8 @@
         "resp",
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "MedMPT"
     },
     {
       "doi": "10.1038/s41591-025-03982-3",
@@ -2600,7 +2583,8 @@
       "specialties": [
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1136/bmj.r2290",
@@ -2624,32 +2608,8 @@
       "specialties": [
         "psych"
       ],
-      "source": "epmc"
-    },
-    {
-      "doi": "10.1038/s41591-025-04006-w",
-      "pmid": "41145791",
-      "title": "A full life cycle biological clock based on routine clinical data and its impact in health and diseases",
-      "journal": "Nature Medicine",
-      "group": "Nature 正刊与子刊",
-      "date": "2025-10-27",
-      "year": "2025",
-      "first_author": "Wang K",
-      "url": "https://doi.org/10.1038/s41591-025-04006-w",
-      "code": "",
-      "abstract": "Aging research has primarily focused on adult aging clocks, leaving a critical gap in understanding a biological clock across the full life cycle, particularly during infancy and childhood. Here we introduce LifeClock, a biological clock model that predicts biological age across all life stages using routine electronic health records and laboratory test data. To enhance individualized predictions, we integrated virtual patient representations from 24,633,025 heterogeneous longitudinal clinical visits across 9,680,764 individuals and projected them into a latent space. Our approach leverages EH",
-      "pub_types": [
-        "research-article",
-        "journal article"
-      ],
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "added_batch": "initial",
-      "specialties": [
-        "ehr"
-      ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aics2500025",
@@ -2673,7 +2633,8 @@
       "specialties": [
         "onco"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03983-2",
@@ -2696,7 +2657,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2025.100900",
@@ -2722,7 +2684,8 @@
         "edu",
         "pubh"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03836-y",
@@ -2744,7 +2707,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-025-01516-3",
@@ -2768,9 +2732,11 @@
       "added_batch": "initial",
       "specialties": [
         "path",
+        "onco",
         "gi"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aie2500894",
@@ -2794,7 +2760,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aics2401161",
@@ -2816,7 +2783,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-025-01471-z",
@@ -2839,7 +2807,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03859-5",
@@ -2861,7 +2830,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-025-01497-3",
@@ -2883,7 +2853,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-025-01488-4",
@@ -2907,7 +2878,8 @@
       "specialties": [
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.240277",
@@ -2932,7 +2904,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.250555",
@@ -2956,7 +2929,8 @@
       "specialties": [
         "resp"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03900-7",
@@ -2981,32 +2955,8 @@
       "specialties": [
         "ophth"
       ],
-      "source": "epmc"
-    },
-    {
-      "doi": "10.1056/aidbp2401267",
-      "pmid": "40959192",
-      "title": "A Novel Playbook for Pragmatic Trial Operations to Monitor and Evaluate Ambient Artificial Intelligence in Clinical Practice",
-      "journal": "NEJM AI",
-      "group": "顶级医学期刊",
-      "date": "2025-08-28",
-      "year": "2025",
-      "first_author": "Afshar M",
-      "url": "https://doi.org/10.1056/aidbp2401267",
-      "code": "",
-      "abstract": "<h4>Background</h4>Ambient artificial intelligence (AI) offers the potential to reduce documentation burden and improve efficiency through clinical note generation. Widespread adoption, however, remains limited due to challenges in electronic health record (EHR) integration, coding compliance, and real-world evaluation. This study introduces a framework and protocols to design, monitor, and deploy ambient AI within routine care.<h4>Methods</h4>We launched an implementation phase to build technical workflows, establish governance, and inform a pragmatic randomized trial. A bidirectional governa",
-      "pub_types": [
-        "research-article",
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "ehr"
-      ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "EyeFM"
     },
     {
       "doi": "10.1056/aip2500453",
@@ -3030,7 +2980,8 @@
       "specialties": [
         "psych"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aidbp2500144",
@@ -3054,7 +3005,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": "MedAgentBench"
     },
     {
       "doi": "10.1056/aip2500015",
@@ -3076,7 +3028,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03923-0",
@@ -3099,7 +3052,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03888-0",
@@ -3122,7 +3076,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2025.100890",
@@ -3146,7 +3101,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-025-01468-8",
@@ -3168,33 +3124,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
-    },
-    {
-      "doi": "10.1016/j.landig.2025.100876",
-      "pmid": "40783350",
-      "title": "Value of artificial intelligence in neuro-oncology",
-      "journal": "The Lancet Digital Health",
-      "group": "顶级医学期刊",
-      "date": "2025-08-08",
-      "year": "2025",
-      "first_author": "Voigtlaender S",
-      "url": "https://doi.org/10.1016/j.landig.2025.100876",
-      "code": "",
-      "abstract": "CNS cancers are complex, difficult-to-treat malignancies that remain insufficiently understood and mostly incurable, despite decades of research efforts. Artificial intelligence (AI) is poised to reshape neuro-oncological practice and research, driving advances in medical image analysis, neuro-molecular-genetic characterisation, biomarker discovery, therapeutic target identification, tailored management strategies, and neurorehabilitation. This Review examines key opportunities and challenges associated with AI applications along the neuro-oncological care trajectory. We highlight emerging tre",
-      "pub_types": [
-        "research-article",
-        "review",
-        "journal article"
-      ],
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "added_batch": "initial",
-      "specialties": [
-        "onco"
-      ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1136/bmj-2024-083305",
@@ -3217,7 +3148,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2025.100909",
@@ -3239,7 +3171,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aip2401165",
@@ -3261,7 +3194,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aics2401155",
@@ -3283,7 +3217,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03856-8",
@@ -3305,7 +3240,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1136/bmj.r1418",
@@ -3329,7 +3265,8 @@
       "specialties": [
         "edu"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03780-x",
@@ -3356,7 +3293,8 @@
         "path",
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-025-09215-4",
@@ -3380,7 +3318,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "Psych-101"
     },
     {
       "doi": "10.1016/j.cell.2025.05.018",
@@ -3405,7 +3344,8 @@
       "specialties": [
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.240790",
@@ -3431,7 +3371,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.240476",
@@ -3456,7 +3397,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "RadioRAG"
     },
     {
       "doi": "10.1148/ryai.240631",
@@ -3482,7 +3424,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.240739",
@@ -3504,7 +3447,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aioa2401033",
@@ -3529,7 +3473,8 @@
       "specialties": [
         "cardio"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aip2401257",
@@ -3551,7 +3496,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s42256-025-01040-8",
@@ -3576,7 +3522,8 @@
       "specialties": [
         "ophth"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-025-09079-8",
@@ -3600,7 +3547,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/s0140-6736(25)01237-1",
@@ -3624,7 +3572,8 @@
       "specialties": [
         "psych"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03747-y",
@@ -3650,7 +3599,8 @@
         "derm",
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "PanDerm"
     },
     {
       "doi": "10.1038/s41591-025-03743-2",
@@ -3678,7 +3628,8 @@
       "specialties": [
         "resp"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.landig.2025.100885",
@@ -3707,7 +3658,8 @@
         "onco",
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41592-025-02707-1",
@@ -3733,7 +3685,8 @@
         "genom",
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "OmiCLIP"
     },
     {
       "doi": "10.1056/aics2400943",
@@ -3755,30 +3708,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
-    },
-    {
-      "doi": "10.1038/s41592-025-02696-1",
-      "pmid": "40360932",
-      "title": "Prediction of protein subcellular localization in single cells",
-      "journal": "Nature Methods",
-      "group": "Nature 正刊与子刊",
-      "date": "2025-05-13",
-      "year": "2025",
-      "first_author": "Zhang X",
-      "url": "https://doi.org/10.1038/s41592-025-02696-1",
-      "code": "",
-      "abstract": "The subcellular localization of a protein is important for its function, and its mislocalization is linked to numerous diseases. Existing datasets capture limited pairs of proteins and cell lines, and existing protein localization prediction models either miss cell-type specificity or cannot generalize to unseen proteins. Here we present a method for Prediction of Unseen Proteins' Subcellular localization (PUPS). PUPS combines a protein language model and an image inpainting model to utilize both protein sequence and cellular images. We demonstrate that the protein sequence input enables gener",
-      "pub_types": [
-        "research-article",
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "epmc"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s42256-025-01030-w",
@@ -3801,7 +3732,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03470-0",
@@ -3824,7 +3756,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1001/jama.2025.2806",
@@ -3846,7 +3779,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.240313",
@@ -3870,7 +3804,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.240551",
@@ -3896,7 +3831,8 @@
         "path",
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.250187",
@@ -3920,7 +3856,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03726-3",
@@ -3946,7 +3883,8 @@
         "edu",
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03727-2",
@@ -3969,7 +3907,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aira2401164",
@@ -3996,32 +3935,8 @@
         "radiol",
         "path"
       ],
-      "source": "epmc"
-    },
-    {
-      "doi": "10.1038/s41592-025-02656-9",
-      "pmid": "40211004",
-      "title": "PTM-Mamba: a PTM-aware protein language model with bidirectional gated Mamba blocks",
-      "journal": "Nature Methods",
-      "group": "Nature 正刊与子刊",
-      "date": "2025-04-10",
-      "year": "2025",
-      "first_author": "Peng FZ",
-      "url": "https://doi.org/10.1038/s41592-025-02656-9",
-      "code": "",
-      "abstract": "Current protein language models (LMs) accurately encode protein properties but have yet to represent post-translational modifications (PTMs), which are crucial for proteomic diversity and influence protein structure, function and interactions. To address this gap, we develop PTM-Mamba, a PTM-aware protein LM that integrates PTM tokens using bidirectional Mamba blocks fused with ESM-2 protein LM embeddings via a newly developed gating mechanism. PTM-Mamba uniquely models both wild-type and PTM sequences, enabling downstream tasks such as disease association and druggability prediction, PTM effe",
-      "pub_types": [
-        "research-article",
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "genom"
-      ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-025-08869-4",
@@ -4045,7 +3960,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-025-08866-7",
@@ -4069,35 +3985,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
-    },
-    {
-      "doi": "10.1056/nejmoa2415985",
-      "pmid": "40202623",
-      "title": "Tolebrutinib versus Teriflunomide in Relapsing Multiple Sclerosis",
-      "journal": "NEJM",
-      "group": "顶级医学期刊",
-      "date": "2025-04-08",
-      "year": "2025",
-      "first_author": "Oh J",
-      "url": "https://doi.org/10.1056/nejmoa2415985",
-      "code": "",
-      "abstract": "<h4>Background</h4>Tolebrutinib is an oral, brain-penetrant, and bioactive Bruton's tyrosine kinase inhibitor that modulates peripheral inflammation and persistent immune activation within the central nervous system, including disease-associated microglia and B cells. More data are needed on its efficacy and safety in treating relapsing multiple sclerosis.<h4>Methods</h4>In two phase 3, double-blind, double-dummy, event-driven trials (GEMINI 1 and GEMINI 2), participants with relapsing multiple sclerosis were randomly assigned in a 1:1 ratio to receive tolebrutinib (60 mg once daily) or terifl",
-      "pub_types": [
-        "clinical trial, phase iii",
-        "comparative study",
-        "multicenter study",
-        "randomized controlled trial",
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "neuro"
-      ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "AMIE"
     },
     {
       "doi": "10.1038/s41551-025-01375-y",
@@ -4119,7 +4008,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03618-6",
@@ -4143,7 +4033,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03626-6",
@@ -4167,7 +4058,8 @@
       "specialties": [
         "emerg"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aidbp2400537",
@@ -4189,7 +4081,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aioa2400802",
@@ -4213,7 +4106,8 @@
       "specialties": [
         "psych"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-025-08675-y",
@@ -4238,7 +4132,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.cell.2025.02.025",
@@ -4262,7 +4157,8 @@
       "specialties": [
         "genom"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03606-w",
@@ -4284,32 +4180,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
-    },
-    {
-      "doi": "10.1038/s42256-025-01016-8",
-      "pmid": "",
-      "title": "A disease-specific language model for variant pathogenicity in cardiac and regulatory genomics",
-      "journal": "Nature Machine Intelligence",
-      "group": "Nature 正刊与子刊",
-      "date": "2025-03-24",
-      "year": "2025",
-      "first_author": "Zhan H",
-      "url": "https://doi.org/10.1038/s42256-025-01016-8",
-      "code": "",
-      "abstract": "",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "cardio",
-        "genom"
-      ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-025-01365-0",
@@ -4333,7 +4205,8 @@
       "specialties": [
         "ophth"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-025-03520-1",
@@ -4355,7 +4228,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1001/jama.2024.28047",
@@ -4378,7 +4252,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aip2400875",
@@ -4402,7 +4277,8 @@
       "specialties": [
         "pubh"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1001/jama.2024.25821",
@@ -4424,31 +4300,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
-    },
-    {
-      "doi": "10.1126/science.adq2634",
-      "pmid": "39913643",
-      "title": "Protein codes promote selective subcellular compartmentalization",
-      "journal": "Science",
-      "group": "Science 正刊与子刊",
-      "date": "2025-02-06",
-      "year": "2025",
-      "first_author": "Kilgore HR",
-      "url": "https://doi.org/10.1126/science.adq2634",
-      "code": "",
-      "abstract": "Cells have evolved mechanisms to distribute ~10 billion protein molecules to subcellular compartments where diverse proteins involved in shared functions must assemble. In this study, we demonstrate that proteins with shared functions share amino acid sequence codes that guide them to compartment destinations. We developed a protein language model, ProtGPS, that predicts with high performance the compartment localization of human proteins excluded from the training set. ProtGPS successfully guided generation of novel protein sequences that selectively assemble in the nucleolus. ProtGPS identif",
-      "pub_types": [
-        "research-article",
-        "journal article",
-        "research support, n.i.h., extramural"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "epmc"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03456-y",
@@ -4472,7 +4325,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aioa2400402",
@@ -4496,7 +4350,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aip2400889",
@@ -4520,7 +4375,8 @@
       "specialties": [
         "pubh"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03434-4",
@@ -4545,7 +4401,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-024-08378-w",
@@ -4573,7 +4430,8 @@
         "onco",
         "ehr"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-024-08328-6",
@@ -4598,7 +4456,8 @@
       "specialties": [
         "drug"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03425-5",
@@ -4624,7 +4483,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03423-7",
@@ -4649,7 +4509,8 @@
       "specialties": [
         "edu"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "Med-PaLM"
     },
     {
       "doi": "10.1038/s41591-024-03445-1",
@@ -4672,7 +4533,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03416-6",
@@ -4694,7 +4556,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "MedFound"
     },
     {
       "doi": "10.1016/s2589-7500(24)00255-3",
@@ -4721,7 +4584,8 @@
         "psych",
         "ehr"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03328-5",
@@ -4744,7 +4608,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41592-024-02519-9",
@@ -4766,7 +4631,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/s0140-6736(24)02797-1",
@@ -4788,7 +4654,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(24)00246-2",
@@ -4812,7 +4679,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1001/jama.2024.21700",
@@ -4838,7 +4706,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1001/jama.2024.23860",
@@ -4860,7 +4729,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aira2400380",
@@ -4882,7 +4752,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03359-y",
@@ -4904,7 +4775,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "MINIM"
     },
     {
       "doi": "10.1038/s41587-024-02503-w",
@@ -4930,7 +4802,8 @@
         "gi",
         "drug"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-024-01283-7",
@@ -4953,7 +4826,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-024-01302-7",
@@ -4979,7 +4853,8 @@
         "radiol",
         "us"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1001/jama.2024.14025",
@@ -5001,7 +4876,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03313-y",
@@ -5023,7 +4899,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03333-8",
@@ -5045,7 +4922,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aie2401024",
@@ -5069,30 +4947,8 @@
       "specialties": [
         "ophth"
       ],
-      "source": "crossref"
-    },
-    {
-      "doi": "10.1038/s41592-024-02487-0",
-      "pmid": "39572716",
-      "title": "Accurate RNA 3D structure prediction using a language model-based deep learning approach",
-      "journal": "Nature Methods",
-      "group": "Nature 正刊与子刊",
-      "date": "2024-11-21",
-      "year": "2024",
-      "first_author": "Shen T",
-      "url": "https://doi.org/10.1038/s41592-024-02487-0",
-      "code": "",
-      "abstract": "Accurate prediction of RNA three-dimensional (3D) structures remains an unsolved challenge. Determining RNA 3D structures is crucial for understanding their functions and informing RNA-targeting drug development and synthetic biology design. The structural flexibility of RNA, which leads to the scarcity of experimentally determined data, complicates computational prediction efforts. Here we present RhoFold+, an RNA language model-based deep learning method that accurately predicts 3D structures of single-chain RNAs from sequences. By integrating an RNA language model pretrained on ~23.7 millio",
-      "pub_types": [
-        "research-article",
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "epmc"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-024-08411-y",
@@ -5117,7 +4973,8 @@
       "specialties": [
         "genom"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "SCimilarity"
     },
     {
       "doi": "10.1038/s41592-024-02499-w",
@@ -5139,7 +4996,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "BiomedParse"
     },
     {
       "doi": "10.1016/s2589-7500(24)00202-4",
@@ -5162,31 +5020,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
-    },
-    {
-      "doi": "10.1038/s42256-024-00920-9",
-      "pmid": "",
-      "title": "Efficient generation of protein pockets with PocketGen",
-      "journal": "Nature Machine Intelligence",
-      "group": "Nature 正刊与子刊",
-      "date": "2024-11-15",
-      "year": "2024",
-      "first_author": "Zhang Z",
-      "url": "https://doi.org/10.1038/s42256-024-00920-9",
-      "code": "",
-      "abstract": "Abstract Designing protein-binding proteins is critical for drug discovery. However, artificial-intelligence-based design of such proteins is challenging due to the complexity of protein–ligand interactions, the flexibility of ligand molecules and amino acid side chains, and sequence–structure dependencies. We introduce PocketGen, a deep generative model that produces residue sequence and atomic structure of the protein regions in which ligand interactions occur. PocketGen promotes consistency between protein sequence and structure by using a graph transformer for structural encoding and a seq",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "drug"
-      ],
-      "source": "crossref"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-024-08169-3",
@@ -5215,7 +5050,8 @@
         "surg",
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "FastGlioma"
     },
     {
       "doi": "10.1038/s41591-024-03302-1",
@@ -5240,7 +5076,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "Flamingo-CXR"
     },
     {
       "doi": "10.1056/nejmp2405999",
@@ -5264,7 +5101,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aics2400502",
@@ -5286,7 +5124,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aics2400420",
@@ -5311,7 +5150,8 @@
       "specialties": [
         "emerg"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/j.cell.2024.09.022",
@@ -5334,7 +5174,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03233-x",
@@ -5357,7 +5198,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "TxGNN"
     },
     {
       "doi": "10.1038/s41591-024-03258-2",
@@ -5382,7 +5224,8 @@
       "specialties": [
         "pubh"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s42256-024-00899-3",
@@ -5404,7 +5247,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(24)00143-2",
@@ -5429,7 +5273,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s42256-024-00889-5",
@@ -5455,7 +5300,8 @@
         "path",
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-024-07894-z",
@@ -5484,7 +5330,8 @@
         "path",
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(24)00124-9",
@@ -5508,7 +5355,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-024-01246-y",
@@ -5534,7 +5382,8 @@
         "radiol",
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03185-2",
@@ -5557,7 +5406,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "BiomedGPT"
     },
     {
       "doi": "10.1016/s2589-7500(24)00097-9",
@@ -5583,7 +5433,8 @@
       "specialties": [
         "emerg"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(24)00157-2",
@@ -5607,31 +5458,8 @@
       "specialties": [
         "path"
       ],
-      "source": "crossref"
-    },
-    {
-      "doi": "10.1126/science.adp7832",
-      "pmid": "",
-      "title": "Toward cleaner air and better health: Current state, challenges, and priorities",
-      "journal": "Science",
-      "group": "Science 正刊与子刊",
-      "date": "2024-07-26",
-      "year": "2024",
-      "first_author": "Huang W",
-      "url": "https://doi.org/10.1126/science.adp7832",
-      "code": "",
-      "abstract": "The most up-to-date estimate of the global burden of disease indicates that ambient air pollution, including fine particulate matter and ozone, contributes to an estimated 5.2 million deaths each year. In this review, we highlight the challenges in estimating population exposure to air pollution and attributable health risks, particularly in low- and middle-income countries and among vulnerable populations. To protect public health, the evidence so far confirms urgent needs to prioritize interdisciplinary research on air pollution exposure and risk assessment and to develop evidence-based inte",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "pubh"
-      ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03180-7",
@@ -5654,7 +5482,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03141-0",
@@ -5680,7 +5509,8 @@
         "path",
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03139-8",
@@ -5707,7 +5537,8 @@
         "pubh",
         "prim"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aics2300301",
@@ -5733,7 +5564,8 @@
         "pubh",
         "ehr"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03148-7",
@@ -5758,7 +5590,8 @@
       "specialties": [
         "prim"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(24)00114-6",
@@ -5786,7 +5619,8 @@
       "specialties": [
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-03097-1",
@@ -5809,7 +5643,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.230364",
@@ -5835,7 +5670,8 @@
         "radiol",
         "emerg"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(24)00111-0",
@@ -5857,7 +5693,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aioa2400181",
@@ -5879,7 +5716,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aira2400038",
@@ -5901,7 +5739,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-024-07421-0",
@@ -5926,7 +5765,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-024-07618-3",
@@ -5951,7 +5791,8 @@
       "specialties": [
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "PathChat"
     },
     {
       "doi": "10.1038/s41592-024-02305-7",
@@ -5973,7 +5814,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aics2300235",
@@ -5997,7 +5839,8 @@
       "specialties": [
         "onco"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1056/aira2400012",
@@ -6019,7 +5862,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-024-07441-w",
@@ -6045,7 +5889,8 @@
         "path",
         "onco"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "Prov-GigaPath"
     },
     {
       "doi": "10.1038/s41591-024-02970-3",
@@ -6070,7 +5915,8 @@
       "specialties": [
         "surg"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s42256-024-00832-8",
@@ -6095,7 +5941,8 @@
       "specialties": [
         "drug"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-02959-y",
@@ -6122,7 +5969,8 @@
         "cardio",
         "us"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "EchoCLIP"
     },
     {
       "doi": "10.1038/s41591-024-02943-6",
@@ -6148,7 +5996,8 @@
       "specialties": [
         "psych"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-02933-8",
@@ -6174,7 +6023,8 @@
       "specialties": [
         "drug"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aidbp2300040",
@@ -6196,7 +6046,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(24)00060-8",
@@ -6219,7 +6070,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(24)00061-x",
@@ -6243,7 +6095,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-02887-x",
@@ -6268,7 +6121,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "MONET"
     },
     {
       "doi": "10.1056/aioa2300151",
@@ -6293,30 +6147,8 @@
       "specialties": [
         "onco"
       ],
-      "source": "epmc"
-    },
-    {
-      "doi": "10.1038/s41591-024-02838-6",
-      "pmid": "38600282",
-      "title": "Generative models improve fairness of medical classifiers under distribution shifts",
-      "journal": "Nature Medicine",
-      "group": "Nature 正刊与子刊",
-      "date": "2024-04-10",
-      "year": "2024",
-      "first_author": "Ktena I",
-      "url": "https://doi.org/10.1038/s41591-024-02838-6",
-      "code": "",
-      "abstract": "Domain generalization is a ubiquitous challenge for machine learning in healthcare. Model performance in real-world conditions might be lower than expected because of discrepancies between the data encountered during deployment and development. Underrepresentation of some groups or conditions during model development is a common cause of this phenomenon. This challenge is often not readily addressed by targeted data acquisition and 'labeling' by expert clinicians, which can be prohibitively expensive or practically impossible because of the rarity of conditions or the available clinical expert",
-      "pub_types": [
-        "research-article",
-        "journal article"
-      ],
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "added_batch": "initial",
-      "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1136/bmj-2023-078538",
@@ -6339,7 +6171,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-02856-4",
@@ -6366,7 +6199,8 @@
       "specialties": [
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-02857-3",
@@ -6393,7 +6227,8 @@
       "specialties": [
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1136/bmj.q675",
@@ -6415,7 +6250,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aidbp2300110",
@@ -6441,7 +6277,8 @@
         "onco",
         "ehr"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "CORAL"
     },
     {
       "doi": "10.1148/ryai.230205",
@@ -6466,7 +6303,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-024-02855-5",
@@ -6494,7 +6332,8 @@
         "ehr",
         "radiol"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-023-02766-x",
@@ -6521,7 +6360,8 @@
         "prim",
         "psych"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aioa2300068",
@@ -6544,7 +6384,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aics2300145",
@@ -6566,29 +6407,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
-    },
-    {
-      "doi": "10.1038/s42256-023-00775-6",
-      "pmid": "",
-      "title": "Generation of 3D molecules in pockets via a language model",
-      "journal": "Nature Machine Intelligence",
-      "group": "Nature 正刊与子刊",
-      "date": "2024-01-15",
-      "year": "2024",
-      "first_author": "Feng W",
-      "url": "https://doi.org/10.1038/s42256-023-00775-6",
-      "code": "",
-      "abstract": "Abstract Generative models for molecules based on sequential line notation (for example, the simplified molecular-input line-entry system) or graph representation have attracted an increasing interest in the field of structure-based drug design, but they struggle to capture important three-dimensional (3D) spatial interactions and often produce undesirable molecular structures. To address these challenges, we introduce Lingo3DMol, a pocket-based 3D molecule generation method that combines language models and geometric deep learning technology. A new molecular representation, the fragment-based",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(23)00225-x",
@@ -6613,7 +6433,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1001/jama.2023.25054",
@@ -6637,7 +6458,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.230103",
@@ -6663,7 +6485,8 @@
         "radiol",
         "edu"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1056/aip2300031",
@@ -6685,7 +6508,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(23)00254-6",
@@ -6707,7 +6531,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(23)00246-7",
@@ -6729,7 +6554,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.230568",
@@ -6753,7 +6579,8 @@
       "specialties": [
         "radiol"
       ],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41551-023-01160-9",
@@ -6777,7 +6604,8 @@
       "specialties": [
         "derm"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(23)00201-7",
@@ -6805,7 +6633,8 @@
       "specialties": [
         "ophth"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(23)00179-6",
@@ -6829,9 +6658,11 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [
-        "ehr"
+        "ehr",
+        "neuro"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/s2589-7500(23)00205-4",
@@ -6855,29 +6686,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "crossref"
-    },
-    {
-      "doi": "10.1136/bmj-2023-077784",
-      "pmid": "",
-      "title": "Air pollution deaths attributable to fossil fuels: observational and modelling study",
-      "journal": "BMJ",
-      "group": "顶级医学期刊",
-      "date": "2023-11-29",
-      "year": "2023",
-      "first_author": "Lelieveld J",
-      "url": "https://doi.org/10.1136/bmj-2023-077784",
-      "code": "",
-      "abstract": "Abstract Objectives To estimate all cause and cause specific deaths that are attributable to fossil fuel related air pollution and to assess potential health benefits from policies that replace fossil fuels with clean, renewable energy sources. Design Observational and modelling study. Methods An updated atmospheric composition model, a newly developed relative risk model, and satellite based data were used to determine exposure to ambient air pollution, estimate all cause and disease specific mortality, and attribute them to emission categories. Data sources Data from the global burden of dis",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-023-02656-2",
@@ -6899,7 +6709,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1126/science.adk8626",
@@ -6921,7 +6732,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41587-023-02011-3",
@@ -6943,7 +6755,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1016/s0140-6736(23)02056-1",
@@ -6968,7 +6781,8 @@
       "specialties": [
         "pubh"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.230432",
@@ -6990,7 +6804,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1038/s44222-023-00114-9",
@@ -7015,7 +6830,8 @@
       "specialties": [
         "drug"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-023-02412-6",
@@ -7037,7 +6853,8 @@
       "status": "new",
       "added_batch": "initial",
       "specialties": [],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1148/ryai.230060",
@@ -7063,7 +6880,8 @@
         "radiol",
         "pubh"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41586-023-06555-x",
@@ -7089,7 +6907,8 @@
       "specialties": [
         "ophth"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": "RETFound"
     },
     {
       "doi": "10.1038/s41591-023-02535-w",
@@ -7111,7 +6930,8 @@
       "highlight": false,
       "status": "new",
       "specialties": [],
-      "source": "crossref"
+      "source": "crossref",
+      "model": ""
     },
     {
       "doi": "10.1001/jama.2023.14217",
@@ -7135,7 +6955,8 @@
       "specialties": [
         "ehr"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     },
     {
       "doi": "10.1038/s41591-023-02504-3",
@@ -7160,7 +6981,8 @@
       "specialties": [
         "path"
       ],
-      "source": "epmc"
+      "source": "epmc",
+      "model": ""
     }
   ],
   "batches": [

@@ -28,7 +28,8 @@ def row(p, latest_batch=None):
     au = f"{p['first_author']} et al." if p.get("first_author") else ""
     sp = "".join(ICONS[k][0] for k in p.get("specialties", []) if k in ICONS)
     sp = f" {sp}" if sp else ""
-    return f"- {new}{star}**{title}**{code}<br/>{au} · *{p['journal']}* · {p['date']}{sp} {tags}".rstrip()
+    name = f"`{p['model']}` " if p.get("model") else ""
+    return f"- {new}{star}{name}**{title}**{code}<br/>{au} · *{p['journal']}* · {p['date']}{sp} {tags}".rstrip()
 
 
 def main():
@@ -68,18 +69,6 @@ def main():
             out.append("\n</details>\n")
     papers_md = "\n".join(out)
 
-    hi = sorted([p for p in papers if p.get("highlight")],
-                key=lambda p: p.get("date", ""), reverse=True)
-    recent = sorted(papers, key=lambda p: p.get("date", ""), reverse=True)[:15]
-    top_md = ""
-    if fresh:
-        fresh_sorted = sorted(fresh, key=lambda p: p.get("date", ""), reverse=True)
-        top_md += (f"#### 本次更新 {latest}，新增 {len(fresh)} 篇\n\n"
-                   + "\n".join(row(p, latest) for p in fresh_sorted) + "\n\n")
-    if hi:
-        top_md += "#### 重点工作\n\n" + "\n".join(row(p, latest) for p in hi) + "\n\n"
-    top_md += "#### 最近收录\n\n" + "\n".join(row(p, latest) for p in recent)
-    papers_md = top_md + "\n\n---\n\n" + papers_md
 
     # 统计表
     counts = defaultdict(int)

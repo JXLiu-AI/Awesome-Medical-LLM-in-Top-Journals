@@ -13,14 +13,16 @@ ROOT = Path(__file__).resolve().parent.parent
 
 
 def _pat(term):
-    """前边界一律要求，后边界只对缩写类短词要求。
+    """前边界一律要求；后边界只给缩写和带数字的词，不给词干。
 
-    前边界挡住 behavioral health 命中 oral health；
-    后边界只给 PET、ECG、EHR 这类短词，好让 radiolog、patholog 这些词干仍能匹配 radiology、pathology。
+    按长度判断会两头出错：ambient AI 有 10 个字符不加边界就命中 ambient air；
+    clinic、biomed 只有 6 个字符，加了边界反而匹配不上 clinical、biomedical。
+    缩写全大写（PET、LLM、EHR）或带数字（GPT-4），词干是小写，据此区分。
+    边界前允许一个复数 s，否则 large language model 匹配不上 Large Language Models。
     """
-    t = term.lower()
-    tail = "(?![a-z0-9])" if (len(t) <= 6 and " " not in t) else ""
-    return rf"(?<![a-z0-9]){re.escape(t)}{tail}"
+    last = term.split()[-1] if " " in term else term
+    tail = "s?(?![a-z0-9])" if (last.isupper() or any(c.isdigit() for c in last)) else ""
+    return rf"(?<![a-z0-9]){re.escape(term.lower())}{tail}"
 
 
 def hits(blob, kws):
