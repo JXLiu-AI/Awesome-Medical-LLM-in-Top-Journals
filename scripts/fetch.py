@@ -139,7 +139,8 @@ def matches(rec, flt):
     lead = int(flt.get("lead_chars", 700))
     blob = f"{rec.get('title','')} {(rec.get('abstractText','') or '')[:lead]}".lower()
     full = f"{rec.get('title','')} {rec.get('abstractText','')}".lower()
-    if not _hit(blob, flt["include"]):
+    topic = _hit(blob, flt.get("include_topics", {}).get("terms", []))
+    if not _hit(blob, flt["include"]) and not topic:
         return False
     if _hit(full, flt["exclude"]):
         return False

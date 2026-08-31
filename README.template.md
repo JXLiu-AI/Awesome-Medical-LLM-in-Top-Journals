@@ -1,6 +1,6 @@
 # Awesome Medical LLMs in Top Journals
 
-医学大模型、医学基础模型的论文清单。收录范围限于 Nature、Science、Cell、Lancet、NEJM、JAMA 的正刊及其旗舰子刊，时间自 2023 年 8 月起。每周从 Europe PMC 自动抓一次，人工过一遍再合并。
+医学大模型、医学基础模型的论文清单，另收脑机接口与脑解码方向。收录范围限于 Nature、Science、Cell、Lancet、NEJM、JAMA 的正刊及其旗舰子刊，时间自 2023 年 8 月起。每周从 Europe PMC 和 Crossref 自动抓一次，人工过一遍再合并。
 
 [![weekly update](https://github.com/JXLiu-AI/Awesome-Medical-LLM-in-Top-Journals/actions/workflows/update.yml/badge.svg)](https://github.com/JXLiu-AI/Awesome-Medical-LLM-in-Top-Journals/actions/workflows/update.yml)
 ![papers](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/JXLiu-AI/Awesome-Medical-LLM-in-Top-Journals/main/data/papers.json&query=$.papers.length&label=papers)

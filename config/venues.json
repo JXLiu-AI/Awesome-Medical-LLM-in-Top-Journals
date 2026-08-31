@@ -126,6 +126,26 @@
           "tier": 2,
           "enabled": false,
           "issn": "2662-8465"
+        },
+        {
+          "key": "nat-neuro",
+          "display": "Nature Neuroscience",
+          "aliases": [
+            "Nature neuroscience"
+          ],
+          "tier": 1,
+          "enabled": true,
+          "issn": "1546-1726"
+        },
+        {
+          "key": "nat-humbeh",
+          "display": "Nature Human Behaviour",
+          "aliases": [
+            "Nature human behaviour"
+          ],
+          "tier": 1,
+          "enabled": true,
+          "issn": "2397-3374"
         }
       ]
     },

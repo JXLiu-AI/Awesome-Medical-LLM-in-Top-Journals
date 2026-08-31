@@ -270,6 +270,32 @@
       "specialties": []
     },
     {
+      "doi": "10.1016/j.cell.2026.07.004",
+      "pmid": "42607668",
+      "title": "Fifteen challenges for generative AI applications to cell biology",
+      "journal": "Cell",
+      "group": "Cell 正刊与子刊",
+      "date": "2026-08-17",
+      "year": "2026",
+      "first_author": "Dupire L",
+      "url": "https://doi.org/10.1016/j.cell.2026.07.004",
+      "code": "",
+      "abstract": "Generative AI (Gen-AI) has shown a remarkable impact in several biological research areas, from protein folding and de novo design to pathogenic mutation prediction. However, it remains unclear whether these molecular-level successes can translate to cellular and multicellular insights relevant to fields ranging from immunology to cancer and neurodegeneration. This arises from the intricate nature of the molecular mechanisms that determine cellular and organismal behavior, the lack of sufficient training data, and the multicellular nature of most pathophysiologic phenotypes. Novel Gen-AI frame",
+      "pub_types": [
+        "review",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "onco"
+      ]
+    },
+    {
       "doi": "10.1038/s41551-026-01762-z",
       "pmid": "42595819",
       "title": "Foundation models in biomedical imaging: turning hype into reality",
@@ -317,6 +343,29 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41562-026-02516-2",
+      "pmid": "42552393",
+      "title": "Interaction with AI companions and psychological well-being",
+      "journal": "Nature Human Behaviour",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-08-04",
+      "year": "2026",
+      "first_author": "Zhang Y",
+      "url": "https://doi.org/10.1038/s41562-026-02516-2",
+      "code": "",
+      "abstract": "As large-language-model-enhanced chatbots become increasingly expressive and socially responsive, many users begin forming companionship-like bonds with them. This study investigates how using AI companions relates to psychological well-being. We collected self-reported data from 1,131 US adults who use Character.AI, including survey responses and 4,664 chat sessions (464,687 messages) from 237 participants. By triangulating self-reported usage, relationship descriptions and real chat histories, we identify patterns of engagement and associated outcomes. Smaller social networks were associated",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1016/j.landig.2026.101043",
@@ -510,6 +559,57 @@
       "status": "kept",
       "source": "crossref",
       "model": ""
+    },
+    {
+      "doi": "10.1126/science.aeh4808",
+      "pmid": "42462035",
+      "title": "The Therabot will see you now",
+      "journal": "Science",
+      "group": "Science 正刊与子刊",
+      "date": "2026-07-16",
+      "year": "2026",
+      "first_author": "Jacobson NC.",
+      "url": "https://doi.org/10.1126/science.aeh4808",
+      "code": "",
+      "abstract": "Generative artificial intelligence can scale precision evidence-based psychotherapy.",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "psych"
+      ]
+    },
+    {
+      "doi": "10.1126/science.aeh4797",
+      "pmid": "42462030",
+      "title": "Regaining your voice",
+      "journal": "Science",
+      "group": "Science 正刊与子刊",
+      "date": "2026-07-16",
+      "year": "2026",
+      "first_author": "Stavisky S",
+      "url": "https://doi.org/10.1126/science.aeh4797",
+      "code": "",
+      "abstract": "AI speech neuroprostheses can restore day-to-day communication after neurological injury",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci",
+        "neuro"
+      ]
     },
     {
       "doi": "10.1001/jama.2026.8310",
@@ -709,6 +809,33 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s41591-026-04498-0",
+      "pmid": "42463883",
+      "title": "A neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia",
+      "journal": "Nature Medicine",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-07-01",
+      "year": "2026",
+      "first_author": "Chandrasekaran S",
+      "url": "https://doi.org/10.1038/s41591-026-04498-0",
+      "code": "",
+      "abstract": "Abstract Millions of people worldwide are living with movement and sensory impairments owing to spinal cord injury, stroke and other neurological conditions. Here we report a double neural bypass (DNB), a hybrid neuroprosthetic system designed to restore both immediate and lasting gains in movement and sensation after a severe, complete spinal cord injury. The DNB links an intracortical brain–computer interface with targeted and patterned neuromodulation of the spinal cord and cortex. This allows brain signals associated with movement intention to directly control the movement of the user’s ow",
+      "pub_types": [
+        "journal article",
+        "case reports"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci",
+        "neuro"
+      ]
+    },
+    {
       "doi": "10.1038/s41591-026-04494-4",
       "pmid": "42380678",
       "title": "Clinical decision support in hematological malignancies using a case-grounded AI agent",
@@ -862,6 +989,30 @@
       "model": "AI-CURA"
     },
     {
+      "doi": "10.1038/s41551-026-01701-y",
+      "pmid": "42337060",
+      "title": "Large reasoning models as thinking machines for medicine",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-06-23",
+      "year": "2026",
+      "first_author": "Zhou H",
+      "url": "https://doi.org/10.1038/s41551-026-01701-y",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "review",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41586-026-10764-5",
       "pmid": "42310463",
       "title": "Towards conversational artificial intelligence for disease management",
@@ -960,6 +1111,31 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s41591-026-04414-6",
+      "pmid": "42297978",
+      "title": "Long-term independent use of an intracortical brain–computer interface for speech and cursor control",
+      "journal": "Nature Medicine",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-06-15",
+      "year": "2026",
+      "first_author": "Card N",
+      "url": "https://doi.org/10.1038/s41591-026-04414-6",
+      "code": "",
+      "abstract": "Abstract Brain–computer interfaces (BCIs) can provide naturalistic communication and digital access to people with severe paralysis by decoding neural activity associated with attempted speech and movement. Recent work has demonstrated highly accurate intracortical BCIs for speech and cursor control, but two critical capabilities needed for practical viability were unmet: independent at-home operation without researcher assistance and reliable long-term performance supporting accurate speech and cursor decoding. Here we demonstrate the independent and near-daily use of a multimodal BCI with no",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1038/s41591-026-04431-5",
       "pmid": "42286322",
       "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks",
@@ -1031,6 +1207,32 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41593-026-02311-2",
+      "pmid": "42265352",
+      "title": "Human learning of noninvasive brain–computer interfaces via manifold geometry",
+      "journal": "Nature Neuroscience",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-06-09",
+      "year": "2026",
+      "first_author": "Busch E",
+      "url": "https://doi.org/10.1038/s41593-026-02311-2",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
     },
     {
       "doi": "10.1016/j.landig.2026.101011",
@@ -1130,6 +1332,31 @@
       "specialties": [],
       "source": "crossref",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s44222-026-00460-4",
+      "pmid": "",
+      "title": "Transitioning from speech to language brain–computer interfaces",
+      "journal": "Nature Reviews Bioengineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-05-26",
+      "year": "2026",
+      "first_author": "Li J",
+      "url": "https://doi.org/10.1038/s44222-026-00460-4",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
     },
     {
       "doi": "10.1016/j.landig.2026.100991",
@@ -1732,6 +1959,31 @@
       "model": "LazySlide"
     },
     {
+      "doi": "10.1038/s41593-026-02218-y",
+      "pmid": "41840138",
+      "title": "Restoring rapid natural bimanual typing with a neuroprosthesis after paralysis",
+      "journal": "Nature Neuroscience",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-03-16",
+      "year": "2026",
+      "first_author": "Jude J",
+      "url": "https://doi.org/10.1038/s41593-026-02218-y",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1016/j.landig.2025.100974",
       "pmid": "41833467",
       "title": "Beyond artificial intelligence psychosis: a functional typology of large language model-associated psychotic phenomena",
@@ -2032,6 +2284,32 @@
       "model": "RareArena"
     },
     {
+      "doi": "10.1038/s41593-026-02221-3",
+      "pmid": "41748786",
+      "title": "Personalized brain decoding of spontaneous pain in individuals with chronic pain",
+      "journal": "Nature Neuroscience",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-02-26",
+      "year": "2026",
+      "first_author": "Lee J",
+      "url": "https://doi.org/10.1038/s41593-026-02221-3",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "decode",
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1038/s42256-026-01180-5",
       "pmid": "41757248",
       "title": "Cardiac health assessment across scenarios and devices using a multimodal foundation model pretrained on data from 1.7 million individuals",
@@ -2240,6 +2518,29 @@
       "model": "CT-CLIP"
     },
     {
+      "doi": "10.1038/s42256-025-01169-6",
+      "pmid": "",
+      "title": "When large language models are reliable for judging empathic communication",
+      "journal": "Nature Machine Intelligence",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-02-11",
+      "year": "2026",
+      "first_author": "Kumar A",
+      "url": "https://doi.org/10.1038/s42256-025-01169-6",
+      "code": "",
+      "abstract": "Abstract Large language models (LLMs) excel at generating empathic responses in text-based conversations. But, how reliably do they judge the nuances of empathic communication? Here we investigate this question by comparing how experts, crowdworkers and LLMs annotate empathic communication across four evaluative frameworks drawn from psychology, natural language processing and communications applied to 200 real-world conversations where one speaker shares a personal problem and the other offers support. Drawing on 3,150 expert annotations, 2,844 crowd annotations and 3,150 LLM annotations, we ",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41591-025-04074-y",
       "pmid": "41663592",
       "title": "Reliability of LLMs as medical assistants for the general public: a randomized preregistered study",
@@ -2318,6 +2619,33 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41593-026-02202-6",
+      "pmid": "41644653",
+      "title": "A generalizable foundation model for analysis of human brain MRI",
+      "journal": "Nature Neuroscience",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-02-05",
+      "year": "2026",
+      "first_author": "Tak D",
+      "url": "https://doi.org/10.1038/s41593-026-02202-6",
+      "code": "",
+      "abstract": "Artificial intelligence applied to brain magnetic resonance imaging (MRI) holds potential to advance diagnosis, prognosis and treatment planning for neurological diseases. The field has been constrained, thus far, by limited training data and task-specific models that do not generalize well across patient populations and medical tasks. By leveraging self-supervised learning, pretraining and targeted adaptation, foundation models present a promising paradigm to overcome these limitations. Here we present Brain Imaging Adaptive Core (BrainIAC)-a foundation model designed to learn generalized rep",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "radiol",
+        "neuro"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-04184-7",
@@ -2422,6 +2750,31 @@
       "specialties": [],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41562-025-02389-x",
+      "pmid": "41617861",
+      "title": "Assessing personality using zero-shot generative AI scoring of brief open-ended text",
+      "journal": "Nature Human Behaviour",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-01-30",
+      "year": "2026",
+      "first_author": "Wright AGC",
+      "url": "https://doi.org/10.1038/s41562-025-02389-x",
+      "code": "",
+      "abstract": "Contemporary personality assessment relies heavily on psychometric scales, which offer efficiency but risk oversimplifying the rich and contextual nature of personality. Recognizing these limitations, this study explores the use of commercially available generative large language models (LLMs), such as ChatGPT, Claude and so on, to assess personality traits from open-ended qualitative narratives. Across two distinct samples and methodologies (spontaneous streams of thought and daily video diaries), we used seven commercial, generative LLMs to score Big-Five personality traits, achieving conver",
+      "pub_types": [
+        "research-article",
+        "journal article",
+        "research support, n.i.h., extramural"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1001/jama.2025.23744",
@@ -2784,6 +3137,79 @@
       "model": "NeonatalBERT"
     },
     {
+      "doi": "10.1038/s42256-025-01115-6",
+      "pmid": "41438004",
+      "title": "A psychometric framework for evaluating and shaping personality traits in large language models",
+      "journal": "Nature Machine Intelligence",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-12-18",
+      "year": "2025",
+      "first_author": "Serapio-García G",
+      "url": "https://doi.org/10.1038/s42256-025-01115-6",
+      "code": "",
+      "abstract": "The advent of large language models (LLMs) has revolutionized natural language processing, enabling the generation of coherent and contextually relevant human-like text. As LLMs increasingly power conversational agents used by the general public worldwide, the synthetic personality traits embedded in these models by virtue of training on large amounts of human data are becoming increasingly important to evaluate. The style in which LLMs respond can mimic different human personality traits. Here, as these patterns can be a key factor determining the effectiveness of communication, we present a ",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
+      "doi": "10.1126/science.adv7434",
+      "pmid": "41411438",
+      "title": "All-optical synthesis chip for large-scale intelligent semantic vision generation",
+      "journal": "Science",
+      "group": "Science 正刊与子刊",
+      "date": "2025-12-18",
+      "year": "2025",
+      "first_author": "Chen Y",
+      "url": "https://doi.org/10.1126/science.adv7434",
+      "code": "",
+      "abstract": "Large-scale generative artificial intelligence (AI) is facing a severe computing power shortage. Although photonic computing achieves excellence in decision tasks, its application in generative tasks remains formidable because of limited integration scale, time-consuming dimension conversions, and ground-truth-dependent training algorithms. We produced an all-optical chip for large-scale intelligent vision generation, named LightGen. By integrating millions of photonic neurons on a chip, varying network dimension through proposed optical latent space, and Bayes-based training algorithms, Light",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "LightGen",
+      "specialties": [
+        "ophth"
+      ]
+    },
+    {
+      "doi": "10.1038/s41562-025-02357-5",
+      "pmid": "41398465",
+      "title": "Combined evidence from artificial neural networks and human brain-lesion models reveals that language modulates vision in human perception",
+      "journal": "Nature Human Behaviour",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-12-15",
+      "year": "2026",
+      "first_author": "Chen H",
+      "url": "https://doi.org/10.1038/s41562-025-02357-5",
+      "code": "",
+      "abstract": "Comparing information structures in between deep neural networks (DNNs) and the human brain has become a key method for exploring their similarities and differences. Recent research has shown better alignment of vision-language DNN models, such as contrastive language-image pretraining (CLIP), with the activity of the human ventral occipitotemporal cortex (VOTC) than earlier vision models, supporting the idea that language modulates human visual perception. However, interpreting the results from such comparisons is inherently limited owing to the 'black box' nature of DNNs. Here we combine mod",
+      "pub_types": [
+        "research support, non-u.s. gov't",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1016/j.landig.2025.100917",
       "pmid": "41387134",
       "title": "Responsible adoption of multimodal artificial intelligence in health care: promises and challenges",
@@ -2834,6 +3260,31 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s41551-025-01536-z",
+      "pmid": "41361599",
+      "title": "Long-term unsupervised recalibration of cursor-based intracortical brain–computer interfaces using a hidden Markov model",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-12-08",
+      "year": "2025",
+      "first_author": "Wilson G",
+      "url": "https://doi.org/10.1038/s41551-025-01536-z",
+      "code": "",
+      "abstract": "Abstract Intracortical brain–computer interfaces (iBCIs) require frequent recalibration to maintain robust performance due to changes in neural activity that accumulate over time, which result in periods when users cannot use their device. Here we introduce a hidden Markov model to infer which targets users are moving towards during iBCI use and we retrain the system using these inferred targets, enabling unsupervised adaptation to changing neural activity. Our approach outperforms distribution alignment methods in large-scale, closed-loop simulations over two months, as well as in a closed lo",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1136/bmj-2025-085324",
       "pmid": "41330604",
       "title": "Clinical competencies for using generative AI in patient care",
@@ -2878,6 +3329,29 @@
       "specialties": [],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41591-025-04008-8",
+      "pmid": "41102561",
+      "title": "The fragile intelligence of GPT-5 in medicine",
+      "journal": "Nature Medicine",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-12-01",
+      "year": "2025",
+      "first_author": "Handler R",
+      "url": "https://doi.org/10.1038/s41591-025-04008-8",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1056/aioa2500164",
@@ -3079,6 +3553,31 @@
       "model": ""
     },
     {
+      "doi": "10.1136/bmj.r2239",
+      "pmid": "41136240",
+      "title": "AI driven psychosis and suicide are on the rise, but what happens if we turn the chatbots off?",
+      "journal": "BMJ",
+      "group": "顶级医学期刊",
+      "date": "2025-10-24",
+      "year": "2025",
+      "first_author": "Stokel-Walker C",
+      "url": "https://doi.org/10.1136/bmj.r2239",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "psych"
+      ]
+    },
+    {
       "doi": "10.1056/aics2500025",
       "pmid": "",
       "title": "Exploring Large Language Models for Specialist-Level Oncology Care",
@@ -3176,6 +3675,59 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41551-025-01502-9",
+      "pmid": "41039114",
+      "title": "High-resolution brain–computer interface with electrode scalability and minimally invasive surgery",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-10-02",
+      "year": "2025",
+      "first_author": "",
+      "url": "https://doi.org/10.1038/s41551-025-01502-9",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci",
+        "surg"
+      ]
+    },
+    {
+      "doi": "10.1038/s41551-025-01501-w",
+      "pmid": "41039113",
+      "title": "Minimally invasive implantation of scalable high-density cortical microelectrode arrays for multimodal neural decoding and stimulation",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-10-02",
+      "year": "2025",
+      "first_author": "Hettick M",
+      "url": "https://doi.org/10.1038/s41551-025-01501-w",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "decode",
+        "bci"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-03836-y",
@@ -3300,6 +3852,33 @@
       "specialties": []
     },
     {
+      "doi": "10.1038/s41551-025-01467-9",
+      "pmid": "40993190",
+      "title": "Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-09-24",
+      "year": "2025",
+      "first_author": "Merk T",
+      "url": "https://doi.org/10.1038/s41551-025-01467-9",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "decode",
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1038/s41551-025-01471-z",
       "pmid": "40987953",
       "title": "A collaborative large language model for drug analysis",
@@ -3322,6 +3901,30 @@
       "specialties": [],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41562-025-02297-0",
+      "pmid": "40931087",
+      "title": "Active use of latent tree-structured sentence representation in humans and large language models",
+      "journal": "Nature Human Behaviour",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-09-10",
+      "year": "2026",
+      "first_author": "Liu W",
+      "url": "https://doi.org/10.1038/s41562-025-02297-0",
+      "code": "",
+      "abstract": "Understanding how sentences are represented in the human brain, as well as in large language models (LLMs), poses a substantial challenge for cognitive science. Here we develop a one-shot learning task to investigate whether humans and LLMs encode tree-structured constituents within sentences. Participants (total N = 372, native Chinese or English speakers, and bilingual in Chinese and English) and LLMs (for example, ChatGPT) were asked to infer which words should be deleted from a sentence. Both groups tend to delete constituents, instead of non-constituent word strings, following rules speci",
+      "pub_types": [
+        "research support, non-u.s. gov't",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41551-025-01497-3",
@@ -3396,6 +3999,32 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s42256-025-01090-y",
+      "pmid": "41221369",
+      "title": "Brain-computer interface control with artificial intelligence copilots",
+      "journal": "Nature Machine Intelligence",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-09-01",
+      "year": "2025",
+      "first_author": "Lee JY",
+      "url": "https://doi.org/10.1038/s42256-025-01090-y",
+      "code": "",
+      "abstract": "Motor brain-computer interfaces (BCIs) decode neural signals to help people with paralysis move and communicate. Even with important advances in the past two decades, BCIs face a key obstacle to clinical viability: BCI performance should strongly outweigh costs and risks. To significantly increase the BCI performance, we use shared autonomy, where artificial intelligence (AI) copilots collaborate with BCI users to achieve task goals. We demonstrate this AI-BCI in a non-invasive BCI system decoding electroencephalography signals. We first contribute a hybrid adaptive decoding approach using a c",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
     },
     {
       "doi": "10.1038/s41591-025-03900-7",
@@ -3618,6 +4247,32 @@
       "model": ""
     },
     {
+      "doi": "10.1016/j.cell.2025.06.015",
+      "pmid": "40816265",
+      "title": "Inner speech in motor cortex and implications for speech neuroprostheses",
+      "journal": "Cell",
+      "group": "Cell 正刊与子刊",
+      "date": "2025-08-14",
+      "year": "2025",
+      "first_author": "Kunz EM",
+      "url": "https://doi.org/10.1016/j.cell.2025.06.015",
+      "code": "",
+      "abstract": "Speech brain-computer interfaces (BCIs) show promise in restoring communication to people with paralysis but have also prompted discussions regarding their potential to decode private inner speech. Separately, inner speech may be a way to bypass the current approach of requiring speech BCI users to physically attempt speech, which is fatiguing and can slow communication. Using multi-unit recordings from four participants, we found that inner speech is robustly represented in the motor cortex and that imagined sentences can be decoded in real time. The representation of inner speech was highly ",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1038/s41551-025-01468-8",
       "pmid": "40790276",
       "title": "Unconditional latent diffusion models memorize patient imaging data",
@@ -3639,6 +4294,30 @@
       "specialties": [],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s42256-025-01072-0",
+      "pmid": "40842485",
+      "title": "High-level visual representations in the human brain are aligned with large language models",
+      "journal": "Nature Machine Intelligence",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-08-07",
+      "year": "2025",
+      "first_author": "Doerig A",
+      "url": "https://doi.org/10.1038/s42256-025-01072-0",
+      "code": "",
+      "abstract": "The human brain extracts complex information from visual inputs, including objects, their spatial and semantic interrelations, and their interactions with the environment. However, a quantitative approach for studying this information remains elusive. Here we test whether the contextual information encoded in large language models (LLMs) is beneficial for modelling the complex visual information extracted by the brain from natural scenes. We show that LLM embeddings of scene captions successfully characterize brain activity evoked by viewing the natural scenes. This mapping captures selectivit",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1136/bmj-2024-083305",
@@ -4036,6 +4715,29 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s41562-025-02242-1",
+      "pmid": "40542181",
+      "title": "Cultural tendencies in generative AI",
+      "journal": "Nature Human Behaviour",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-06-20",
+      "year": "2025",
+      "first_author": "Lu JG",
+      "url": "https://doi.org/10.1038/s41562-025-02242-1",
+      "code": "",
+      "abstract": "We show that generative artificial intelligence (AI) models-trained on textual data that are inherently cultural-exhibit cultural tendencies when used in different human languages. Here we focus on two foundational constructs in cultural psychology: social orientation and cognitive style. First, we analyse GPT's responses to a large set of measures in both Chinese and English. When used in Chinese (versus English), GPT exhibits a more interdependent (versus independent) social orientation and a more holistic (versus analytic) cognitive style. Second, we replicate these cultural tendencies in E",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s42256-025-01040-8",
       "pmid": "40567353",
       "title": "Next-generation phenotyping of inherited retinal diseases from multimodal imaging with Eye2Gene",
@@ -4060,6 +4762,33 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41586-025-09127-3",
+      "pmid": "40506548",
+      "title": "An instantaneous voice-synthesis neuroprosthesis",
+      "journal": "Nature",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-06-12",
+      "year": "2025",
+      "first_author": "Wairagkar M",
+      "url": "https://doi.org/10.1038/s41586-025-09127-3",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "research-article",
+        "journal article",
+        "research support, n.i.h., extramural"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
     },
     {
       "doi": "10.1038/s41586-025-09079-8",
@@ -4271,6 +5000,31 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s44222-025-00313-6",
+      "pmid": "",
+      "title": "Animal models in brain–computer interface research",
+      "journal": "Nature Reviews Bioengineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-05-06",
+      "year": "2025",
+      "first_author": "Lo Y",
+      "url": "https://doi.org/10.1038/s44222-025-00313-6",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1038/s41591-024-03470-0",
       "pmid": "39915678",
       "title": "The MI-CLAIM-GEN checklist for generative artificial intelligence in health",
@@ -4449,6 +5203,29 @@
       "model": ""
     },
     {
+      "doi": "10.1056/nejmsb2503956",
+      "pmid": "40208922",
+      "title": "Generative AI in Medicine - Evaluating Progress and Challenges",
+      "journal": "NEJM",
+      "group": "顶级医学期刊",
+      "date": "2025-04-10",
+      "year": "2025",
+      "first_author": "Maddox TM",
+      "url": "https://doi.org/10.1056/nejmsb2503956",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41586-025-08869-4",
       "pmid": "40205049",
       "title": "Towards accurate differential diagnosis with large language models",
@@ -4499,6 +5276,31 @@
       "model": "AMIE"
     },
     {
+      "doi": "10.1038/s41586-025-08829-y",
+      "pmid": "40205215",
+      "title": "Foundation model of neural activity predicts response to new stimulus types",
+      "journal": "Nature",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-04-09",
+      "year": "2025",
+      "first_author": "Wang EY",
+      "url": "https://doi.org/10.1038/s41586-025-08829-y",
+      "code": "",
+      "abstract": "The complexity of neural circuits makes it challenging to decipher the brain's algorithms of intelligence. Recent breakthroughs in deep learning have produced models that accurately simulate brain activity, enhancing our understanding of the brain's computational objectives and neural coding. However, it is difficult for such models to generalize beyond their training distribution, limiting their utility. The emergence of foundation models<sup>1</sup> trained on vast datasets has introduced a new artificial intelligence paradigm with remarkable generalization capabilities. Here we collected la",
+      "pub_types": [
+        "research-article",
+        "journal article",
+        "research support, n.i.h., extramural"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41551-025-01375-y",
       "pmid": "40200127",
       "title": "Synthetic data boosts medical foundation models",
@@ -4547,6 +5349,29 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s44222-025-00279-5",
+      "pmid": "",
+      "title": "Application of large language models in medicine",
+      "journal": "Nature Reviews Bioengineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-04-07",
+      "year": "2025",
+      "first_author": "Liu F",
+      "url": "https://doi.org/10.1038/s44222-025-00279-5",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41551-025-01363-2",
       "pmid": "40169759",
       "title": "Coordinated AI agents for advancing healthcare",
@@ -4568,6 +5393,56 @@
       "status": "new",
       "model": "",
       "specialties": []
+    },
+    {
+      "doi": "10.1038/s41551-024-01320-5",
+      "pmid": "39856411",
+      "title": "A generalist model for enhancing brain MRIs",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-04-01",
+      "year": "2025",
+      "first_author": "Balbastre Y",
+      "url": "https://doi.org/10.1038/s41551-024-01320-5",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "radiol"
+      ]
+    },
+    {
+      "doi": "10.1038/s41593-025-01905-6",
+      "pmid": "40164740",
+      "title": "A streaming brain-to-voice neuroprosthesis to restore naturalistic communication",
+      "journal": "Nature Neuroscience",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-03-31",
+      "year": "2025",
+      "first_author": "Littlejohn K",
+      "url": "https://doi.org/10.1038/s41593-025-01905-6",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
     },
     {
       "doi": "10.1056/aidbp2400537",
@@ -4690,6 +5565,32 @@
       "specialties": [],
       "source": "crossref",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41562-025-02105-9",
+      "pmid": "40055549",
+      "title": "A unified acoustic-to-speech-to-language embedding space captures the neural basis of natural language processing in everyday conversations",
+      "journal": "Nature Human Behaviour",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-03-07",
+      "year": "2025",
+      "first_author": "Goldstein A",
+      "url": "https://doi.org/10.1038/s41562-025-02105-9",
+      "code": "",
+      "abstract": "This study introduces a unified computational framework connecting acoustic, speech and word-level linguistic structures to study the neural basis of everyday conversations in the human brain. We used electrocorticography to record neural signals across 100 h of speech production and comprehension as participants engaged in open-ended real-life conversations. We extracted low-level acoustic, mid-level speech and contextual word embeddings from a multimodal speech-to-text model (Whisper). We developed encoding models that linearly map these embeddings onto brain activity during speech productio",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
     },
     {
       "doi": "10.1038/s41551-025-01365-0",
@@ -4860,6 +5761,54 @@
       "model": ""
     },
     {
+      "doi": "10.1016/s0140-6736(25)00202-8",
+      "pmid": "39922663",
+      "title": "The rise of agentic AI teammates in medicine",
+      "journal": "The Lancet",
+      "group": "顶级医学期刊",
+      "date": "2025-02-01",
+      "year": "2025",
+      "first_author": "Zou J",
+      "url": "https://doi.org/10.1016/s0140-6736(25)00202-8",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
+      "doi": "10.1038/s44222-025-00275-9",
+      "pmid": "",
+      "title": "Terahertz brain–computer interfaces",
+      "journal": "Nature Reviews Bioengineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-01-28",
+      "year": "2025",
+      "first_author": "Nagarajan A",
+      "url": "https://doi.org/10.1038/s44222-025-00275-9",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1056/aioa2400402",
       "pmid": "",
       "title": "A Cross-Sectional Study of GPT-4–Based Plain Language Translation of Clinical Notes to Improve Patient Comprehension of Disease Course and Management",
@@ -4908,6 +5857,29 @@
       ],
       "source": "crossref",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s42256-024-00963-y",
+      "pmid": "",
+      "title": "Visual cognition in multimodal large language models",
+      "journal": "Nature Machine Intelligence",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-01-15",
+      "year": "2025",
+      "first_author": "Schulze Buschoff L",
+      "url": "https://doi.org/10.1038/s42256-024-00963-y",
+      "code": "",
+      "abstract": "Abstract A chief goal of artificial intelligence is to build machines that think like people. Yet it has been argued that deep neural network architectures fail to accomplish this. Researchers have asserted these models’ limitations in the domains of causal reasoning, intuitive physics and intuitive psychology. Yet recent advancements, namely the rise of large language models, particularly those designed for visual processing, have rekindled interest in the potential to emulate human-like cognitive abilities. This paper evaluates the current state of vision-based large language models in the d",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41586-024-08378-w",
@@ -5353,6 +6325,85 @@
       "specialties": []
     },
     {
+      "doi": "10.1038/s41591-024-03341-8",
+      "pmid": "39833405",
+      "title": "A high-performance brain–computer interface for finger decoding and quadcopter game control in an individual with paralysis",
+      "journal": "Nature Medicine",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-01-01",
+      "year": "2025",
+      "first_author": "Willsey M",
+      "url": "https://doi.org/10.1038/s41591-024-03341-8",
+      "code": "",
+      "abstract": "Abstract People with paralysis express unmet needs for peer support, leisure activities and sporting activities. Many within the general population rely on social media and massively multiplayer video games to address these needs. We developed a high-performance, finger-based brain–computer-interface system allowing continuous control of three independent finger groups, of which the thumb can be controlled in two dimensions, yielding a total of four degrees of freedom. The system was tested in a human research participant with tetraplegia due to spinal cord injury over sequential trials requir",
+      "pub_types": [
+        "research support, non-u.s. gov't",
+        "research-article",
+        "research support, u.s. gov't, non-p.h.s.",
+        "journal article",
+        "research support, n.i.h., extramural"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
+      "doi": "10.1038/s41591-024-03440-6",
+      "pmid": "39833404",
+      "title": "The expanding repertoire of brain–computer interfaces",
+      "journal": "Nature Medicine",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-01-01",
+      "year": "2025",
+      "first_author": "Ramsey N",
+      "url": "https://doi.org/10.1038/s41591-024-03440-6",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
+      "doi": "10.1038/s41551-024-01326-z",
+      "pmid": "39715900",
+      "title": "An application-based taxonomy for brain–computer interfaces",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-12-23",
+      "year": "2024",
+      "first_author": "Robinson J",
+      "url": "https://doi.org/10.1038/s41551-024-01326-z",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1038/s41591-024-03359-y",
       "pmid": "39663467",
       "title": "Self-improving generative foundation model for synthetic medical image generation and clinical applications",
@@ -5401,6 +6452,31 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41551-024-01297-1",
+      "pmid": "39643728",
+      "title": "Enhanced control of a brain–computer interface by tetraplegic participants via neural-network-mediated feature extraction",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-12-06",
+      "year": "2024",
+      "first_author": "Haghi B",
+      "url": "https://doi.org/10.1038/s41551-024-01297-1",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
     },
     {
       "doi": "10.1038/s41551-024-01283-7",
@@ -5523,6 +6599,55 @@
       ],
       "source": "crossref",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41562-024-02046-9",
+      "pmid": "39604572",
+      "title": "Large language models surpass human experts in predicting neuroscience results",
+      "journal": "Nature Human Behaviour",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-11-27",
+      "year": "2025",
+      "first_author": "Luo X",
+      "url": "https://doi.org/10.1038/s41562-024-02046-9",
+      "code": "",
+      "abstract": "Scientific discoveries often hinge on synthesizing decades of research, a task that potentially outstrips human information processing capacities. Large language models (LLMs) offer a solution. LLMs trained on the vast scientific literature could potentially integrate noisy yet interrelated findings to forecast novel results better than human experts. Here, to evaluate this possibility, we created BrainBench, a forward-looking benchmark for predicting neuroscience results. We find that LLMs surpass experts in predicting experimental outcomes. BrainGPT, an LLM we tuned on the neuroscience liter",
+      "pub_types": [
+        "research support, non-u.s. gov't",
+        "research-article",
+        "journal article",
+        "research support, n.i.h., extramural"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
+      "doi": "10.1038/s42256-024-00925-4",
+      "pmid": "",
+      "title": "Contextual feature extraction hierarchies converge in large language models and the brain",
+      "journal": "Nature Machine Intelligence",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-11-26",
+      "year": "2024",
+      "first_author": "Mischler G",
+      "url": "https://doi.org/10.1038/s42256-024-00925-4",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41592-024-02499-w",
@@ -5722,6 +6847,33 @@
       "specialties": []
     },
     {
+      "doi": "10.1148/ryai.230229",
+      "pmid": "38922031",
+      "title": "Optimizing Performance of Transformer-based Models for Fetal Brain MR Image Segmentation",
+      "journal": "Radiology: Artificial Intelligence",
+      "group": "影像与医学信息学旗舰刊",
+      "date": "2024-11-01",
+      "year": "2024",
+      "first_author": "Pecco N",
+      "url": "https://doi.org/10.1148/ryai.230229",
+      "code": "",
+      "abstract": "Purpose To test the performance of a transformer-based model when manipulating pretraining weights, dataset size, and input size and comparing the best model with the reference standard and state-of-the-art models for a resting-state functional (rs-fMRI) fetal brain extraction task. Materials and Methods An internal retrospective dataset (172 fetuses, 519 images; collected 2018-2022) was used to investigate influence of dataset size, pretraining approaches, and image input size on Swin-U-Net transformer (UNETR) and UNETR models. The internal and external (131 fetuses, 561 images) datasets were",
+      "pub_types": [
+        "research support, non-u.s. gov't",
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "obgyn"
+      ]
+    },
+    {
       "doi": "10.1056/nejmp2405999",
       "pmid": "39465898",
       "title": "Large Language Models and the Degradation of the Medical Record",
@@ -5796,6 +6948,33 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s41562-024-01985-7",
+      "pmid": "39424963",
+      "title": "A behaviourally informed chatbot increases vaccination rates in Argentina more than a one-way reminder",
+      "journal": "Nature Human Behaviour",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-10-18",
+      "year": "2024",
+      "first_author": "Brown D",
+      "url": "https://doi.org/10.1038/s41562-024-01985-7",
+      "code": "",
+      "abstract": "Maintaining COVID-19 vaccine demand was key to ending the global health emergency. To help do this, many governments used chatbots that provided personalized information guiding people on where, when and how to get vaccinated. We designed and tested a WhatsApp chatbot to understand whether two-way interactive messaging incorporating behaviourally informed functionalities could perform better than one-way message reminders. We ran a large-scale preregistered randomized controlled trial with 249,705 participants in Argentina, measuring vaccinations using Ministry of Health records. The behaviour",
+      "pub_types": [
+        "research-article",
+        "randomized controlled trial",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "pubh"
+      ]
+    },
+    {
       "doi": "10.1136/bmj-2024-080208",
       "pmid": "39393817",
       "title": "Health information for all: do large language models bridge or widen the digital divide?",
@@ -5864,6 +7043,33 @@
       "status": "new",
       "model": "",
       "specialties": []
+    },
+    {
+      "doi": "10.1016/s2589-7500(24)00151-1",
+      "pmid": "39214760",
+      "title": "The potential for large language models to transform cardiovascular medicine",
+      "journal": "The Lancet Digital Health",
+      "group": "顶级医学期刊",
+      "date": "2024-10-01",
+      "year": "2024",
+      "first_author": "Quer G",
+      "url": "https://doi.org/10.1016/s2589-7500(24)00151-1",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "review",
+        "journal article",
+        "research support, n.i.h., extramural"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "cardio"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-03233-x",
@@ -5939,6 +7145,31 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s44222-024-00239-5",
+      "pmid": "",
+      "title": "The state of clinical trials of implantable brain–computer interfaces",
+      "journal": "Nature Reviews Bioengineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-09-20",
+      "year": "2024",
+      "first_author": "Patrick-Krueger K",
+      "url": "https://doi.org/10.1038/s44222-024-00239-5",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1016/s2589-7500(24)00143-2",
       "pmid": "39294061",
       "title": "Generative artificial intelligence and ethical considerations in health care: a scoping review and ethics checklist",
@@ -5963,6 +7194,54 @@
       "specialties": [],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41562-024-01972-y",
+      "pmid": "39289533",
+      "title": "Ethical challenges in translating brain–computer interfaces",
+      "journal": "Nature Human Behaviour",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-09-17",
+      "year": "2024",
+      "first_author": "Wexler A",
+      "url": "https://doi.org/10.1038/s41562-024-01972-y",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
+      "doi": "10.1126/science.adq1814",
+      "pmid": "39264999",
+      "title": "Durably reducing conspiracy beliefs through dialogues with AI",
+      "journal": "Science",
+      "group": "Science 正刊与子刊",
+      "date": "2024-09-13",
+      "year": "2024",
+      "first_author": "Costello TH",
+      "url": "https://doi.org/10.1126/science.adq1814",
+      "code": "",
+      "abstract": "Conspiracy theory beliefs are notoriously persistent. Influential hypotheses propose that they fulfill important psychological needs, thus resisting counterevidence. Yet previous failures in correcting conspiracy beliefs may be due to counterevidence being insufficiently compelling and tailored. To evaluate this possibility, we leveraged developments in generative artificial intelligence and engaged 2190 conspiracy believers in personalized evidence-based dialogues with GPT-4 Turbo. The intervention reduced conspiracy belief by ~20%. The effect remained 2 months later, generalized across a wid",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1038/s42256-024-00889-5",
@@ -6072,6 +7351,115 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1056/nejmoa2314132",
+      "pmid": "39141853",
+      "title": "An Accurate and Rapidly Calibrating Speech Neuroprosthesis",
+      "journal": "NEJM",
+      "group": "顶级医学期刊",
+      "date": "2024-08-15",
+      "year": "2024",
+      "first_author": "Card N",
+      "url": "https://doi.org/10.1056/nejmoa2314132",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "research-article",
+        "research support, u.s. gov't, non-p.h.s.",
+        "journal article",
+        "case reports",
+        "research support, n.i.h., extramural"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
+      "doi": "10.1056/nejmoa2314598",
+      "pmid": "39141854",
+      "title": "Longevity of a Brain–Computer Interface for Amyotrophic Lateral Sclerosis",
+      "journal": "NEJM",
+      "group": "顶级医学期刊",
+      "date": "2024-08-15",
+      "year": "2024",
+      "first_author": "Vansteensel M",
+      "url": "https://doi.org/10.1056/nejmoa2314598",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "research support, non-u.s. gov't",
+        "research-article",
+        "journal article",
+        "case reports",
+        "research support, n.i.h., extramural"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cell.2024.07.030",
+      "pmid": "39137777",
+      "title": "Macrophage-mediated myelin recycling fuels brain cancer malignancy",
+      "journal": "Cell",
+      "group": "Cell 正刊与子刊",
+      "date": "2024-08-12",
+      "year": "2024",
+      "first_author": "Kloosterman DJ",
+      "url": "https://doi.org/10.1016/j.cell.2024.07.030",
+      "code": "",
+      "abstract": "Tumors growing in metabolically challenged environments, such as glioblastoma in the brain, are particularly reliant on crosstalk with their tumor microenvironment (TME) to satisfy their high energetic needs. To study the intricacies of this metabolic interplay, we interrogated the heterogeneity of the glioblastoma TME using single-cell and multi-omics analyses and identified metabolically rewired tumor-associated macrophage (TAM) subpopulations with pro-tumorigenic properties. These TAM subsets, termed lipid-laden macrophages (LLMs) to reflect their cholesterol accumulation, are epigeneticall",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "onco"
+      ]
+    },
+    {
+      "doi": "10.1038/s44222-024-00230-0",
+      "pmid": "",
+      "title": "Reality check for brain–machine interfaces",
+      "journal": "Nature Reviews Bioengineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-08-12",
+      "year": "2024",
+      "first_author": "",
+      "url": "https://doi.org/10.1038/s44222-024-00230-0",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-03185-2",
@@ -6458,6 +7846,32 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s44222-024-00177-2",
+      "pmid": "40988938",
+      "title": "Brain–computer interfaces for neuropsychiatric disorders",
+      "journal": "Nature Reviews Bioengineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-06-03",
+      "year": "2024",
+      "first_author": "Oganesian L",
+      "url": "https://doi.org/10.1038/s44222-024-00177-2",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1056/aics2300235",
       "pmid": "",
       "title": "GPT-4 for Information Retrieval and Comparison of Medical Oncology Guidelines",
@@ -6533,6 +7947,32 @@
       "model": "Prov-GigaPath"
     },
     {
+      "doi": "10.1038/s41551-024-01207-5",
+      "pmid": "38769157",
+      "title": "A bilingual speech neuroprosthesis driven by cortical articulatory representations shared between languages",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-05-20",
+      "year": "2024",
+      "first_author": "Silva AB",
+      "url": "https://doi.org/10.1038/s41551-024-01207-5",
+      "code": "",
+      "abstract": "Advancements in decoding speech from brain activity have focused on decoding a single language. Hence, the extent to which bilingual speech production relies on unique or shared cortical activity across languages has remained unclear. Here, we leveraged electrocorticography, along with deep-learning and statistical natural-language models of English and Spanish, to record and decode activity from speech-motor cortex of a Spanish-English bilingual with vocal-tract and limb paralysis into sentences in either language. This was achieved without requiring the participant to manually specify the ta",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1038/s41591-024-02970-3",
       "pmid": "38740998",
       "title": "Artificial intelligence in surgery",
@@ -6557,6 +7997,33 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41562-024-01867-y",
+      "pmid": "38740984",
+      "title": "Representation of internal speech by single neurons in human supramarginal gyrus",
+      "journal": "Nature Human Behaviour",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-05-13",
+      "year": "2024",
+      "first_author": "Wandelt S",
+      "url": "https://doi.org/10.1038/s41562-024-01867-y",
+      "code": "",
+      "abstract": "Abstract Speech brain–machine interfaces (BMIs) translate brain signals into words or audio outputs, enabling communication for people having lost their speech abilities due to diseases or injury. While important advances in vocalized, attempted and mimed speech decoding have been achieved, results for internal speech decoding are sparse and have yet to achieve high functionality. Notably, it is still unclear from which brain areas internal speech can be decoded. Here two participants with tetraplegia with implanted microelectrode arrays located in the supramarginal gyrus (SMG) and primary som",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci",
+        "decode"
+      ]
     },
     {
       "doi": "10.1038/s41591-024-02959-y",
@@ -6713,6 +8180,31 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s44222-024-00187-0",
+      "pmid": "",
+      "title": "The convergence of neuromodulation and brain–computer interfaces",
+      "journal": "Nature Reviews Bioengineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-04-22",
+      "year": "2024",
+      "first_author": "Herron J",
+      "url": "https://doi.org/10.1038/s44222-024-00187-0",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1038/s41591-024-02887-x",
       "pmid": "38627560",
       "title": "Transparent medical image AI via an image-text foundation model grounded in medical literature",
@@ -6763,6 +8255,34 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s42256-024-00824-8",
+      "pmid": "41799923",
+      "title": "A neural speech decoding framework leveraging deep learning and speech synthesis",
+      "journal": "Nature Machine Intelligence",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-04-08",
+      "year": "2024",
+      "first_author": "Chen X",
+      "url": "https://doi.org/10.1038/s42256-024-00824-8",
+      "code": "",
+      "abstract": "Abstract Decoding human speech from neural signals is essential for brain–computer interface (BCI) technologies that aim to restore speech in populations with neurological deficits. However, it remains a highly challenging task, compounded by the scarce availability of neural signals with corresponding speech, data complexity and high dimensionality. Here we present a novel deep learning-based neural speech decoding framework that includes an ECoG decoder that translates electrocorticographic (ECoG) signals from the cortex into interpretable speech parameters and a novel differentiable speech ",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci",
+        "decode",
+        "neuro"
+      ]
     },
     {
       "doi": "10.1001/jama.2023.27861",
@@ -6945,6 +8465,33 @@
       ],
       "source": "epmc",
       "model": "CORAL"
+    },
+    {
+      "doi": "10.1126/scitranslmed.adg3665",
+      "pmid": "38478631",
+      "title": "Cortical hyperexcitability in mouse models and patients with amyotrophic lateral sclerosis is linked to noradrenaline deficiency",
+      "journal": "Science Translational Medicine",
+      "group": "Science 正刊与子刊",
+      "date": "2024-03-13",
+      "year": "2024",
+      "first_author": "Scekic-Zahirovic J",
+      "url": "https://doi.org/10.1126/scitranslmed.adg3665",
+      "code": "",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a devastating neurodegenerative disease, characterized by the death of upper (UMN) and lower motor neurons (LMN) in the motor cortex, brainstem, and spinal cord. Despite decades of research, ALS remains incurable, challenging to diagnose, and of extremely rapid progression. A unifying feature of sporadic and familial forms of ALS is cortical hyperexcitability, which precedes symptom onset, negatively correlates with survival, and is sufficient to trigger neurodegeneration in rodents. Using electrocorticography in the Sod1 G86R and Fus Δ NLS/+ ALS mouse mo",
+      "pub_types": [
+        "research support, non-u.s. gov't",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci",
+        "neuro"
+      ]
     },
     {
       "doi": "10.1148/ryai.230205",
@@ -7336,6 +8883,57 @@
       ]
     },
     {
+      "doi": "10.1038/s41587-023-02067-1",
+      "pmid": "38082082",
+      "title": "A neuroprosthesis for Parkinson’s disease",
+      "journal": "Nature Biotechnology",
+      "group": "Nature 正刊与子刊",
+      "date": "2023-12-01",
+      "year": "2023",
+      "first_author": "Bishop A",
+      "url": "https://doi.org/10.1038/s41587-023-02067-1",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci",
+        "neuro"
+      ]
+    },
+    {
+      "doi": "10.1038/s41593-023-01528-9",
+      "pmid": "38040974",
+      "title": "This neuroprosthesis was made for walking",
+      "journal": "Nature Neuroscience",
+      "group": "Nature 正刊与子刊",
+      "date": "2023-12-01",
+      "year": "2023",
+      "first_author": "Zarate J",
+      "url": "https://doi.org/10.1038/s41593-023-01528-9",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
       "doi": "10.1038/s41591-023-02700-1",
       "pmid": "38036704",
       "title": "Six ways large language models are changing healthcare",
@@ -7357,6 +8955,85 @@
       "status": "new",
       "model": "",
       "specialties": []
+    },
+    {
+      "doi": "10.1038/s41593-023-01500-7",
+      "pmid": "38036744",
+      "title": "Decoding motor plans using a closed-loop ultrasonic brain–machine interface",
+      "journal": "Nature Neuroscience",
+      "group": "Nature 正刊与子刊",
+      "date": "2023-11-30",
+      "year": "2023",
+      "first_author": "Griggs W",
+      "url": "https://doi.org/10.1038/s41593-023-01500-7",
+      "code": "",
+      "abstract": "Abstract Brain–machine interfaces (BMIs) enable people living with chronic paralysis to control computers, robots and more with nothing but thought. Existing BMIs have trade-offs across invasiveness, performance, spatial coverage and spatiotemporal resolution. Functional ultrasound (fUS) neuroimaging is an emerging technology that balances these attributes and may complement existing BMI recording technologies. In this study, we use fUS to demonstrate a successful implementation of a closed-loop ultrasonic BMI. We streamed fUS data from the posterior parietal cortex of two rhesus macaque monke",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci",
+        "us",
+        "neuro"
+      ]
+    },
+    {
+      "doi": "10.1126/science.adh5206",
+      "pmid": "37917713",
+      "title": "Volitional activation of remote place representations with a hippocampal brain–machine interface",
+      "journal": "Science",
+      "group": "Science 正刊与子刊",
+      "date": "2023-11-03",
+      "year": "2023",
+      "first_author": "Lai C",
+      "url": "https://doi.org/10.1126/science.adh5206",
+      "code": "",
+      "abstract": "The hippocampus is critical for recollecting and imagining experiences. This is believed to involve voluntarily drawing from hippocampal memory representations of people, events, and places, including maplike representations of familiar environments. However, whether representations in such “cognitive maps” can be volitionally accessed is unknown. We developed a brain–machine interface to test whether rats can do so by controlling their hippocampal activity in a flexible, goal-directed, and model-based manner. We found that rats can efficiently navigate or direct objects to arbitrary goal loca",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
+      "doi": "10.1126/science.adl0806",
+      "pmid": "37917674",
+      "title": "The neural basis of mental navigation in rats",
+      "journal": "Science",
+      "group": "Science 正刊与子刊",
+      "date": "2023-11-03",
+      "year": "2023",
+      "first_author": "Coulter M",
+      "url": "https://doi.org/10.1126/science.adl0806",
+      "code": "",
+      "abstract": "A brain–machine interface demonstrates volitional control of hippocampal activity",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
     },
     {
       "doi": "10.1038/s41587-023-02011-3",
@@ -7406,6 +9083,34 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41591-023-02584-1",
+      "pmid": "37932548",
+      "title": "A spinal cord neuroprosthesis for locomotor deficits due to Parkinson’s disease",
+      "journal": "Nature Medicine",
+      "group": "Nature 正刊与子刊",
+      "date": "2023-11-01",
+      "year": "2023",
+      "first_author": "Milekovic T",
+      "url": "https://doi.org/10.1038/s41591-023-02584-1",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "research support, non-u.s. gov't",
+        "journal article",
+        "case reports"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci",
+        "neuro"
+      ]
     },
     {
       "doi": "10.1001/jama.2023.19137",
@@ -7585,6 +9290,64 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s41586-023-06377-x",
+      "pmid": "37612500",
+      "title": "A high-performance speech neuroprosthesis",
+      "journal": "Nature",
+      "group": "Nature 正刊与子刊",
+      "date": "2023-08-23",
+      "year": "2023",
+      "first_author": "Willett F",
+      "url": "https://doi.org/10.1038/s41586-023-06377-x",
+      "code": "",
+      "abstract": "Abstract Speech brain–computer interfaces (BCIs) have the potential to restore rapid communication to people with paralysis by decoding neural activity evoked by attempted speech into text 1,2 or sound 3,4 . Early demonstrations, although promising, have not yet achieved accuracies sufficiently high for communication of unconstrained sentences from a large vocabulary 1–7 . Here we demonstrate a speech-to-text BCI that records spiking activity from intracortical microelectrode arrays. Enabled by these high-resolution recordings, our study participant—who can no longer speak intelligibly owing t",
+      "pub_types": [
+        "research support, non-u.s. gov't",
+        "research-article",
+        "research support, u.s. gov't, non-p.h.s.",
+        "journal article",
+        "research support, n.i.h., extramural"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci"
+      ]
+    },
+    {
+      "doi": "10.1038/s41586-023-06443-4",
+      "pmid": "37612505",
+      "title": "A high-performance neuroprosthesis for speech decoding and avatar control",
+      "journal": "Nature",
+      "group": "Nature 正刊与子刊",
+      "date": "2023-08-23",
+      "year": "2023",
+      "first_author": "Metzger S",
+      "url": "https://doi.org/10.1038/s41586-023-06443-4",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "research support, non-u.s. gov't",
+        "research-article",
+        "journal article",
+        "research support, n.i.h., extramural"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "bci",
+        "decode"
+      ]
+    },
+    {
       "doi": "10.1038/s41591-023-02504-3",
       "pmid": "37592105",
       "title": "A visual-language foundation model for pathology image analysis using medical Twitter",
@@ -7632,6 +9395,29 @@
       "status": "new",
       "model": "",
       "specialties": []
+    },
+    {
+      "doi": "10.1038/s41593-023-01304-9",
+      "pmid": "",
+      "title": "Semantic reconstruction of continuous language from non-invasive brain recordings",
+      "journal": "Nature Neuroscience",
+      "group": "Nature 正刊与子刊",
+      "date": "2023-05-01",
+      "year": "2023",
+      "first_author": "Tang J",
+      "url": "https://doi.org/10.1038/s41593-023-01304-9",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "added_batch": "manual",
+      "specialties": [],
+      "tags": [],
+      "highlight": false,
+      "manual": true,
+      "status": "kept",
+      "model": ""
     }
   ],
   "batches": [
@@ -7641,7 +9427,7 @@
     },
     {
       "batch": "2026-08-31",
-      "added": 105
+      "added": 101
     },
     {
       "batch": "initial",

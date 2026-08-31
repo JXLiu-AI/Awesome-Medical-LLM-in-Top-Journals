@@ -6,6 +6,8 @@
 2. 核心方法是大语言模型、多模态基础模型，或者建立在它们之上的智能体。传统 CNN、统计模型不算。
 3. 面向临床、公共卫生或生物医学场景，不是通用 NLP。
 
+脑机接口与脑解码是例外，走 `include_topics` 的主题级通道：主题词命中标题或摘要开头即收，不要求出现模型词。这类论文的摘要重心是病人恢复了多少功能，解码模型写在正文——Willett 那篇 Nature 语音神经假体的摘要里 `language model`、`neural network`、`transformer`、`decoder` 全都没有，卡模型词会漏掉整个领域最重要的几篇。
+
 关键词只在标题和摘要前 700 字里匹配，长度由 `lead_chars` 控制。
 
 数据源有两个：Europe PMC 和 Crossref。Europe PMC 对 Nature Machine Intelligence、Nature Reviews Bioengineering、NEJM AI 的收录只有 7%~13%，Crossref 按 ISSN 补齐。Crossref 没有文献类型字段，来信和社论靠 `exclude_title_prefix` 的标题前缀挡掉。

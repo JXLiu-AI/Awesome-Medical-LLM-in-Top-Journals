@@ -1,5 +1,5 @@
 {
-  "_comment": "命中规则：标题或摘要须命中 include 中任一词，且不命中 exclude 中任一词。收窄/放宽范围只改这里。 exclude_pub_types 按 Europe PMC 的 pubType 过滤社论/通讯/勘误。 exclude_title_prefix 针对 Crossref：它没有文献类型字段，只能靠标题挡掉来信和社论。 medical_hint 只留临床词；原先含 genom/biomed/drug/trial/disease，会把基因组与蛋白质基础模型放进来。exclude_doi_prefix 挡 Nature 新闻（d41586 前缀）。",
+  "_comment": "命中规则：标题或摘要须命中 include 中任一词，且不命中 exclude 中任一词。收窄/放宽范围只改这里。 exclude_pub_types 按 Europe PMC 的 pubType 过滤社论/通讯/勘误。 exclude_title_prefix 针对 Crossref：它没有文献类型字段，只能靠标题挡掉来信和社论。 medical_hint 只留临床词；原先含 genom/biomed/drug/trial/disease，会把基因组与蛋白质基础模型放进来。exclude_doi_prefix 挡 Nature 新闻（d41586 前缀）。 脑机接口按窄口径收：仍要求命中大模型/基础模型词，只是补了 neuro/brain 等词让它们能过医学性判定。 include_pairs 表达组合条件：脑机接口论文须同时命中 a 组和 b 组才收。",
   "date_from": "2023-08-01",
   "include": [
     "AI agent",
@@ -95,7 +95,15 @@
     "clinical trial",
     "care delivery",
     "bedside",
-    "ward"
+    "ward",
+    "neuro",
+    "brain",
+    "cortical",
+    "neural activity",
+    "paralysis",
+    "paralysed",
+    "paralyzed",
+    "rehabilitat"
   ],
   "exclude_pub_types": [
     "editorial",
@@ -133,5 +141,32 @@
   ],
   "exclude_doi_prefix": [
     "10.1038/d41586"
-  ]
+  ],
+  "include_topics": {
+    "_note": "主题级收录：这些词命中标题或摘要开头即收，不要求出现模型词。脑机接口与脑解码论文的摘要重心是恢复了多少功能，模型写在正文，要求摘要提模型会漏掉 Willett、Metzger、Card 这些奠基工作。",
+    "terms": [
+      "brain-computer interface",
+      "brain–computer interface",
+      "brain computer interface",
+      "brain-machine interface",
+      "brain–machine interface",
+      "neuroprosthes",
+      "neural decoding",
+      "brain decoding",
+      "speech decoding",
+      "semantic decoding",
+      "brain-to-text",
+      "brain-to-speech",
+      "brain-to-image",
+      "mind captioning",
+      "motor decoding",
+      "handwriting decoding",
+      "language decoding",
+      "reconstruction from brain activity",
+      "decoding from brain activity",
+      "intracortical microelectrode",
+      "electrocorticograph",
+      "neural implant"
+    ]
+  }
 }

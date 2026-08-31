@@ -109,6 +109,51 @@
       ]
     },
     {
+      "key": "decode",
+      "icon": "💭",
+      "name": "脑解码",
+      "kw": [
+        "brain decoding",
+        "semantic decoding",
+        "neural decoding",
+        "speech decoding",
+        "brain-to-text",
+        "brain-to-speech",
+        "brain-to-image",
+        "mind captioning",
+        "language decoding",
+        "reconstruction from brain activity",
+        "decoding from brain activity",
+        "handwriting decoding"
+      ]
+    },
+    {
+      "key": "bci",
+      "icon": "🎧",
+      "name": "脑机接口",
+      "kw": [
+        "brain-computer interface",
+        "brain–computer interface",
+        "brain computer interface",
+        "brain-machine interface",
+        "brain–machine interface",
+        "neural decoding",
+        "brain decoding",
+        "speech decoding",
+        "semantic decoding",
+        "neuroprosthes",
+        "intracortical",
+        "electrocorticograph",
+        "ECoG",
+        "brain-to-text",
+        "brain-to-speech",
+        "motor decoding",
+        "neural implant",
+        "implanted electrode array",
+        "invasive recording"
+      ]
+    },
+    {
       "key": "neuro",
       "icon": "🧠",
       "name": "神经",
