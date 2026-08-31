@@ -18,6 +18,12 @@ jobs:
           python-version: "3.12"
       - name: Fetch new papers
         run: python3 -u scripts/fetch.py | tee /tmp/fetch.log
+      - name: Enrich publication types
+        run: python3 -u scripts/enrich.py
+      - name: Prune out-of-scope
+        run: python3 -u scripts/prune.py
+      - name: Extract model names
+        run: python3 -u scripts/names.py
       - name: Tag specialties
         run: python3 -u scripts/tag.py
       - name: Render README

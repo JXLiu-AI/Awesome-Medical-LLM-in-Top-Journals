@@ -6,7 +6,7 @@
     python3 scripts/fetch.py            # 增量抓取
     python3 scripts/fetch.py --dry-run  # 只打印新命中，不写盘
 """
-import datetime, json, re, sys, time, urllib.parse, urllib.request
+import datetime, fcntl, json, re, sys, time, urllib.parse, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -128,6 +128,9 @@ def bad_title(title, flt):
 def matches(rec, flt):
     if bad_title(rec.get("title", ""), flt):
         return False
+    doi = (rec.get("doi") or "").lower()
+    if any(doi.startswith(x) for x in flt.get("exclude_doi_prefix", [])):
+        return False   # Nature 新闻走 10.1038/d41586 前缀
     types = pub_types(rec)
     bad = [t.lower() for t in flt.get("exclude_pub_types", [])]
     if any(any(b in t for b in bad) for t in types):
@@ -177,6 +180,13 @@ def to_entry(rec, group, journal_display):
 
 
 def main():
+    # 抓取要跑十几分钟，期间若有别的脚本（add.py 等）写库，结果会被互相覆盖。
+    lock = open(ROOT / "data/.lock", "w")
+    try:
+        fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        sys.exit("data/papers.json 正被另一个进程写入，稍后再试")
+
     dry = "--dry-run" in sys.argv
     venues = load("config/venues.json", {})
     flt = load("config/filters.json", {})

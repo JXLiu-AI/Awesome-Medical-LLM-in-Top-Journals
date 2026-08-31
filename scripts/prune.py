@@ -23,7 +23,10 @@ def main():
         if p.get("manual") or p.get("status") == "kept":
             keep.append(p); continue
         lead = f"{p.get('title','')} {p.get('abstract','')}".lower()
+        bad = [t.lower() for t in flt.get("exclude_pub_types", [])]
         ok = (not bad_title(p.get("title", ""), flt)
+              and not any(p["doi"].startswith(x) for x in flt.get("exclude_doi_prefix", []))
+              and not any(any(b in t for b in bad) for t in p.get("pub_types", []))
               and any(re.search(_pat(k), lead) for k in flt["include"])
               and not any(re.search(_pat(k), lead) for k in flt["exclude"])
               and any(re.search(_pat(k), lead) for k in flt["medical_hint"]))

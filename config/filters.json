@@ -1,5 +1,5 @@
 {
-  "_comment": "命中规则：标题或摘要须命中 include 中任一词，且不命中 exclude 中任一词。收窄/放宽范围只改这里。 exclude_pub_types 按 Europe PMC 的 pubType 过滤社论/通讯/勘误。 exclude_title_prefix 针对 Crossref：它没有文献类型字段，只能靠标题挡掉来信和社论。",
+  "_comment": "命中规则：标题或摘要须命中 include 中任一词，且不命中 exclude 中任一词。收窄/放宽范围只改这里。 exclude_pub_types 按 Europe PMC 的 pubType 过滤社论/通讯/勘误。 exclude_title_prefix 针对 Crossref：它没有文献类型字段，只能靠标题挡掉来信和社论。 medical_hint 只留临床词；原先含 genom/biomed/drug/trial/disease，会把基因组与蛋白质基础模型放进来。exclude_doi_prefix 挡 Nature 新闻（d41586 前缀）。",
   "date_from": "2023-08-01",
   "include": [
     "AI agent",
@@ -42,13 +42,35 @@
   ],
   "exclude": [
     "linear mixed model",
-    "logistic regression only"
+    "logistic regression only",
+    "genome modelling",
+    "genome modeling",
+    "DNA foundation model",
+    "RNA foundation model",
+    "protein language model",
+    "nucleotide transformer",
+    "cell atlas",
+    "spatial omics",
+    "spatial transcriptomics",
+    "single-cell foundation model",
+    "single-cell large language model",
+    "protein structure prediction",
+    "antibody design",
+    "amino acid alphabet",
+    "gene regulatory",
+    "cell-free RNA",
+    "protein pocket",
+    "molecular design",
+    "single-nucleotide resolution",
+    "protein and antibody"
   ],
   "must_be_medical": true,
   "medical_hint": [
     "clinic",
+    "clinician",
     "patient",
     "medical",
+    "medicine",
     "health",
     "diagnos",
     "hospital",
@@ -63,11 +85,17 @@
     "triage",
     "psychiatr",
     "surg",
-    "genom",
-    "biomed",
-    "drug",
-    "trial",
-    "care"
+    "primary care",
+    "emergency department",
+    "public health",
+    "epidemiolog",
+    "biomedical",
+    "mental health",
+    "psycho",
+    "clinical trial",
+    "care delivery",
+    "bedside",
+    "ward"
   ],
   "exclude_pub_types": [
     "editorial",
@@ -102,5 +130,8 @@
     "withdrawal",
     "re:",
     "rejoinder"
+  ],
+  "exclude_doi_prefix": [
+    "10.1038/d41586"
   ]
 }

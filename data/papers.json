@@ -1,6 +1,132 @@
 {
   "papers": [
     {
+      "doi": "10.1016/j.landig.2026.101073",
+      "pmid": "42665468",
+      "title": "Autonomous agentic artificial intelligence systems in health care: friend or foe?",
+      "journal": "The Lancet Digital Health",
+      "group": "顶级医学期刊",
+      "date": "2026-08-29",
+      "year": "2026",
+      "first_author": "Qin Y",
+      "url": "https://doi.org/10.1016/j.landig.2026.101073",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
+      "doi": "10.1016/j.landig.2026.101031",
+      "pmid": "42665469",
+      "title": "Performance and label efficiency of traditional deep-learning models and a retina-specific foundation model for ocular and systemic disease detection: a retrospective comparative study",
+      "journal": "The Lancet Digital Health",
+      "group": "顶级医学期刊",
+      "date": "2026-08-28",
+      "year": "2026",
+      "first_author": "Yew SME",
+      "url": "https://doi.org/10.1016/j.landig.2026.101031",
+      "code": "",
+      "abstract": "<h4>Background</h4>RETFound, a self-supervised retina-specific foundation model, has shown potential in downstream tasks, but its performance in comparison with that of traditional deep-learning models remains unclear. We aimed to evaluate RETFound against three supervised deep-learning models (ResNet50, ViT-Base, and SwinV2) pretrained on images from ImageNet for the detection of several ocular (disease-related visual impairment, visually significant cataract, glaucoma, and diabetic retinopathy) and systemic (diabetes, hypertension, and chronic kidney disease) diseases.<h4>Methods</h4>In this",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "ophth"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landig.2026.101049",
+      "pmid": "42660738",
+      "title": "Multimodal artificial intelligence-based long-term mortality prediction after transcatheter aortic valve implantation: a multicentre development, validation, and testing study",
+      "journal": "The Lancet Digital Health",
+      "group": "顶级医学期刊",
+      "date": "2026-08-27",
+      "year": "2026",
+      "first_author": "Shiri I",
+      "url": "https://doi.org/10.1016/j.landig.2026.101049",
+      "code": "",
+      "abstract": "<h4>Background</h4>Appropriate risk prediction is essential to inform long-term management in patients with symptomatic severe aortic stenosis after transcatheter aortic valve implantation (TAVI). We aimed to develop multimodal artificial intelligence (AI)-based models to predict long-term mortality of patients with symptomatic severe aortic stenosis following TAVI.<h4>Methods</h4>In this multicentre development, validation, and testing study, multimodal data (including clinical assessments, laboratory values, electrocardiograms, echocardiograms, cardiac catheterisation results, CT scans, and ",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "cardio",
+        "us",
+        "radiol"
+      ]
+    },
+    {
+      "doi": "10.1001/jama.2026.12837",
+      "pmid": "42658547",
+      "title": "ADVOCATing for Patients With Heart Failure",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2026-08-27",
+      "year": "2026",
+      "first_author": "Perlis R",
+      "url": "https://doi.org/10.1001/jama.2026.12837",
+      "code": "",
+      "abstract": "The ADVOCATE initiative and how autonomous AI agents could help patients with heart failure are discussed by JAMA+ AI Editor in Chief Roy Perlis, MD, MSc, and Haider Warraich, MD, a cardiologist and the program manager at ARPA-H, for the JAMA+ AI Conversations podcast.",
+      "pub_types": [
+        "video-audio media",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "cardio"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landig.2026.101039",
+      "pmid": "42642264",
+      "title": "Toward unified and comprehensive automated electroencephalogram interpretation: a multicentre development and validation of an electroencephalogram foundation model",
+      "journal": "The Lancet Digital Health",
+      "group": "顶级医学期刊",
+      "date": "2026-08-25",
+      "year": "2026",
+      "first_author": "Sun C",
+      "url": "https://doi.org/10.1016/j.landig.2026.101039",
+      "code": "",
+      "abstract": "<h4>Background</h4>Electroencephalogram (EEG) interpretation is essential for neurological diagnosis, but expert interpretation is limited globally, and existing AI methods address narrow tasks. This study aimed to develop and externally validate a broadly applicable foundation model capable of expert-level performance across diverse EEG tasks and clinical settings.<h4>Methods</h4>In this multicentre study we developed a multidomain omnibus for reading and generalising over thorough EEG interpretation (MORGOTH), a foundation model that supports broad clinical interpretation across all major se",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "neuro"
+      ]
+    },
+    {
       "doi": "10.1056/aics2600199",
       "pmid": "",
       "title": "Parental Perspectives on Using Large Language Model–Powered Chatbots in Rare Disease Care",
@@ -24,6 +150,55 @@
       ],
       "source": "crossref",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41586-026-10687-1",
+      "pmid": "42618758",
+      "title": "Safety and security of large language models in healthcare",
+      "journal": "Nature",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-08-19",
+      "year": "2026",
+      "first_author": "Clusmann J",
+      "url": "https://doi.org/10.1038/s41586-026-10687-1",
+      "code": "",
+      "abstract": "Integration of artificial intelligence methods into clinical care is proceeding rapidly, driven by advances in generative artificial intelligence, most notably large language models. Large language models trained on large amounts of text have shown potential across nearly every domain of healthcare. However, their broad applicability also comes with new responsibilities, vulnerabilities and threats. These need to be assessed and mitigated before widespread clinical adoption. Here we review the available literature on security and safety of large language models themselves as well as their inte",
+      "pub_types": [
+        "review",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
+      "doi": "10.1038/s41591-026-04601-5",
+      "pmid": "42618632",
+      "title": "Prospective evaluation of a large language model clinical decision support system in the emergency department",
+      "journal": "Nature Medicine",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-08-19",
+      "year": "2026",
+      "first_author": "Leibovitch L",
+      "url": "https://doi.org/10.1038/s41591-026-04601-5",
+      "code": "",
+      "abstract": "Prospective evidence for artificial intelligence (AI)-based clinical decision support in emergency departments remains limited. Here we conducted a DECIDE-AI stage 1 evaluation of SHAKED, a clinical decision support system built on multiple large language models, in a tertiary emergency department. Over 4 weeks, 1,138 patients were analyzed across two parallel units-one using SHAKED and one following routine rotations. Clinical adoption of SHAKED declined from 68% to 30%, owing to workload-sensitive disengagement (OR = 0.72 per shift hour, 95% CI 0.62 to 0.83). Physicians preferred the use of ",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "emerg"
+      ]
     },
     {
       "doi": "10.1056/aip2600583",
@@ -72,6 +247,53 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s41551-026-01764-x",
+      "pmid": "42608573",
+      "title": "An explainable biomedical foundation model via large-scale concept-enhanced vision-language pretraining",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-08-17",
+      "year": "2026",
+      "first_author": "Nie Y",
+      "url": "https://doi.org/10.1038/s41551-026-01764-x",
+      "code": "",
+      "abstract": "Artificial intelligence for medical imaging is required to be accurate and interpretable to clinicians. However, current multimodal biomedical foundation models often prioritize performance over explainability. Here we present ConceptCLIP, an explainable biomedical foundation model that achieves state-of-the-art diagnostic accuracy while delivering human-interpretable explanations across diverse imaging modalities. We curate MedConcept-23M, a large-scale dataset comprising 23 million biomedical image-text-concept triplets. Leveraging this dataset, we pretrain ConceptCLIP via joint image-text a",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "ConceptCLIP",
+      "specialties": []
+    },
+    {
+      "doi": "10.1038/s41551-026-01762-z",
+      "pmid": "42595819",
+      "title": "Foundation models in biomedical imaging: turning hype into reality",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-08-11",
+      "year": "2026",
+      "first_author": "Muneer A",
+      "url": "https://doi.org/10.1038/s41551-026-01762-z",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "review",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41591-026-04577-2",
       "pmid": "42567928",
       "title": "A clinically validated framework for auditing AI chatbot behavior in mental health interactions",
@@ -95,6 +317,52 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1016/j.landig.2026.101043",
+      "pmid": "42392906",
+      "title": "Deception in clinical large language models: an under-recognised safety risk",
+      "journal": "The Lancet Digital Health",
+      "group": "顶级医学期刊",
+      "date": "2026-08-01",
+      "year": "2026",
+      "first_author": "Reddy A",
+      "url": "https://doi.org/10.1016/j.landig.2026.101043",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
+      "doi": "10.1001/jama.2026.13187",
+      "pmid": "42490104",
+      "title": "How Generative AI Should Transform Clinical Decision Support",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2026-08-01",
+      "year": "2026",
+      "first_author": "Liu S",
+      "url": "https://doi.org/10.1001/jama.2026.13187",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-026-04521-4",
@@ -219,7 +487,7 @@
     },
     {
       "doi": "10.1038/s41467-026-75718-x",
-      "pmid": "",
+      "pmid": "42637739",
       "title": "A multimodal vision-language model for comprehensive dental diagnosis and enhanced clinical practice",
       "journal": "Nature Communications",
       "group": "Nature 正刊与子刊",
@@ -242,6 +510,31 @@
       "status": "kept",
       "source": "crossref",
       "model": ""
+    },
+    {
+      "doi": "10.1001/jama.2026.8310",
+      "pmid": "42313532",
+      "title": "About 1 in 5 US Youth Use AI Chatbots for Mental Health Advice",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2026-07-14",
+      "year": "2026",
+      "first_author": "Anderer S",
+      "url": "https://doi.org/10.1001/jama.2026.8310",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "psych"
+      ]
     },
     {
       "doi": "10.1038/s41551-026-01740-5",
@@ -645,7 +938,7 @@
     },
     {
       "doi": "10.1038/s41591-026-04457-9",
-      "pmid": "",
+      "pmid": "42310441",
       "title": "General-purpose chatbots outperform clinical AI tools on physicians’ real-world questions",
       "journal": "Nature Medicine",
       "group": "Nature 正刊与子刊",
@@ -691,7 +984,7 @@
     },
     {
       "doi": "10.1038/s41551-026-01696-6",
-      "pmid": "",
+      "pmid": "42286251",
       "title": "Rethinking foundation models in pathology",
       "journal": "Nature Biomedical Engineering",
       "group": "Nature 正刊与子刊",
@@ -792,33 +1085,8 @@
       "model": ""
     },
     {
-      "doi": "10.1016/j.landig.2026.101064",
-      "pmid": "",
-      "title": "Large language models and the mental health crisis",
-      "journal": "The Lancet Digital Health",
-      "group": "顶级医学期刊",
-      "date": "2026-06-01",
-      "year": "2026",
-      "first_author": "The Lancet Digital Health",
-      "url": "https://doi.org/10.1016/j.landig.2026.101064",
-      "code": "",
-      "abstract": "",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "psych"
-      ],
-      "source": "crossref",
-      "model": ""
-    },
-    {
       "doi": "10.1016/j.landig.2026.100982",
-      "pmid": "",
+      "pmid": "42203629",
       "title": "Co-intelligence: a proposal for human–artificial intelligence collaboration for large language models in medical research",
       "journal": "The Lancet Digital Health",
       "group": "顶级医学期刊",
@@ -829,6 +1097,7 @@
       "code": "",
       "abstract": "",
       "pub_types": [
+        "review",
         "journal article"
       ],
       "added_batch": "2026-08-20",
@@ -1013,7 +1282,7 @@
     },
     {
       "doi": "10.1148/ryai.250600",
-      "pmid": "",
+      "pmid": "41949457",
       "title": "Clinic-aligned Dual Distillation of Video and Image Foundation Models for Automated Breast Cancer US Diagnosis",
       "journal": "Radiology: Artificial Intelligence",
       "group": "影像与医学信息学旗舰刊",
@@ -1024,6 +1293,7 @@
       "code": "",
       "abstract": "USDist, a lightweight dual-distillation US model, demonstrated high diagnostic performance and multicenter generalizability for automated breast cancer diagnosis while substantially reducing computational complexity.",
       "pub_types": [
+        "multicenter study",
         "journal article"
       ],
       "added_batch": "2026-08-20",
@@ -1035,6 +1305,32 @@
       ],
       "source": "crossref",
       "model": ""
+    },
+    {
+      "doi": "10.1148/ryai.250675",
+      "pmid": "42053415",
+      "title": "Deep Learning for Survival Prediction in Glioblastoma: Time-dependent Model Interpretability Using MRI, Clinical, and Molecular Data",
+      "journal": "Radiology: Artificial Intelligence",
+      "group": "影像与医学信息学旗舰刊",
+      "date": "2026-05-01",
+      "year": "2026",
+      "first_author": "Lee J",
+      "url": "https://doi.org/10.1148/ryai.250675",
+      "code": "",
+      "abstract": "Purpose To develop a multimodal model for survival prediction and time-dependent model interpretability in glioblastoma by integrating preoperative MRI with clinical and molecular variables. Materials and Methods This retrospective multicenter study included two institutional cohorts (February 2007-December 2024) and two public external test sets. A deep learning-based prognostic index (DPI) was generated from preoperative multiparametric MRI using a vision transformer. The DPI was integrated with clinical variables (age, sex, Karnofsky performance status, extent of resection), molecular marke",
+      "pub_types": [
+        "multicenter study",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "radiol"
+      ]
     },
     {
       "doi": "10.1126/science.adz4433",
@@ -1058,6 +1354,29 @@
       "specialties": [],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41587-026-03135-y",
+      "pmid": "42062613",
+      "title": "Tracing the rise of biomedical foundation models",
+      "journal": "Nature Biotechnology",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-04-30",
+      "year": "2026",
+      "first_author": "Chang Y",
+      "url": "https://doi.org/10.1038/s41587-026-03135-y",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-026-04357-y",
@@ -1213,6 +1532,32 @@
       "model": ""
     },
     {
+      "doi": "10.1001/jama.2025.24027",
+      "pmid": "41885822",
+      "title": "AI Chatbots and Youth Mental Health",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2026-04-21",
+      "year": "2026",
+      "first_author": "Hswen Y",
+      "url": "https://doi.org/10.1001/jama.2025.24027",
+      "code": "",
+      "abstract": "JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, spoke with John Torous, MD, MBI, host of the JAMA Psychiatry Author Interviews podcast and director of digital psychiatry for the Department of Psychiatry at Beth Israel Deaconess Medical Center in Boston, Massachusetts, for JAMA+ AI Conversations.",
+      "pub_types": [
+        "video-audio media",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "psych"
+      ]
+    },
+    {
       "doi": "10.1016/j.landig.2026.100980",
       "pmid": "41966942",
       "title": "ChatGPT for obesity management: a review of evidence, potential challenges, and clinical implications",
@@ -1292,6 +1637,29 @@
       "model": ""
     },
     {
+      "doi": "10.1016/j.landig.2026.100983",
+      "pmid": "42025544",
+      "title": "Can large language models help young researchers develop new clinical research ideas?",
+      "journal": "The Lancet Digital Health",
+      "group": "顶级医学期刊",
+      "date": "2026-04-01",
+      "year": "2026",
+      "first_author": "Yang Y",
+      "url": "https://doi.org/10.1016/j.landig.2026.100983",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41551-026-01634-6",
       "pmid": "41912700",
       "title": "Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses",
@@ -1362,6 +1730,30 @@
       ],
       "source": "epmc",
       "model": "LazySlide"
+    },
+    {
+      "doi": "10.1016/j.landig.2025.100974",
+      "pmid": "41833467",
+      "title": "Beyond artificial intelligence psychosis: a functional typology of large language model-associated psychotic phenomena",
+      "journal": "The Lancet Digital Health",
+      "group": "顶级医学期刊",
+      "date": "2026-03-14",
+      "year": "2026",
+      "first_author": "Flathers M",
+      "url": "https://doi.org/10.1016/j.landig.2025.100974",
+      "code": "",
+      "abstract": "A man breached Windsor Castle with a crossbow after his large language model (LLM)-based companion encouraged an assassination plan. A father's question about pi evolved into more than 300 h of engagement with an LLM, leading to delusions about reality-altering mathematical formulas. An Australian woman's early-stage psychotic symptoms worsened when an LLM validated her distorted beliefs. A Florida man's grief over losing access to his ChatGPT persona culminated in a fatal police encounter. These disparate cases, often grouped together under the label of artificial intelligence psychosis, repr",
+      "pub_types": [
+        "review",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-026-04278-w",
@@ -1440,6 +1832,29 @@
       "model": "Merlin"
     },
     {
+      "doi": "10.1136/bmj.s438",
+      "pmid": "41781035",
+      "title": "ChatGPT’s health AI has dangerous flaws, study warns",
+      "journal": "BMJ",
+      "group": "顶级医学期刊",
+      "date": "2026-03-04",
+      "year": "2026",
+      "first_author": "Armstrong S",
+      "url": "https://doi.org/10.1136/bmj.s438",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41591-026-04229-5",
       "pmid": "41776077",
       "title": "LLM-assisted systematic review of large language models in clinical medicine",
@@ -1463,6 +1878,32 @@
       "specialties": [],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41551-026-01622-w",
+      "pmid": "41776035",
+      "title": "An ophthalmic video foundation model for surgical recognition and navigation with wet-lab porcine eye validation",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-03-03",
+      "year": "2026",
+      "first_author": "Tu P",
+      "url": "https://doi.org/10.1038/s41551-026-01622-w",
+      "code": "",
+      "abstract": "Foundation models in artificial intelligence are revolutionizing healthcare by utilizing large-scale unlabelled data for pretraining. However, their intraoperative applications remain underexplored owing to limited surgical data and the challenges of real-time deployment. Here we show the development of the ophthalmic video foundation model (OVFM), designed for microscopic ophthalmic surgical recognition and navigation. Leveraging a self-supervised video transformer structure and trained on an ophthalmic video dataset comprising 1.1 million clips across 144 surgical types, OVFM learns the spat",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "surg",
+        "ophth"
+      ]
     },
     {
       "doi": "10.1148/ryai.250477",
@@ -1539,6 +1980,29 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1016/j.landig.2025.100966",
+      "pmid": "41951492",
+      "title": "A multiagent large language model-based system to simulate the liver transplant selection committee: a retrospective cohort study",
+      "journal": "The Lancet Digital Health",
+      "group": "顶级医学期刊",
+      "date": "2026-03-01",
+      "year": "2026",
+      "first_author": "Hasjim BJ",
+      "url": "https://doi.org/10.1016/j.landig.2025.100966",
+      "code": "",
+      "abstract": "<h4>Background</h4>Transplantation is one of the few areas in medicine in which the definitive treatment is rationed. Subjective decision making poses challenges for the transplantation selection process. Large language models (LLMs), through autonomous artificial intelligence (AI) agents, have implications in objective decision making for complex problems; however, there are gaps in the literature regarding their clinical applications. We aimed to examine the performance of a multidisciplinary committee of AI agents in the liver transplantation selection process as a proof of concept towards ",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1016/j.landig.2025.100953",
@@ -1618,6 +2082,30 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.26751",
+      "pmid": "41609804",
+      "title": "What Can 50-Year-Old Chatbots Teach Us About Clinical Applications of AI?",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2026-02-24",
+      "year": "2026",
+      "first_author": "Perlis R",
+      "url": "https://doi.org/10.1001/jama.2025.26751",
+      "code": "",
+      "abstract": "JAMA+ AI Editor in Chief Roy Perlis, MD, MSc, conducted an interview with ChatGPT about the history of chatbots and their clinical applications, for JAMA+ AI Conversations.",
+      "pub_types": [
+        "video-audio media",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-026-04297-7",
@@ -1832,29 +2320,6 @@
       "model": ""
     },
     {
-      "doi": "10.1038/s41591-026-04215-x",
-      "pmid": "",
-      "title": "Physicians as context engineers in the era of generative AI",
-      "journal": "Nature Medicine",
-      "group": "Nature 正刊与子刊",
-      "date": "2026-02-04",
-      "year": "2026",
-      "first_author": "Nenadic I",
-      "url": "https://doi.org/10.1038/s41591-026-04215-x",
-      "code": "",
-      "abstract": "",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "crossref",
-      "model": ""
-    },
-    {
       "doi": "10.1038/s41591-025-04184-7",
       "pmid": "41634392",
       "title": "Scaling medical AI across clinical contexts",
@@ -1879,6 +2344,31 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.23965",
+      "pmid": "41511766",
+      "title": "Millions Turn to AI Chatbots for Mental Health Support",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2026-02-03",
+      "year": "2026",
+      "first_author": "Rubin R",
+      "url": "https://doi.org/10.1001/jama.2025.23965",
+      "code": "",
+      "abstract": "This Medical News article discusses the growing use of generative artificial intelligence chatbots as sources of mental health support.",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "psych"
+      ]
     },
     {
       "doi": "10.1016/j.landig.2025.100943",
@@ -1935,7 +2425,7 @@
     },
     {
       "doi": "10.1001/jama.2025.23744",
-      "pmid": "",
+      "pmid": "41428284",
       "title": "Mitigating Suicide Risk for Minors Involving AI Chatbots—A First in the Nation Law",
       "journal": "JAMA",
       "group": "顶级医学期刊",
@@ -2136,6 +2626,30 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s41551-025-01565-8",
+      "pmid": "41491893",
+      "title": "GaitDynamics: a generative foundation model for analyzing human walking and running",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-01-05",
+      "year": "2026",
+      "first_author": "Tan T",
+      "url": "https://doi.org/10.1038/s41551-025-01565-8",
+      "code": "",
+      "abstract": "Understanding the dynamics of human gait, including both motions and forces, is vital to promote human mobility. While deep learning models may have advantages over costly laboratory-based experiments and physics-based simulations, existing models have been trained on small datasets with homogeneous demographics and focus on predicting a single output. We developed GaitDynamics, a generative foundation model trained on a large dataset of diverse gait patterns, which allows for flexible inputs, outputs and clinical applications. We illustrate the use of GaitDynamics for: (1) estimating ground r",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "GaitDynamics",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41591-025-04042-6",
       "pmid": "41482562",
       "title": "Generative AI-based low-dose digital subtraction angiography for intra-operative radiation dose reduction: a randomized controlled trial",
@@ -2217,7 +2731,7 @@
     },
     {
       "doi": "10.1016/j.landig.2025.100949",
-      "pmid": "",
+      "pmid": "41672646",
       "title": "Mapping the susceptibility of large language models to medical misinformation across clinical notes and social media: a cross-sectional benchmarking analysis",
       "journal": "The Lancet Digital Health",
       "group": "顶级医学期刊",
@@ -2237,29 +2751,6 @@
       "specialties": [
         "ehr"
       ],
-      "source": "crossref",
-      "model": ""
-    },
-    {
-      "doi": "10.1016/j.landig.2025.100950",
-      "pmid": "",
-      "title": "Can generative artificial intelligence empower target trial emulations?",
-      "journal": "The Lancet Digital Health",
-      "group": "顶级医学期刊",
-      "date": "2026-01-01",
-      "year": "2026",
-      "first_author": "Guan Z",
-      "url": "https://doi.org/10.1016/j.landig.2025.100950",
-      "code": "",
-      "abstract": "",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
       "source": "crossref",
       "model": ""
     },
@@ -2317,56 +2808,8 @@
       "model": ""
     },
     {
-      "doi": "10.1038/s41592-025-02899-6",
-      "pmid": "41372623",
-      "title": "Novae: a graph-based foundation model for spatial transcriptomics data",
-      "journal": "Nature Methods",
-      "group": "Nature 正刊与子刊",
-      "date": "2025-12-10",
-      "year": "2025",
-      "first_author": "Blampey Q",
-      "url": "https://doi.org/10.1038/s41592-025-02899-6",
-      "code": "https://github.com/MICS-Lab/novae",
-      "abstract": "Spatial transcriptomics is advancing molecular biology by providing high-resolution insights into gene expression within the spatial context of tissues. This context is essential for identifying spatial domains, enabling the understanding of microenvironment organizations and their implications for tissue function and disease progression. To improve current model limitations on multiple slides, we have designed Novae ( https://github.com/MICS-Lab/novae ), a graph-based foundation model that extracts representations of cells within their spatial contexts. Our model was trained on a large datase",
-      "pub_types": [
-        "journal article"
-      ],
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "added_batch": "initial",
-      "specialties": [],
-      "source": "epmc",
-      "model": "Novae"
-    },
-    {
-      "doi": "10.1038/s42256-025-01148-x",
-      "pmid": "",
-      "title": "A multimodal cell-free RNA language model for liquid biopsy applications",
-      "journal": "Nature Machine Intelligence",
-      "group": "Nature 正刊与子刊",
-      "date": "2025-12-10",
-      "year": "2025",
-      "first_author": "Karimzadeh M",
-      "url": "https://doi.org/10.1038/s42256-025-01148-x",
-      "code": "",
-      "abstract": "Abstract Cell-free RNA (cfRNA) profiling has emerged as a powerful tool for non-invasive disease detection, but its application is limited by data sparsity and complexity, especially in settings with constrained sample availability. We introduce Exai-1, a multimodal, transformer-based generative foundation model that integrates RNA sequence embeddings with cfRNA abundance data to capture biologically meaningful representations of circulating RNAs. By leveraging both sequence and expression modalities, Exai-1 captures a biologically meaningful latent structure of cfRNA profiles. Pretrained on o",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "path"
-      ],
-      "source": "crossref",
-      "model": ""
-    },
-    {
       "doi": "10.1001/jama.2025.19143",
-      "pmid": "",
+      "pmid": "41143809",
       "title": "The Need for Oversight Over Apps for Substance Use Reduction",
       "journal": "JAMA",
       "group": "顶级医学期刊",
@@ -2377,6 +2820,7 @@
       "code": "",
       "abstract": "This Viewpoint describes the substance use reduction app marketplace, highlights concerns related to integration of generative artificial intelligence into such apps, and suggests how oversight can be strengthened to protect public health.",
       "pub_types": [
+        "research-article",
         "journal article"
       ],
       "added_batch": "2026-08-20",
@@ -2535,6 +2979,29 @@
       "model": ""
     },
     {
+      "doi": "10.1136/bmj-2025-085325",
+      "pmid": "41253433",
+      "title": "Generative AI and the changing dynamics of clinical consultations",
+      "journal": "BMJ",
+      "group": "顶级医学期刊",
+      "date": "2025-11-18",
+      "year": "2025",
+      "first_author": "Fraile Navarro D",
+      "url": "https://doi.org/10.1136/bmj-2025-085325",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41551-025-01544-z",
       "pmid": "41198875",
       "title": "A vision-language pretrained transformer for versatile clinical respiratory disease applications",
@@ -2635,6 +3102,29 @@
       ],
       "source": "crossref",
       "model": ""
+    },
+    {
+      "doi": "10.1001/jama.2025.17518",
+      "pmid": "41105419",
+      "title": "AI Scribe May Ease Administrative Burdens for Clinicians",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2025-10-17",
+      "year": "2025",
+      "first_author": "Anderer S.",
+      "url": "https://doi.org/10.1001/jama.2025.17518",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-025-03983-2",
@@ -2787,6 +3277,29 @@
       "model": ""
     },
     {
+      "doi": "10.1056/aidbp2500120",
+      "pmid": "",
+      "title": "Assessment of Large Language Models in Clinical Reasoning: A Novel Benchmarking Study",
+      "journal": "NEJM AI",
+      "group": "顶级医学期刊",
+      "date": "2025-09-25",
+      "year": "2025",
+      "first_author": "McCoy L",
+      "url": "https://doi.org/10.1056/aidbp2500120",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41551-025-01471-z",
       "pmid": "40987953",
       "title": "A collaborative large language model for drug analysis",
@@ -2808,29 +3321,6 @@
       "added_batch": "initial",
       "specialties": [],
       "source": "epmc",
-      "model": ""
-    },
-    {
-      "doi": "10.1038/s41591-025-03859-5",
-      "pmid": "",
-      "title": "Building the world’s first truly global medical foundation model",
-      "journal": "Nature Medicine",
-      "group": "Nature 正刊与子刊",
-      "date": "2025-09-08",
-      "year": "2025",
-      "first_author": "Tham Y",
-      "url": "https://doi.org/10.1038/s41591-025-03859-5",
-      "code": "",
-      "abstract": "",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "crossref",
       "model": ""
     },
     {
@@ -2905,31 +3395,6 @@
         "radiol"
       ],
       "source": "epmc",
-      "model": ""
-    },
-    {
-      "doi": "10.1148/ryai.250555",
-      "pmid": "",
-      "title": "Advancing Early Detection of Chronic Obstructive Pulmonary Disease Using Generative AI",
-      "journal": "Radiology: Artificial Intelligence",
-      "group": "影像与医学信息学旗舰刊",
-      "date": "2025-09-01",
-      "year": "2025",
-      "first_author": "Hathaway Q",
-      "url": "https://doi.org/10.1148/ryai.250555",
-      "code": "",
-      "abstract": "",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "resp"
-      ],
-      "source": "crossref",
       "model": ""
     },
     {
@@ -3056,6 +3521,54 @@
       "model": ""
     },
     {
+      "doi": "10.1016/j.landig.2025.100910",
+      "pmid": "40866282",
+      "title": "How CHART (Chatbot Assessment Reporting Tool) can help to advance clinical artificial intelligence research through clearer task definition and robust validation",
+      "journal": "The Lancet Digital Health",
+      "group": "顶级医学期刊",
+      "date": "2025-08-26",
+      "year": "2025",
+      "first_author": "Thirunavukarasu AJ",
+      "url": "https://doi.org/10.1016/j.landig.2025.100910",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
+      "doi": "10.1001/jama.2025.10678",
+      "pmid": "40705341",
+      "title": "When Patients Arrive With Answers",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2025-08-26",
+      "year": "2025",
+      "first_author": "Sundar K",
+      "url": "https://doi.org/10.1001/jama.2025.10678",
+      "code": "",
+      "abstract": "In this narrative medicine essay, a family medicine physician works through the challenge of responding to the medical advice patients bring from ChatGPT to understanding patients’ need to be heard.",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "prim"
+      ]
+    },
+    {
       "doi": "10.1038/s41591-025-03888-0",
       "pmid": "40813712",
       "title": "A personal health large language model for sleep and fitness coaching",
@@ -3152,27 +3665,27 @@
       "model": ""
     },
     {
-      "doi": "10.1016/j.landig.2025.100909",
-      "pmid": "",
-      "title": "Rapid generative AI rollout in health care",
-      "journal": "The Lancet Digital Health",
-      "group": "顶级医学期刊",
+      "doi": "10.1038/s41591-025-03850-0",
+      "pmid": "40681676",
+      "title": "Open-source LLM DeepSeek on a par with proprietary models in clinical decision making",
+      "journal": "Nature Medicine",
+      "group": "Nature 正刊与子刊",
       "date": "2025-08-01",
       "year": "2025",
-      "first_author": "The Lancet Digital Health",
-      "url": "https://doi.org/10.1016/j.landig.2025.100909",
+      "first_author": "",
+      "url": "https://doi.org/10.1038/s41591-025-03850-0",
       "code": "",
       "abstract": "",
       "pub_types": [
         "journal article"
       ],
-      "added_batch": "2026-08-20",
+      "source": "epmc",
+      "added_batch": "2026-08-31",
       "tags": [],
       "highlight": false,
       "status": "new",
-      "specialties": [],
-      "source": "crossref",
-      "model": ""
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1056/aip2401165",
@@ -3267,6 +3780,29 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41591-025-03841-1",
+      "pmid": "40681675",
+      "title": "Overcoming regulatory barriers to the implementation of AI agents in healthcare",
+      "journal": "Nature Medicine",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-07-18",
+      "year": "2025",
+      "first_author": "Freyer O",
+      "url": "https://doi.org/10.1038/s41591-025-03841-1",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-025-03780-x",
@@ -3429,7 +3965,7 @@
     },
     {
       "doi": "10.1148/ryai.240739",
-      "pmid": "",
+      "pmid": "40366259",
       "title": "Cybersecurity Threats and Mitigation Strategies for Large Language                     Models in Health Care",
       "journal": "Radiology: Artificial Intelligence",
       "group": "影像与医学信息学旗舰刊",
@@ -3603,6 +4139,33 @@
       "model": "PanDerm"
     },
     {
+      "doi": "10.1038/s41551-025-01413-9",
+      "pmid": "40481238",
+      "title": "A deep learning system for detecting silent brain infarction and predicting stroke risk",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-06-06",
+      "year": "2025",
+      "first_author": "Jiang N",
+      "url": "https://doi.org/10.1038/s41551-025-01413-9",
+      "code": "",
+      "abstract": "Current brain imaging to detect silent brain infarctions (SBIs) is not feasible for the general population. Here, to overcome this challenge, we developed a retinal image-based deep learning system, DeepRETStroke, to detect SBI and refine stroke risk. We use 895,640 retinal photographs to pretrain the DeepRETStroke system, which encodes a domain-specific foundation model for representing eye-brain connections. Then, we validated the downstream clinical tasks of DeepRETStroke using 213,762 retinal photographs from diverse datasets across China, Singapore, Malaysia, the USA, the UK and Denmark t",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "ophth",
+        "neuro"
+      ]
+    },
+    {
       "doi": "10.1038/s41591-025-03743-2",
       "pmid": "40461817",
       "title": "A generative AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis: a randomized phase 2a trial",
@@ -3662,31 +4225,27 @@
       "model": ""
     },
     {
-      "doi": "10.1038/s41592-025-02707-1",
-      "pmid": "40442373",
-      "title": "A visual-omics foundation model to bridge histopathology with spatial transcriptomics",
-      "journal": "Nature Methods",
-      "group": "Nature 正刊与子刊",
-      "date": "2025-05-29",
+      "doi": "10.1001/jama.2025.6571",
+      "pmid": "40293869",
+      "title": "DeepSeek’s “Low-Cost” Adoption Across China’s Hospital Systems",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2025-06-03",
       "year": "2025",
-      "first_author": "Chen W",
-      "url": "https://doi.org/10.1038/s41592-025-02707-1",
+      "first_author": "Zeng D",
+      "url": "https://doi.org/10.1001/jama.2025.6571",
       "code": "",
-      "abstract": "Artificial intelligence has revolutionized computational biology. Recent developments in omics technologies, including single-cell RNA sequencing and spatial transcriptomics, provide detailed genomic data alongside tissue histology. However, current computational models focus on either omics or image analysis, lacking their integration. To address this, we developed OmiCLIP, a visual-omics foundation model linking hematoxylin and eosin images and transcriptomics using tissue patches from Visium data. We transformed transcriptomic data into 'sentences' by concatenating top-expressed gene symbol",
+      "abstract": "This Perspective examines the rapid adoption of DeepSeek, a large language model, across Chinese hospitals and the regulatory and governance concerns surrounding the use of artificial intelligence–enabled models in health care.",
       "pub_types": [
-        "research-article",
         "journal article"
       ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial",
-      "specialties": [
-        "genom",
-        "path"
-      ],
-      "source": "epmc",
-      "model": "OmiCLIP"
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1056/aics2400943",
@@ -3709,30 +4268,6 @@
       "status": "new",
       "specialties": [],
       "source": "crossref",
-      "model": ""
-    },
-    {
-      "doi": "10.1038/s42256-025-01030-w",
-      "pmid": "41255553",
-      "title": "Generating 3D Binding Molecules Using Shape-Conditioned Diffusion Models with Guidance",
-      "journal": "Nature Machine Intelligence",
-      "group": "Nature 正刊与子刊",
-      "date": "2025-05-12",
-      "year": "2025",
-      "first_author": "Chen Z",
-      "url": "https://doi.org/10.1038/s42256-025-01030-w",
-      "code": "",
-      "abstract": "Drug development is a critical but notoriously resource- and time-consuming process. In this manuscript, we develop a novel generative artificial intelligence (genAI) method DiffSMol to facilitate drug development. DiffSMol generates 3D binding molecules based on the shapes of known ligands. DiffSMol encapsulates geometric details of ligand shapes within pre-trained, expressive shape embeddings and then generates new binding molecules through a diffusion model. DiffSMol further modifies the generated 3D structures iteratively via shape guidance to better resemble the ligand shapes. It also tai",
-      "pub_types": [
-        "research-article",
-        "journal article"
-      ],
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "added_batch": "initial",
-      "specialties": [],
-      "source": "epmc",
       "model": ""
     },
     {
@@ -3832,31 +4367,6 @@
         "onco"
       ],
       "source": "epmc",
-      "model": ""
-    },
-    {
-      "doi": "10.1148/ryai.250187",
-      "pmid": "",
-      "title": "Context Is Everything: Understanding Variable LLM Performance for                     Radiology Retrieval-Augmented Generation",
-      "journal": "Radiology: Artificial Intelligence",
-      "group": "影像与医学信息学旗舰刊",
-      "date": "2025-05-01",
-      "year": "2025",
-      "first_author": "Mansuri A",
-      "url": "https://doi.org/10.1148/ryai.250187",
-      "code": "",
-      "abstract": "",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "radiol"
-      ],
-      "source": "crossref",
       "model": ""
     },
     {
@@ -3990,7 +4500,7 @@
     },
     {
       "doi": "10.1038/s41551-025-01375-y",
-      "pmid": "",
+      "pmid": "40200127",
       "title": "Synthetic data boosts medical foundation models",
       "journal": "Nature Biomedical Engineering",
       "group": "Nature 正刊与子刊",
@@ -4009,31 +4519,6 @@
       "status": "new",
       "specialties": [],
       "source": "crossref",
-      "model": ""
-    },
-    {
-      "doi": "10.1038/s41591-025-03618-6",
-      "pmid": "40195450",
-      "title": "A vaccine chatbot intervention for parents to improve HPV vaccination uptake among middle school girls: a cluster randomized trial",
-      "journal": "Nature Medicine",
-      "group": "Nature 正刊与子刊",
-      "date": "2025-04-07",
-      "year": "2025",
-      "first_author": "Hou Z",
-      "url": "https://doi.org/10.1038/s41591-025-03618-6",
-      "code": "",
-      "abstract": "Conversational artificial intelligence, in the form of chatbots powered by large language models, offers a new approach to facilitating human-like interactions, yet its efficacy in enhancing vaccination uptake remains under-investigated. This study assesses the effectiveness of a vaccine chatbot in improving human papillomavirus (HPV) vaccination among female middle school students aged 12-15 years across diverse socioeconomic settings in China, where HPV vaccination is primarily paid out-of-pocket. A school-based cluster randomized trial was conducted from 18 January to 31 May 2024. The study",
-      "pub_types": [
-        "research-article",
-        "randomized controlled trial",
-        "journal article"
-      ],
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "added_batch": "initial",
-      "specialties": [],
-      "source": "epmc",
       "model": ""
     },
     {
@@ -4060,6 +4545,29 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41551-025-01363-2",
+      "pmid": "40169759",
+      "title": "Coordinated AI agents for advancing healthcare",
+      "journal": "Nature Biomedical Engineering",
+      "group": "Nature 正刊与子刊",
+      "date": "2025-04-01",
+      "year": "2025",
+      "first_author": "Moritz M",
+      "url": "https://doi.org/10.1038/s41551-025-01363-2",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1056/aidbp2400537",
@@ -4162,7 +4670,7 @@
     },
     {
       "doi": "10.1038/s41591-025-03606-w",
-      "pmid": "",
+      "pmid": "40128349",
       "title": "Making large language models into reliable physician assistants",
       "journal": "Nature Medicine",
       "group": "Nature 正刊与子刊",
@@ -4256,6 +4764,29 @@
       "model": ""
     },
     {
+      "doi": "10.1016/s0140-6736(25)00348-4",
+      "pmid": "40023638",
+      "title": "Is generative artificial intelligence capable of clinical reasoning?",
+      "journal": "The Lancet",
+      "group": "顶级医学期刊",
+      "date": "2025-03-01",
+      "year": "2025",
+      "first_author": "Rodman A",
+      "url": "https://doi.org/10.1016/s0140-6736(25)00348-4",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1056/aip2400875",
       "pmid": "",
       "title": "The Utility of Generative AI in Advancing Global Health",
@@ -4282,7 +4813,7 @@
     },
     {
       "doi": "10.1001/jama.2024.25821",
-      "pmid": "",
+      "pmid": "39786376",
       "title": "Synthetic Data and Health Privacy",
       "journal": "JAMA",
       "group": "顶级医学期刊",
@@ -4376,32 +4907,6 @@
         "pubh"
       ],
       "source": "crossref",
-      "model": ""
-    },
-    {
-      "doi": "10.1038/s41591-024-03434-4",
-      "pmid": "39833407",
-      "title": "Artificial intelligence in drug development",
-      "journal": "Nature Medicine",
-      "group": "Nature 正刊与子刊",
-      "date": "2025-01-20",
-      "year": "2025",
-      "first_author": "Zhang K",
-      "url": "https://doi.org/10.1038/s41591-024-03434-4",
-      "code": "",
-      "abstract": "Drug development is a complex and time-consuming endeavor that traditionally relies on the experience of drug developers and trial-and-error experimentation. The advent of artificial intelligence (AI) technologies, particularly emerging large language models and generative AI, is poised to redefine this paradigm. The integration of AI-driven methodologies into the drug development pipeline has already heralded subtle yet meaningful enhancements in both the efficiency and effectiveness of this process. Here we present an overview of recent advancements in AI applications across the entire drug ",
-      "pub_types": [
-        "research support, non-u.s. gov't",
-        "review",
-        "journal article",
-        "research support, n.i.h., extramural"
-      ],
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "added_batch": "initial",
-      "specialties": [],
-      "source": "epmc",
       "model": ""
     },
     {
@@ -4756,6 +5261,98 @@
       "model": ""
     },
     {
+      "doi": "10.1056/aioa2400640",
+      "pmid": "",
+      "title": "A Multimodal Biomedical Foundation Model Trained from Fifteen Million Image–Text Pairs",
+      "journal": "NEJM AI",
+      "group": "顶级医学期刊",
+      "date": "2025-01-01",
+      "year": "2025",
+      "first_author": "Zhang S",
+      "url": "https://doi.org/10.1056/aioa2400640",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
+      "doi": "10.1056/aics2400360",
+      "pmid": "",
+      "title": "Zero-Shot Clinical Trial Patient Matching with LLMs",
+      "journal": "NEJM AI",
+      "group": "顶级医学期刊",
+      "date": "2025-01-01",
+      "year": "2025",
+      "first_author": "Wornow M",
+      "url": "https://doi.org/10.1056/aics2400360",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
+      "doi": "10.1056/aics2400390",
+      "pmid": "",
+      "title": "Fine-Tuning LLMs with Medical Data: Can Safety Be Ensured?",
+      "journal": "NEJM AI",
+      "group": "顶级医学期刊",
+      "date": "2025-01-01",
+      "year": "2025",
+      "first_author": "Kim M",
+      "url": "https://doi.org/10.1056/aics2400390",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
+      "doi": "10.1016/j.landig.2024.12.002",
+      "pmid": "39722254",
+      "title": "Generative Pre-trained Transformer 4 (GPT-4) in clinical settings",
+      "journal": "The Lancet Digital Health",
+      "group": "顶级医学期刊",
+      "date": "2025-01-01",
+      "year": "2025",
+      "first_author": "Bellini V",
+      "url": "https://doi.org/10.1016/j.landig.2024.12.002",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41591-024-03359-y",
       "pmid": "39663467",
       "title": "Self-improving generative foundation model for synthetic medical image generation and clinical applications",
@@ -4830,6 +5427,29 @@
       "model": ""
     },
     {
+      "doi": "10.1038/s42256-024-00944-1",
+      "pmid": "",
+      "title": "LLM-based agentic systems in medicine and healthcare",
+      "journal": "Nature Machine Intelligence",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-12-05",
+      "year": "2024",
+      "first_author": "Qiu J",
+      "url": "https://doi.org/10.1038/s42256-024-00944-1",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41551-024-01302-7",
       "pmid": "39633027",
       "title": "A multimodal machine learning model for the stratification of breast cancer risk",
@@ -4857,29 +5477,6 @@
       "model": ""
     },
     {
-      "doi": "10.1001/jama.2024.14025",
-      "pmid": "",
-      "title": "National Academies President on How to Use Generative AI Responsibly in Scientific Research",
-      "journal": "JAMA",
-      "group": "顶级医学期刊",
-      "date": "2024-12-03",
-      "year": "2024",
-      "first_author": "Bibbins-Domingo K",
-      "url": "https://doi.org/10.1001/jama.2024.14025",
-      "code": "",
-      "abstract": "This Medical News article is an interview with National Academy of Sciences President Marcia McNutt, PhD, and JAMA Editor in Chief Kirsten Bibbins-Domingo, PhD, MD, MAS, about responsible use of generative AI for scientific research.",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "crossref",
-      "model": ""
-    },
-    {
       "doi": "10.1038/s41591-024-03313-y",
       "pmid": "39438665",
       "title": "Safety principles for medical summarization using generative AI",
@@ -4889,29 +5486,6 @@
       "year": "2024",
       "first_author": "Obika D",
       "url": "https://doi.org/10.1038/s41591-024-03313-y",
-      "code": "",
-      "abstract": "",
-      "pub_types": [
-        "journal article"
-      ],
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "added_batch": "initial",
-      "specialties": [],
-      "source": "epmc",
-      "model": ""
-    },
-    {
-      "doi": "10.1038/s41591-024-03333-8",
-      "pmid": "39448863",
-      "title": "An explainable foundation model for drug repurposing",
-      "journal": "Nature Medicine",
-      "group": "Nature 正刊与子刊",
-      "date": "2024-12-01",
-      "year": "2024",
-      "first_author": "Bessadok A",
-      "url": "https://doi.org/10.1038/s41591-024-03333-8",
       "code": "",
       "abstract": "",
       "pub_types": [
@@ -4951,32 +5525,6 @@
       "model": ""
     },
     {
-      "doi": "10.1038/s41586-024-08411-y",
-      "pmid": "39566551",
-      "title": "A cell atlas foundation model for scalable search of similar human cells",
-      "journal": "Nature",
-      "group": "Nature 正刊与子刊",
-      "date": "2024-11-20",
-      "year": "2025",
-      "first_author": "Heimberg G",
-      "url": "https://doi.org/10.1038/s41586-024-08411-y",
-      "code": "",
-      "abstract": "Single-cell RNA sequencing has profiled hundreds of millions of human cells across organs, diseases, development and perturbations to date. Mining these growing atlases could reveal cell-disease associations, identify cell states in unexpected tissue contexts and relate in vivo biology to in vitro models. These require a common measure of cell similarity across the body and an efficient way to search. Here we develop SCimilarity, a metric-learning framework to learn a unified and interpretable representation that enables rapid queries of tens of millions of cell profiles from diverse studies f",
-      "pub_types": [
-        "research-article",
-        "journal article"
-      ],
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "added_batch": "initial",
-      "specialties": [
-        "genom"
-      ],
-      "source": "epmc",
-      "model": "SCimilarity"
-    },
-    {
       "doi": "10.1038/s41592-024-02499-w",
       "pmid": "39558098",
       "title": "A foundation model for joint segmentation, detection and recognition of biomedical objects across nine modalities",
@@ -4998,6 +5546,29 @@
       "specialties": [],
       "source": "epmc",
       "model": "BiomedParse"
+    },
+    {
+      "doi": "10.1038/s42256-024-00929-0",
+      "pmid": "",
+      "title": "Clinical large language models with misplaced focus",
+      "journal": "Nature Machine Intelligence",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-11-18",
+      "year": "2024",
+      "first_author": "Luo Z",
+      "url": "https://doi.org/10.1038/s42256-024-00929-0",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1016/s2589-7500(24)00202-4",
@@ -5054,6 +5625,29 @@
       "model": "FastGlioma"
     },
     {
+      "doi": "10.1038/s42256-024-00924-5",
+      "pmid": "",
+      "title": "Foundation models in healthcare require rethinking reliability",
+      "journal": "Nature Machine Intelligence",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-11-11",
+      "year": "2024",
+      "first_author": "Grote T",
+      "url": "https://doi.org/10.1038/s42256-024-00924-5",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1038/s41591-024-03302-1",
       "pmid": "39511432",
       "title": "Collaboration between clinicians and vision-language models in radiology report generation",
@@ -5080,8 +5674,56 @@
       "model": "Flamingo-CXR"
     },
     {
-      "doi": "10.1056/nejmp2405999",
+      "doi": "10.1038/s42256-024-00917-4",
       "pmid": "",
+      "title": "General-purpose foundation models for increased autonomy in robot-assisted surgery",
+      "journal": "Nature Machine Intelligence",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-11-01",
+      "year": "2024",
+      "first_author": "Schmidgall S",
+      "url": "https://doi.org/10.1038/s42256-024-00917-4",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "surg"
+      ]
+    },
+    {
+      "doi": "10.1016/s0140-6736(24)02568-6",
+      "pmid": "39615990",
+      "title": "Clinician as editor: notes in the era of AI scribes",
+      "journal": "The Lancet",
+      "group": "顶级医学期刊",
+      "date": "2024-11-01",
+      "year": "2024",
+      "first_author": "Altschuler S",
+      "url": "https://doi.org/10.1016/s0140-6736(24)02568-6",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
+      "doi": "10.1056/nejmp2405999",
+      "pmid": "39465898",
       "title": "Large Language Models and the Degradation of the Medical Record",
       "journal": "NEJM",
       "group": "顶级医学期刊",
@@ -5154,6 +5796,29 @@
       "model": ""
     },
     {
+      "doi": "10.1136/bmj-2024-080208",
+      "pmid": "39393817",
+      "title": "Health information for all: do large language models bridge or widen the digital divide?",
+      "journal": "BMJ",
+      "group": "顶级医学期刊",
+      "date": "2024-10-11",
+      "year": "2024",
+      "first_author": "Tang A",
+      "url": "https://doi.org/10.1136/bmj-2024-080208",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1016/j.cell.2024.09.022",
       "pmid": "39486399",
       "title": "Empowering biomedical discovery with AI agents",
@@ -5176,6 +5841,29 @@
       "specialties": [],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s41591-024-03257-3",
+      "pmid": "39294301",
+      "title": "Improving primary healthcare with generative AI",
+      "journal": "Nature Medicine",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-10-01",
+      "year": "2024",
+      "first_author": "Yip W.",
+      "url": "https://doi.org/10.1038/s41591-024-03257-3",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-024-03233-x",
@@ -5437,31 +6125,6 @@
       "model": ""
     },
     {
-      "doi": "10.1016/s2589-7500(24)00157-2",
-      "pmid": "",
-      "title": "Pathology in the era of generative AI",
-      "journal": "The Lancet Digital Health",
-      "group": "顶级医学期刊",
-      "date": "2024-08-01",
-      "year": "2024",
-      "first_author": "The Lancet Digital Health",
-      "url": "https://doi.org/10.1016/s2589-7500(24)00157-2",
-      "code": "",
-      "abstract": "",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "path"
-      ],
-      "source": "crossref",
-      "model": ""
-    },
-    {
       "doi": "10.1038/s41591-024-03180-7",
       "pmid": "39054373",
       "title": "Influence of believed AI involvement on the perception of digital medical advice",
@@ -5671,29 +6334,6 @@
         "emerg"
       ],
       "source": "epmc",
-      "model": ""
-    },
-    {
-      "doi": "10.1016/s2589-7500(24)00111-0",
-      "pmid": "",
-      "title": "From text to treatment: the crucial role of validation for generative large language models in health care",
-      "journal": "The Lancet Digital Health",
-      "group": "顶级医学期刊",
-      "date": "2024-07-01",
-      "year": "2024",
-      "first_author": "de Hond A",
-      "url": "https://doi.org/10.1016/s2589-7500(24)00111-0",
-      "code": "",
-      "abstract": "",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "crossref",
       "model": ""
     },
     {
@@ -5919,32 +6559,6 @@
       "model": ""
     },
     {
-      "doi": "10.1038/s42256-024-00832-8",
-      "pmid": "38799228",
-      "title": "Augmenting large language models with chemistry tools",
-      "journal": "Nature Machine Intelligence",
-      "group": "Nature 正刊与子刊",
-      "date": "2024-05-08",
-      "year": "2024",
-      "first_author": "M Bran A",
-      "url": "https://doi.org/10.1038/s42256-024-00832-8",
-      "code": "",
-      "abstract": "Large language models (LLMs) have shown strong performance in tasks across domains but struggle with chemistry-related problems. These models also lack access to external knowledge sources, limiting their usefulness in scientific applications. We introduce ChemCrow, an LLM chemistry agent designed to accomplish tasks across organic synthesis, drug discovery and materials design. By integrating 18 expert-designed tools and using GPT-4 as the LLM, ChemCrow augments the LLM performance in chemistry, and new capabilities emerge. Our agent autonomously planned and executed the syntheses of an insec",
-      "pub_types": [
-        "research-article",
-        "journal article"
-      ],
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "added_batch": "initial",
-      "specialties": [
-        "drug"
-      ],
-      "source": "epmc",
-      "model": ""
-    },
-    {
       "doi": "10.1038/s41591-024-02959-y",
       "pmid": "38689062",
       "title": "Vision-language foundation model for echocardiogram interpretation",
@@ -6151,6 +6765,32 @@
       "model": ""
     },
     {
+      "doi": "10.1001/jama.2023.27861",
+      "pmid": "38497956",
+      "title": "Comparative Analysis of Multimodal Large Language Model Performance on Clinical Vignette Questions",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2024-04-01",
+      "year": "2024",
+      "first_author": "Han T",
+      "url": "https://doi.org/10.1001/jama.2023.27861",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "comparative study",
+        "research support, non-u.s. gov't",
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
       "doi": "10.1136/bmj-2023-078538",
       "pmid": "38508682",
       "title": "Current safeguards, risk mitigation, and transparency measures of large language models against the generation of health disinformation: repeated cross sectional analysis",
@@ -6252,6 +6892,32 @@
       "specialties": [],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1038/s42256-024-00807-9",
+      "pmid": "38523679",
+      "title": "Foundation model for cancer imaging biomarkers",
+      "journal": "Nature Machine Intelligence",
+      "group": "Nature 正刊与子刊",
+      "date": "2024-03-15",
+      "year": "2024",
+      "first_author": "Pai S",
+      "url": "https://doi.org/10.1038/s42256-024-00807-9",
+      "code": "",
+      "abstract": "Foundation models in deep learning are characterized by a single large-scale model trained on vast amounts of data serving as the foundation for various downstream tasks. Foundation models are generally trained using self-supervised learning and excel in reducing the demand for training samples in downstream applications. This is especially important in medicine, where large labelled datasets are often scarce. Here, we developed a foundation model for cancer imaging biomarker discovery by training a convolutional encoder through self-supervised learning using a comprehensive dataset of 11,467 ",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "onco"
+      ]
     },
     {
       "doi": "10.1056/aidbp2300110",
@@ -6411,6 +7077,56 @@
       "model": ""
     },
     {
+      "doi": "10.1001/jama.2023.24641",
+      "pmid": "38150261",
+      "title": "Affiliation Bias in Peer Review of Abstracts by a Large Language Model",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2024-01-16",
+      "year": "2024",
+      "first_author": "von Wedel D",
+      "url": "https://doi.org/10.1001/jama.2023.24641",
+      "code": "",
+      "abstract": "This study assesses affiliation bias in peer review of medical abstracts by a commonly used large language model.",
+      "pub_types": [
+        "research support, non-u.s. gov't",
+        "research-article",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
+      "doi": "10.1001/jama.2023.22555",
+      "pmid": "38091007",
+      "title": "How AI Assistants Could Help Answer Patients’ Messages—and Potentially Improve Their Outcomes",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2024-01-09",
+      "year": "2024",
+      "first_author": "Abbasi J",
+      "url": "https://doi.org/10.1001/jama.2023.22555",
+      "code": "",
+      "abstract": "This Medical News article is an interview with John Ayers, PhD, MA, vice chief of innovation in the Division of Infectious Diseases &amp;amp;amp; Global Public Health at the University of California, San Diego, the lead author of a recent study on chatbot responses to patient questions.",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "pubh"
+      ]
+    },
+    {
       "doi": "10.1016/s2589-7500(23)00225-x",
       "pmid": "38123252",
       "title": "Assessing the potential of GPT-4 to perpetuate racial and gender biases in health care: a model evaluation study",
@@ -6512,77 +7228,6 @@
       "model": ""
     },
     {
-      "doi": "10.1016/s2589-7500(23)00254-6",
-      "pmid": "",
-      "title": "Large language models: a new chapter in digital health",
-      "journal": "The Lancet Digital Health",
-      "group": "顶级医学期刊",
-      "date": "2024-01-01",
-      "year": "2024",
-      "first_author": "The Lancet Digital Health",
-      "url": "https://doi.org/10.1016/s2589-7500(23)00254-6",
-      "code": "",
-      "abstract": "",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "crossref",
-      "model": ""
-    },
-    {
-      "doi": "10.1016/s2589-7500(23)00246-7",
-      "pmid": "",
-      "title": "Preventing harm from non-conscious bias in medical generative AI",
-      "journal": "The Lancet Digital Health",
-      "group": "顶级医学期刊",
-      "date": "2024-01-01",
-      "year": "2024",
-      "first_author": "Hastings J",
-      "url": "https://doi.org/10.1016/s2589-7500(23)00246-7",
-      "code": "",
-      "abstract": "",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
-      "source": "crossref",
-      "model": ""
-    },
-    {
-      "doi": "10.1148/ryai.230568",
-      "pmid": "",
-      "title": "The LLM Will See You Now: Performance of ChatGPT on the Brazilian                     Radiology and Diagnostic Imaging and Mammography Board                     Examinations",
-      "journal": "Radiology: Artificial Intelligence",
-      "group": "影像与医学信息学旗舰刊",
-      "date": "2024-01-01",
-      "year": "2024",
-      "first_author": "Trivedi H",
-      "url": "https://doi.org/10.1148/ryai.230568",
-      "code": "",
-      "abstract": "",
-      "pub_types": [
-        "journal article"
-      ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [
-        "radiol"
-      ],
-      "source": "crossref",
-      "model": ""
-    },
-    {
       "doi": "10.1038/s41551-023-01160-9",
       "pmid": "38155295",
       "title": "Auditing the inference processes of medical-image classifiers by leveraging generative AI and the expertise of physicians",
@@ -6665,75 +7310,53 @@
       "model": ""
     },
     {
-      "doi": "10.1016/s2589-7500(23)00205-4",
-      "pmid": "",
-      "title": "Predicting seizure recurrence from medical records using large language models",
+      "doi": "10.1016/s2589-7500(23)00202-9",
+      "pmid": "39492289",
+      "title": "Using fine-tuned large language models to parse clinical notes in musculoskeletal pain disorders",
       "journal": "The Lancet Digital Health",
       "group": "顶级医学期刊",
       "date": "2023-12-01",
       "year": "2023",
-      "first_author": "Mbizvo G",
-      "url": "https://doi.org/10.1016/s2589-7500(23)00205-4",
+      "first_author": "Vaid A",
+      "url": "https://doi.org/10.1016/s2589-7500(23)00202-9",
       "code": "",
       "abstract": "",
       "pub_types": [
         "journal article"
       ],
-      "added_batch": "2026-08-20",
+      "source": "crossref",
+      "added_batch": "2026-08-31",
       "tags": [],
       "highlight": false,
       "status": "new",
+      "model": "",
       "specialties": [
+        "ortho",
         "ehr"
-      ],
-      "source": "crossref",
-      "model": ""
+      ]
     },
     {
-      "doi": "10.1038/s41591-023-02656-2",
-      "pmid": "",
-      "title": "Reporting standards for the use of large language model-linked chatbots for health advice",
+      "doi": "10.1038/s41591-023-02700-1",
+      "pmid": "38036704",
+      "title": "Six ways large language models are changing healthcare",
       "journal": "Nature Medicine",
       "group": "Nature 正刊与子刊",
-      "date": "2023-11-13",
+      "date": "2023-11-30",
       "year": "2023",
-      "first_author": "Huo B",
-      "url": "https://doi.org/10.1038/s41591-023-02656-2",
+      "first_author": "Webster P",
+      "url": "https://doi.org/10.1038/s41591-023-02700-1",
       "code": "",
       "abstract": "",
       "pub_types": [
         "journal article"
       ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
       "source": "crossref",
-      "model": ""
-    },
-    {
-      "doi": "10.1126/science.adk8626",
-      "pmid": "37943903",
-      "title": "Hallucinating hallucinogens",
-      "journal": "Science",
-      "group": "Science 正刊与子刊",
-      "date": "2023-11-09",
-      "year": "2023",
-      "first_author": "Skinnider MA.",
-      "url": "https://doi.org/10.1126/science.adk8626",
-      "code": "",
-      "abstract": "Fighting the designer drug epidemic with generative AI.",
-      "pub_types": [
-        "journal article"
-      ],
+      "added_batch": "2026-08-31",
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial",
-      "specialties": [],
-      "source": "epmc",
-      "model": ""
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41587-023-02011-3",
@@ -6785,53 +7408,27 @@
       "model": ""
     },
     {
-      "doi": "10.1148/ryai.230432",
-      "pmid": "",
-      "title": "Reconsidering Conclusions of Bias Assessment in Medical Imaging                     Foundation Models",
-      "journal": "Radiology: Artificial Intelligence",
-      "group": "影像与医学信息学旗舰刊",
-      "date": "2023-11-01",
+      "doi": "10.1001/jama.2023.19137",
+      "pmid": "37728947",
+      "title": "Google Health’s Chief Clinical Officer Talks About Incorporating AI in Health Care",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2023-10-10",
       "year": "2023",
-      "first_author": "Chaudhari A",
-      "url": "https://doi.org/10.1148/ryai.230432",
+      "first_author": "Voelker R",
+      "url": "https://doi.org/10.1001/jama.2023.19137",
       "code": "",
-      "abstract": "",
+      "abstract": "This Medical News article is an interview with Michael Howell, MD, MPH, about applications of large language models in medicine.",
       "pub_types": [
         "journal article"
       ],
-      "added_batch": "2026-08-20",
-      "tags": [],
-      "highlight": false,
-      "status": "new",
-      "specialties": [],
       "source": "crossref",
-      "model": ""
-    },
-    {
-      "doi": "10.1038/s44222-023-00114-9",
-      "pmid": "38576453",
-      "title": "Diffusion models in bioinformatics and computational biology",
-      "journal": "Nature Reviews Bioengineering",
-      "group": "Nature 正刊与子刊",
-      "date": "2023-10-27",
-      "year": "2024",
-      "first_author": "Guo Z",
-      "url": "https://doi.org/10.1038/s44222-023-00114-9",
-      "code": "",
-      "abstract": "Denoising diffusion models embody a type of generative artificial intelligence that can be applied in computer vision, natural language processing and bioinformatics. In this Review, we introduce the key concepts and theoretical foundations of three diffusion modelling frameworks (denoising diffusion probabilistic models, noise-conditioned scoring networks and score stochastic differential equations). We then explore their applications in bioinformatics and computational biology, including protein design and generation, drug and small-molecule design, protein-ligand interaction modelling, cryo",
-      "pub_types": [
-        "research-article",
-        "journal article"
-      ],
+      "added_batch": "2026-08-31",
       "tags": [],
       "highlight": false,
       "status": "new",
-      "added_batch": "initial",
-      "specialties": [
-        "drug"
-      ],
-      "source": "epmc",
-      "model": ""
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1038/s41591-023-02412-6",
@@ -6884,6 +7481,33 @@
       "model": ""
     },
     {
+      "doi": "10.1148/ryai.220281",
+      "pmid": "38074793",
+      "title": "Domain-adapted Large Language Models for Classifying Nuclear Medicine Reports",
+      "journal": "Radiology: Artificial Intelligence",
+      "group": "影像与医学信息学旗舰刊",
+      "date": "2023-09-27",
+      "year": "2023",
+      "first_author": "Huemann Z",
+      "url": "https://doi.org/10.1148/ryai.220281",
+      "code": "",
+      "abstract": "<h4>Purpose</h4>To evaluate the impact of domain adaptation on the performance of language models in predicting five-point Deauville scores on the basis of clinical fluorine 18 fluorodeoxyglucose PET/CT reports.<h4>Materials and methods</h4>The authors retrospectively retrieved 4542 text reports and images for fluorodeoxyglucose PET/CT lymphoma examinations from 2008 to 2018 in the University of Wisconsin-Madison institutional clinical imaging database. Of these total reports, 1664 had Deauville scores that were extracted from the reports and served as training labels. The bidirectional encode",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "radiol",
+        "onco"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-023-06555-x",
       "pmid": "37704728",
       "title": "A foundation model for generalizable disease detection from retinal images",
@@ -6911,27 +7535,29 @@
       "model": "RETFound"
     },
     {
-      "doi": "10.1038/s41591-023-02535-w",
-      "pmid": "",
-      "title": "Medical AI chatbots: are they safe to talk to patients?",
-      "journal": "Nature Medicine",
-      "group": "Nature 正刊与子刊",
-      "date": "2023-09-08",
+      "doi": "10.1001/jama.2023.14311",
+      "pmid": "37548971",
+      "title": "Large Language Models Answer Medical Questions Accurately, but Can’t Match Clinicians’ Knowledge",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2023-09-05",
       "year": "2023",
-      "first_author": "Webster P",
-      "url": "https://doi.org/10.1038/s41591-023-02535-w",
+      "first_author": "Harris E",
+      "url": "https://doi.org/10.1001/jama.2023.14311",
       "code": "",
-      "abstract": "",
+      "abstract": "This Medical News article discusses new research on artificial intelligence systems such as ChatGPT and Med-PaLM.",
       "pub_types": [
-        "journal article"
+        "research support, non-u.s. gov't",
+        "journal article",
+        "research support, n.i.h., extramural"
       ],
-      "added_batch": "2026-08-20",
+      "source": "crossref",
+      "added_batch": "2026-08-31",
       "tags": [],
       "highlight": false,
       "status": "new",
-      "specialties": [],
-      "source": "crossref",
-      "model": ""
+      "model": "",
+      "specialties": []
     },
     {
       "doi": "10.1001/jama.2023.14217",
@@ -6983,6 +7609,29 @@
       ],
       "source": "epmc",
       "model": ""
+    },
+    {
+      "doi": "10.1001/jama.2023.12553",
+      "pmid": "37467004",
+      "title": "Study Tests Large Language Models’ Ability to Answer Clinical Questions",
+      "journal": "JAMA",
+      "group": "顶级医学期刊",
+      "date": "2023-08-08",
+      "year": "2023",
+      "first_author": "Harris E",
+      "url": "https://doi.org/10.1001/jama.2023.12553",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-08-31",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
     }
   ],
   "batches": [
@@ -6991,9 +7640,13 @@
       "added": 4
     },
     {
+      "batch": "2026-08-31",
+      "added": 105
+    },
+    {
       "batch": "initial",
       "added": 199
     }
   ],
-  "latest_batch": "2026-08-20"
+  "latest_batch": "2026-08-31"
 }
