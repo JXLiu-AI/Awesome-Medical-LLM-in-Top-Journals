@@ -195,6 +195,13 @@
 - [Nature] [A foundation model for generalizable disease detection from retinal images](https://doi.org/10.1038/s41586-023-06555-x)
 - [Nature Medicine] [A visual-language foundation model for pathology image analysis using medical Twitter](https://doi.org/10.1038/s41591-023-02504-3)
 
+## 2026-09-07（4 篇）
+
+- [Nature Medicine] [Prediction of maternal and infant outcomes from longitudinal electronic health records with a Mother-Child AI agent](https://doi.org/10.1038/s41591-026-04694-y)
+- [Nature Methods] [Benchmarking biomedical foundation models](https://doi.org/10.1038/s41592-026-03182-y)
+- [The Lancet Digital Health] [Development and external validation of a contrastive learning foundation model for ECG-based prediction of cardiovascular diseases and outcomes](https://doi.org/10.1016/j.landig.2026.101092)
+- [Cell] [AI-driven discovery of GPNMB CAR T cells as a multi-cancer therapy](https://doi.org/10.1016/j.cell.2026.06.002)
+
 ## 2026-08-31（124 篇）
 
 - [The Lancet Digital Health] [Autonomous agentic artificial intelligence systems in health care: friend or foe?](https://doi.org/10.1016/j.landig.2026.101073)

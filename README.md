@@ -10,9 +10,9 @@
 <!-- STATS:BEGIN -->
 | 刊物 | 收录数 |
 | --- | ---: |
-| Nature Medicine | 78 |
+| Nature Medicine | 79 |
 | NEJM AI | 48 |
-| The Lancet Digital Health | 45 |
+| The Lancet Digital Health | 46 |
 | Nature Biomedical Engineering | 43 |
 | JAMA | 25 |
 | Radiology: Artificial Intelligence | 23 |
@@ -23,14 +23,14 @@
 | Science | 8 |
 | Nature Neuroscience | 8 |
 | Nature Reviews Bioengineering | 8 |
+| Cell | 7 |
 | The Lancet | 7 |
-| Cell | 6 |
+| Nature Methods | 5 |
 | Nature Biotechnology | 5 |
-| Nature Methods | 4 |
 | NEJM | 4 |
 | Science Translational Medicine | 2 |
 | Nature Communications | 1 |
-| **合计** | **375** |
+| **合计** | **379** |
 <!-- STATS:END -->
 
 ## 论文列表
@@ -38,7 +38,7 @@
 每条末尾的图标是科室，规则在 [config/specialties.json](config/specialties.json)：
 
 <!-- LEGEND:BEGIN -->
-🩻 放射影像（41） ｜ 🎧 脑机接口（41） ｜ 🎗️ 肿瘤（30） ｜ 🔬 病理（29） ｜ 📋 病历文书（23） ｜ 🧩 精神心理（18） ｜ 🧠 神经（17） ｜ 👁️ 眼科（14） ｜ 🌍 公共卫生（14） ｜ 🧬 基因组（10） ｜ 🫀 心血管（8） ｜ 🩺 全科基层（8） ｜ 🚑 急诊重症（7） ｜ 💊 药学（7） ｜ 💭 脑解码（6） ｜ ✂️ 外科手术（5） ｜ 🎓 医学教育（5） ｜ 🌊 超声（4） ｜ 🦷 口腔（2） ｜ 🦴 骨科（2） ｜ 🫁 呼吸（2） ｜ 🔎 消化内镜（2） ｜ 🩹 皮肤（2） ｜ 👶 儿科（1） ｜ 🤰 妇产（1）
+🩻 放射影像（41） ｜ 🎧 脑机接口（41） ｜ 🎗️ 肿瘤（31） ｜ 🔬 病理（29） ｜ 📋 病历文书（24） ｜ 🧩 精神心理（18） ｜ 🧠 神经（17） ｜ 👁️ 眼科（14） ｜ 🌍 公共卫生（14） ｜ 🧬 基因组（11） ｜ 🫀 心血管（9） ｜ 🩺 全科基层（8） ｜ 🚑 急诊重症（7） ｜ 💊 药学（7） ｜ 💭 脑解码（6） ｜ ✂️ 外科手术（5） ｜ 🎓 医学教育（5） ｜ 🌊 超声（4） ｜ 👶 儿科（2） ｜ 🦷 口腔（2） ｜ 🦴 骨科（2） ｜ 🫁 呼吸（2） ｜ 🔎 消化内镜（2） ｜ 🩹 皮肤（2） ｜ 🤰 妇产（1）
 <!-- LEGEND:END -->
 
 <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top"> 是本次同步新增。历次新增见 [CHANGELOG.md](CHANGELOG.md)。
@@ -49,17 +49,17 @@
 <details open>
 <summary><b>Nature</b>（22）</summary>
 
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Safety and security of large language models in healthcare](https://doi.org/10.1038/s41586-026-10687-1)**<br/>Clusmann J et al. · *Nature* · 2026-08-19
+- **[Safety and security of large language models in healthcare](https://doi.org/10.1038/s41586-026-10687-1)**<br/>Clusmann J et al. · *Nature* · 2026-08-19
 - **[Towards conversational artificial intelligence for disease management](https://doi.org/10.1038/s41586-026-10764-5)**<br/>Liévin V et al. · *Nature* · 2026-06-17 💊
 - **[Towards autonomous medical artificial intelligence agents](https://doi.org/10.1038/s41586-026-10675-5)**<br/>Ferber D et al. · *Nature* · 2026-06-17 📋
 - `Merlin` **[Merlin: a computed tomography vision-language foundation model and dataset](https://doi.org/10.1038/s41586-026-10181-8)**<br/>Blankemeier L et al. · *Nature* · 2026-03-04 🩻
 - `DeepRare` **[An agentic system for rare disease diagnosis with traceable reasoning](https://doi.org/10.1038/s41586-025-10097-9)**<br/>Zhao W et al. · *Nature* · 2026-02-18 🧬🩺
 - `Psych-101` **[A foundation model to predict and capture human cognition](https://doi.org/10.1038/s41586-025-09215-4)**<br/>Binz M et al. · *Nature* · 2025-07-02
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[An instantaneous voice-synthesis neuroprosthesis](https://doi.org/10.1038/s41586-025-09127-3)**<br/>Wairagkar M et al. · *Nature* · 2025-06-12 🎧
+- **[An instantaneous voice-synthesis neuroprosthesis](https://doi.org/10.1038/s41586-025-09127-3)**<br/>Wairagkar M et al. · *Nature* · 2025-06-12 🎧
 - **[A fully open AI foundation model applied to chest radiography](https://doi.org/10.1038/s41586-025-09079-8)**<br/>Ma D et al. · *Nature* · 2025-06-11 🩻
 - **[Towards accurate differential diagnosis with large language models](https://doi.org/10.1038/s41586-025-08869-4)**<br/>McDuff D et al. · *Nature* · 2025-04-09
 - `AMIE` **[Towards conversational diagnostic artificial intelligence](https://doi.org/10.1038/s41586-025-08866-7)**<br/>Tu T et al. · *Nature* · 2025-04-09
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Foundation model of neural activity predicts response to new stimulus types](https://doi.org/10.1038/s41586-025-08829-y)**<br/>Wang EY et al. · *Nature* · 2025-04-09
+- **[Foundation model of neural activity predicts response to new stimulus types](https://doi.org/10.1038/s41586-025-08829-y)**<br/>Wang EY et al. · *Nature* · 2025-04-09
 - **[Multimodal generative AI for medical image interpretation](https://doi.org/10.1038/s41586-025-08675-y)**<br/>Rao VM et al. · *Nature* · 2025-03-26 🩻
 - **[A vision-language foundation model for precision oncology](https://doi.org/10.1038/s41586-024-08378-w)**<br/>Xiang J et al. · *Nature* · 2025-01-08 🔬🎗️📋
 - **[Accurate predictions on small data with a tabular foundation model](https://doi.org/10.1038/s41586-024-08328-6)**<br/>Hollmann N et al. · *Nature* · 2025-01-08 💊
@@ -69,24 +69,25 @@
 - `PathChat` **[A multimodal generative AI copilot for human pathology](https://doi.org/10.1038/s41586-024-07618-3)**<br/>Lu MY et al. · *Nature* · 2024-06-12 🔬
 - `Prov-GigaPath` **[A whole-slide foundation model for digital pathology from real-world data](https://doi.org/10.1038/s41586-024-07441-w)**<br/>Xu H et al. · *Nature* · 2024-05-22 🔬🎗️
 - `RETFound` **[A foundation model for generalizable disease detection from retinal images](https://doi.org/10.1038/s41586-023-06555-x)**<br/>Zhou Y et al. · *Nature* · 2023-09-13 👁️
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A high-performance speech neuroprosthesis](https://doi.org/10.1038/s41586-023-06377-x)**<br/>Willett F et al. · *Nature* · 2023-08-23 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A high-performance neuroprosthesis for speech decoding and avatar control](https://doi.org/10.1038/s41586-023-06443-4)**<br/>Metzger S et al. · *Nature* · 2023-08-23 🎧💭
+- **[A high-performance speech neuroprosthesis](https://doi.org/10.1038/s41586-023-06377-x)**<br/>Willett F et al. · *Nature* · 2023-08-23 🎧
+- **[A high-performance neuroprosthesis for speech decoding and avatar control](https://doi.org/10.1038/s41586-023-06443-4)**<br/>Metzger S et al. · *Nature* · 2023-08-23 🎧💭
 
 </details>
 
 <details open>
-<summary><b>Nature Medicine</b>（78）</summary>
+<summary><b>Nature Medicine</b>（79）</summary>
 
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Prospective evaluation of a large language model clinical decision support system in the emergency department](https://doi.org/10.1038/s41591-026-04601-5)**<br/>Leibovitch L et al. · *Nature Medicine* · 2026-08-19 🚑
+- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Prediction of maternal and infant outcomes from longitudinal electronic health records with a Mother-Child AI agent](https://doi.org/10.1038/s41591-026-04694-y)**<br/>Liu S et al. · *Nature Medicine* · 2026-09-04 👶📋
+- **[Prospective evaluation of a large language model clinical decision support system in the emergency department](https://doi.org/10.1038/s41591-026-04601-5)**<br/>Leibovitch L et al. · *Nature Medicine* · 2026-08-19 🚑
 - **[A clinically validated framework for auditing AI chatbot behavior in mental health interactions](https://doi.org/10.1038/s41591-026-04577-2)**<br/>Weilnhammer V et al. · *Nature Medicine* · 2026-08-07 🧩
 - `PRISM2` **[End-to-end multimodal pathology foundation model with clinical dialogue](https://doi.org/10.1038/s41591-026-04521-4)**<br/>Vorontsov E et al. · *Nature Medicine* · 2026-07-31 🔬
 - `COMPASS` **[Generalizable AI predicts immunotherapy outcomes across cancers and treatments](https://doi.org/10.1038/s41591-026-04502-7)**<br/>Shen W et al. · *Nature Medicine* · 2026-07-03 🎗️
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia](https://doi.org/10.1038/s41591-026-04498-0)**<br/>Chandrasekaran S et al. · *Nature Medicine* · 2026-07-01 🎧🧠
+- **[A neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia](https://doi.org/10.1038/s41591-026-04498-0)**<br/>Chandrasekaran S et al. · *Nature Medicine* · 2026-07-01 🎧🧠
 - `HemaGuide` **[Clinical decision support in hematological malignancies using a case-grounded AI agent](https://doi.org/10.1038/s41591-026-04494-4)**<br/>Zoller J et al. · *Nature Medicine* · 2026-06-30 🎗️
 - **[Generative AI-enabled clinical decision support system in primary care: a pragmatic, cluster-randomized trial](https://doi.org/10.1038/s41591-026-04503-6)**<br/>Agweyu A et al. · *Nature Medicine* · 2026-06-26 🩺📋
 - **[Evaluating the robustness and readiness of large frontier models in health AI applications](https://doi.org/10.1038/s41591-026-04501-8)**<br/>Gu Y et al. · *Nature Medicine* · 2026-06-26
 - **[General-purpose chatbots outperform clinical AI tools on physicians’ real-world questions](https://doi.org/10.1038/s41591-026-04457-9)**<br/> · *Nature Medicine* · 2026-06-17
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Long-term independent use of an intracortical brain–computer interface for speech and cursor control](https://doi.org/10.1038/s41591-026-04414-6)**<br/>Card N et al. · *Nature Medicine* · 2026-06-15 🎧
+- **[Long-term independent use of an intracortical brain–computer interface for speech and cursor control](https://doi.org/10.1038/s41591-026-04414-6)**<br/>Card N et al. · *Nature Medicine* · 2026-06-15 🎧
 - **[General-purpose large language models outperform specialized clinical AI tools on medical benchmarks](https://doi.org/10.1038/s41591-026-04431-5)**<br/>Vishwanath K et al. · *Nature Medicine* · 2026-06-12
 - **[Autonomous pathology research using agentic AI shows potential in oncology](https://doi.org/10.1038/s41591-026-04403-9)**<br/> · *Nature Medicine* · 2026-06-01 🔬🎗️
 - **[Advancing conversational diagnostic AI with multimodal reasoning](https://doi.org/10.1038/s41591-026-04371-0)**<br/>Saab K et al. · *Nature Medicine* · 2026-05-14
@@ -103,16 +104,16 @@
 - **[An LLM chatbot to facilitate primary-to-specialist care transitions: a randomized controlled trial](https://doi.org/10.1038/s41591-025-04176-7)**<br/>Tao X et al. · *Nature Medicine* · 2026-01-19 🩺
 - `SleepFM` **[A multimodal sleep foundation model for disease prediction](https://doi.org/10.1038/s41591-025-04133-4)**<br/>Thapa R et al. · *Nature Medicine* · 2026-01-06 🧩
 - `GenDSA-V2` **[Generative AI-based low-dose digital subtraction angiography for intra-operative radiation dose reduction: a randomized controlled trial](https://doi.org/10.1038/s41591-025-04042-6)**<br/>Zhao H et al. · *Nature Medicine* · 2026-01-02 🩻
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[The fragile intelligence of GPT-5 in medicine](https://doi.org/10.1038/s41591-025-04008-8)**<br/>Handler R et al. · *Nature Medicine* · 2025-12-01
+- **[The fragile intelligence of GPT-5 in medicine](https://doi.org/10.1038/s41591-025-04008-8)**<br/>Handler R et al. · *Nature Medicine* · 2025-12-01
 - **[A multimodal whole-slide foundation model for pathology](https://doi.org/10.1038/s41591-025-03982-3)**<br/>Ding T et al. · *Nature Medicine* · 2025-11-05 🔬
 - **[Generative artificial intelligence in medicine](https://doi.org/10.1038/s41591-025-03983-2)**<br/>Teo ZL et al. · *Nature Medicine* · 2025-10-06
 - **[Rapid deployment of large language model DeepSeek in Chinese hospitals demands a regulatory response](https://doi.org/10.1038/s41591-025-03836-y)**<br/>Shen T et al. · *Nature Medicine* · 2025-10-01
 - `EyeFM` **[An eyecare foundation model for clinical assistance: a randomized controlled trial](https://doi.org/10.1038/s41591-025-03900-7)**<br/>Wu Y et al. · *Nature Medicine* · 2025-08-28 👁️
 - **[Global distribution of research efforts, disease burden, and impact of US public funding withdrawal](https://doi.org/10.1038/s41591-025-03923-0)**<br/>Schmallenbach L et al. · *Nature Medicine* · 2025-08-27
 - **[A personal health large language model for sleep and fitness coaching](https://doi.org/10.1038/s41591-025-03888-0)**<br/>Khasentino J et al. · *Nature Medicine* · 2025-08-14
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Open-source LLM DeepSeek on a par with proprietary models in clinical decision making](https://doi.org/10.1038/s41591-025-03850-0)**<br/> · *Nature Medicine* · 2025-08-01
+- **[Open-source LLM DeepSeek on a par with proprietary models in clinical decision making](https://doi.org/10.1038/s41591-025-03850-0)**<br/> · *Nature Medicine* · 2025-08-01
 - **[Large language model-based biological age prediction in large-scale populations](https://doi.org/10.1038/s41591-025-03856-8)**<br/>Li Y et al. · *Nature Medicine* · 2025-07-23
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Overcoming regulatory barriers to the implementation of AI agents in healthcare](https://doi.org/10.1038/s41591-025-03841-1)**<br/>Freyer O et al. · *Nature Medicine* · 2025-07-18
+- **[Overcoming regulatory barriers to the implementation of AI agents in healthcare](https://doi.org/10.1038/s41591-025-03841-1)**<br/>Freyer O et al. · *Nature Medicine* · 2025-07-18
 - **[Real-world deployment of a fine-tuned pathology foundation model for lung cancer biomarker detection](https://doi.org/10.1038/s41591-025-03780-x)**<br/>Campanella G et al. · *Nature Medicine* · 2025-07-09 🧬🔬🎗️
 - `PanDerm` **[A multimodal vision foundation model for clinical dermatology](https://doi.org/10.1038/s41591-025-03747-y)**<br/>Yan S et al. · *Nature Medicine* · 2025-06-06 🩹🎗️
 - **[A generative AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis: a randomized phase 2a trial](https://doi.org/10.1038/s41591-025-03743-2)**<br/>Xu Z et al. · *Nature Medicine* · 2025-06-03 🫁
@@ -128,12 +129,12 @@
 - **[Medical large language models are vulnerable to data-poisoning attacks](https://doi.org/10.1038/s41591-024-03445-1)**<br/>Alber DA et al. · *Nature Medicine* · 2025-01-08
 - `MedFound` **[A generalist medical language model for disease diagnosis assistance](https://doi.org/10.1038/s41591-024-03416-6)**<br/>Liu X et al. · *Nature Medicine* · 2025-01-08
 - **[An evaluation framework for clinical use of large language models in patient interaction tasks](https://doi.org/10.1038/s41591-024-03328-5)**<br/>Johri S et al. · *Nature Medicine* · 2025-01-02
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A high-performance brain–computer interface for finger decoding and quadcopter game control in an individual with paralysis](https://doi.org/10.1038/s41591-024-03341-8)**<br/>Willsey M et al. · *Nature Medicine* · 2025-01-01 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[The expanding repertoire of brain–computer interfaces](https://doi.org/10.1038/s41591-024-03440-6)**<br/>Ramsey N et al. · *Nature Medicine* · 2025-01-01 🎧
+- **[A high-performance brain–computer interface for finger decoding and quadcopter game control in an individual with paralysis](https://doi.org/10.1038/s41591-024-03341-8)**<br/>Willsey M et al. · *Nature Medicine* · 2025-01-01 🎧
+- **[The expanding repertoire of brain–computer interfaces](https://doi.org/10.1038/s41591-024-03440-6)**<br/>Ramsey N et al. · *Nature Medicine* · 2025-01-01 🎧
 - `MINIM` **[Self-improving generative foundation model for synthetic medical image generation and clinical applications](https://doi.org/10.1038/s41591-024-03359-y)**<br/>Wang J et al. · *Nature Medicine* · 2024-12-11
 - **[Safety principles for medical summarization using generative AI](https://doi.org/10.1038/s41591-024-03313-y)**<br/>Obika D et al. · *Nature Medicine* · 2024-12-01
 - `Flamingo-CXR` **[Collaboration between clinicians and vision-language models in radiology report generation](https://doi.org/10.1038/s41591-024-03302-1)**<br/>Tanno R et al. · *Nature Medicine* · 2024-11-07 🩻
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Improving primary healthcare with generative AI](https://doi.org/10.1038/s41591-024-03257-3)**<br/>Yip W. et al. · *Nature Medicine* · 2024-10-01
+- **[Improving primary healthcare with generative AI](https://doi.org/10.1038/s41591-024-03257-3)**<br/>Yip W. et al. · *Nature Medicine* · 2024-10-01
 - `TxGNN` **[A foundation model for clinician-centered drug repurposing](https://doi.org/10.1038/s41591-024-03233-x)**<br/>Huang K et al. · *Nature Medicine* · 2024-09-25
 - **[A toolbox for surfacing health equity harms and biases in large language models](https://doi.org/10.1038/s41591-024-03258-2)**<br/>Pfohl SR et al. · *Nature Medicine* · 2024-09-23 🌍
 - `BiomedGPT` **[A generalist vision-language foundation model for diverse biomedical tasks](https://doi.org/10.1038/s41591-024-03185-2)**<br/>Zhang K et al. · *Nature Medicine* · 2024-08-07
@@ -151,8 +152,8 @@
 - **[Towards a general-purpose foundation model for computational pathology](https://doi.org/10.1038/s41591-024-02857-3)**<br/>Chen RJ et al. · *Nature Medicine* · 2024-03-19 🔬
 - **[Adapted large language models can outperform medical experts in clinical text summarization](https://doi.org/10.1038/s41591-024-02855-5)**<br/>Van Veen D et al. · *Nature Medicine* · 2024-02-27 📋🩻
 - **[Closing the accessibility gap to mental health treatment with a personalized self-referral chatbot](https://doi.org/10.1038/s41591-023-02766-x)**<br/>Habicht J et al. · *Nature Medicine* · 2024-02-05 🩺🧩
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Six ways large language models are changing healthcare](https://doi.org/10.1038/s41591-023-02700-1)**<br/>Webster P et al. · *Nature Medicine* · 2023-11-30
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A spinal cord neuroprosthesis for locomotor deficits due to Parkinson’s disease](https://doi.org/10.1038/s41591-023-02584-1)**<br/>Milekovic T et al. · *Nature Medicine* · 2023-11-01 🎧🧠
+- **[Six ways large language models are changing healthcare](https://doi.org/10.1038/s41591-023-02700-1)**<br/>Webster P et al. · *Nature Medicine* · 2023-11-30
+- **[A spinal cord neuroprosthesis for locomotor deficits due to Parkinson’s disease](https://doi.org/10.1038/s41591-023-02584-1)**<br/>Milekovic T et al. · *Nature Medicine* · 2023-11-01 🎧🧠
 - **[Large language model AI chatbots require approval as medical devices](https://doi.org/10.1038/s41591-023-02412-6)**<br/>Gilbert S et al. · *Nature Medicine* · 2023-10-01
 - **[A visual-language foundation model for pathology image analysis using medical Twitter](https://doi.org/10.1038/s41591-023-02504-3)**<br/>Huang Z et al. · *Nature Medicine* · 2023-08-17 🔬
 
@@ -161,14 +162,14 @@
 <details open>
 <summary><b>Nature Biomedical Engineering</b>（43）</summary>
 
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;`ConceptCLIP` **[An explainable biomedical foundation model via large-scale concept-enhanced vision-language pretraining](https://doi.org/10.1038/s41551-026-01764-x)**<br/>Nie Y et al. · *Nature Biomedical Engineering* · 2026-08-17
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Foundation models in biomedical imaging: turning hype into reality](https://doi.org/10.1038/s41551-026-01762-z)**<br/>Muneer A et al. · *Nature Biomedical Engineering* · 2026-08-11
+- `ConceptCLIP` **[An explainable biomedical foundation model via large-scale concept-enhanced vision-language pretraining](https://doi.org/10.1038/s41551-026-01764-x)**<br/>Nie Y et al. · *Nature Biomedical Engineering* · 2026-08-17
+- **[Foundation models in biomedical imaging: turning hype into reality](https://doi.org/10.1038/s41551-026-01762-z)**<br/>Muneer A et al. · *Nature Biomedical Engineering* · 2026-08-11
 - `Pathology-CoT` **[Pathology-CoT: learning visual chain-of-thought agents from expert whole-slide image diagnosis behaviour](https://doi.org/10.1038/s41551-026-01739-y)**<br/>Wang S et al. · *Nature Biomedical Engineering* · 2026-07-24 🔬
 - `CLEAR` **[CLEAR: an auditable foundation model for radiology grounded in clinical concepts](https://doi.org/10.1038/s41551-026-01741-4)**<br/>Han T et al. · *Nature Biomedical Engineering* · 2026-07-22 🩻
 - `MARS` **[Large-scale multi-sequence pretraining for generalizable MRI analysis in versatile clinical applications](https://doi.org/10.1038/s41551-026-01740-5)**<br/>Qiu Z et al. · *Nature Biomedical Engineering* · 2026-07-13 🩻
 - `BoneCoT` **[BoneCoT: multicentre validation of a whole-body skeleton foundation model for bone metastases guided by clinician-derived chain of thought](https://doi.org/10.1038/s41551-026-01736-1)**<br/>Zhao H et al. · *Nature Biomedical Engineering* · 2026-07-02 🎗️🦴🩻
 - **[Towards clinical-level interpretation of dental panoramic radiography using an instance-guided vision-language model](https://doi.org/10.1038/s41551-026-01713-8)**<br/>Zhu Q et al. · *Nature Biomedical Engineering* · 2026-06-25 🩻🦷
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Large reasoning models as thinking machines for medicine](https://doi.org/10.1038/s41551-026-01701-y)**<br/>Zhou H et al. · *Nature Biomedical Engineering* · 2026-06-23
+- **[Large reasoning models as thinking machines for medicine](https://doi.org/10.1038/s41551-026-01701-y)**<br/>Zhou H et al. · *Nature Biomedical Engineering* · 2026-06-23
 - `BRIDGE` **[BRIDGE: benchmarking large language models for understanding real-world clinical practice texts](https://doi.org/10.1038/s41551-026-01719-2)**<br/>Wu J et al. · *Nature Biomedical Engineering* · 2026-06-17 📋
 - **[Rethinking foundation models in pathology](https://doi.org/10.1038/s41551-026-01696-6)**<br/>Tizhoosh H et al. · *Nature Biomedical Engineering* · 2026-06-12 🔬
 - **[Towards generalizable AI in medicine via Generalist-Specialist Collaboration](https://doi.org/10.1038/s41551-026-01653-3)**<br/>He S et al. · *Nature Biomedical Engineering* · 2026-05-01
@@ -176,33 +177,33 @@
 - **[Towards a general-purpose foundation model for functional MRI analysis](https://doi.org/10.1038/s41551-026-01666-y)**<br/>Wang C et al. · *Nature Biomedical Engineering* · 2026-04-23 🩻🧠
 - **[3D foundation model for generalizable disease detection in head computed tomography](https://doi.org/10.1038/s41551-026-01668-w)**<br/>Zhu W et al. · *Nature Biomedical Engineering* · 2026-04-22 🩻🔬🧠
 - `BioMedAgent` **[Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses](https://doi.org/10.1038/s41551-026-01634-6)**<br/>Bu D et al. · *Nature Biomedical Engineering* · 2026-03-30
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[An ophthalmic video foundation model for surgical recognition and navigation with wet-lab porcine eye validation](https://doi.org/10.1038/s41551-026-01622-w)**<br/>Tu P et al. · *Nature Biomedical Engineering* · 2026-03-03 ✂️👁️
+- **[An ophthalmic video foundation model for surgical recognition and navigation with wet-lab porcine eye validation](https://doi.org/10.1038/s41551-026-01622-w)**<br/>Tu P et al. · *Nature Biomedical Engineering* · 2026-03-03 ✂️👁️
 - `CT-CLIP` **[Generalist foundation models from a multimodal dataset for 3D computed tomography](https://doi.org/10.1038/s41551-025-01599-y)**<br/>Hamamci IE et al. · *Nature Biomedical Engineering* · 2026-02-12 🩻
 - **[Learning neuroimaging models from health system-scale data](https://doi.org/10.1038/s41551-025-01608-0)**<br/>Lyu Y et al. · *Nature Biomedical Engineering* · 2026-02-06 🩻🧠
 - **[Making large language models reliable data science programming copilots for biomedical research](https://doi.org/10.1038/s41551-025-01587-2)**<br/>Wang Z et al. · *Nature Biomedical Engineering* · 2026-01-22 🎗️🧬
 - **[A multimodal vision-language model for generalizable annotation-free pathology localization](https://doi.org/10.1038/s41551-025-01574-7)**<br/>Yang H et al. · *Nature Biomedical Engineering* · 2026-01-06 🔬
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;`GaitDynamics` **[GaitDynamics: a generative foundation model for analyzing human walking and running](https://doi.org/10.1038/s41551-025-01565-8)**<br/>Tan T et al. · *Nature Biomedical Engineering* · 2026-01-05
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Long-term unsupervised recalibration of cursor-based intracortical brain–computer interfaces using a hidden Markov model](https://doi.org/10.1038/s41551-025-01536-z)**<br/>Wilson G et al. · *Nature Biomedical Engineering* · 2025-12-08 🎧
+- `GaitDynamics` **[GaitDynamics: a generative foundation model for analyzing human walking and running](https://doi.org/10.1038/s41551-025-01565-8)**<br/>Tan T et al. · *Nature Biomedical Engineering* · 2026-01-05
+- **[Long-term unsupervised recalibration of cursor-based intracortical brain–computer interfaces using a hidden Markov model](https://doi.org/10.1038/s41551-025-01536-z)**<br/>Wilson G et al. · *Nature Biomedical Engineering* · 2025-12-08 🎧
 - `MedMPT` **[A vision-language pretrained transformer for versatile clinical respiratory disease applications](https://doi.org/10.1038/s41551-025-01544-z)**<br/>Ma L et al. · *Nature Biomedical Engineering* · 2025-11-06 🫁🩻
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[High-resolution brain–computer interface with electrode scalability and minimally invasive surgery](https://doi.org/10.1038/s41551-025-01502-9)**<br/> · *Nature Biomedical Engineering* · 2025-10-02 🎧✂️
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Minimally invasive implantation of scalable high-density cortical microelectrode arrays for multimodal neural decoding and stimulation](https://doi.org/10.1038/s41551-025-01501-w)**<br/>Hettick M et al. · *Nature Biomedical Engineering* · 2025-10-02 💭🎧
+- **[High-resolution brain–computer interface with electrode scalability and minimally invasive surgery](https://doi.org/10.1038/s41551-025-01502-9)**<br/> · *Nature Biomedical Engineering* · 2025-10-02 🎧✂️
+- **[Minimally invasive implantation of scalable high-density cortical microelectrode arrays for multimodal neural decoding and stimulation](https://doi.org/10.1038/s41551-025-01501-w)**<br/>Hettick M et al. · *Nature Biomedical Engineering* · 2025-10-02 💭🎧
 - **[Benchmarking foundation models as feature extractors for weakly supervised computational pathology](https://doi.org/10.1038/s41551-025-01516-3)**<br/>Neidlinger P et al. · *Nature Biomedical Engineering* · 2025-10-01 🔬🎗️🔎
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants](https://doi.org/10.1038/s41551-025-01467-9)**<br/>Merk T et al. · *Nature Biomedical Engineering* · 2025-09-24 💭🎧
+- **[Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants](https://doi.org/10.1038/s41551-025-01467-9)**<br/>Merk T et al. · *Nature Biomedical Engineering* · 2025-09-24 💭🎧
 - **[A collaborative large language model for drug analysis](https://doi.org/10.1038/s41551-025-01471-z)**<br/>Zhou H et al. · *Nature Biomedical Engineering* · 2025-09-23
 - **[A generalist foundation model and database for open-world medical image segmentation](https://doi.org/10.1038/s41551-025-01497-3)**<br/>Zhang S et al. · *Nature Biomedical Engineering* · 2025-09-05
 - **[A generalizable pathology foundation model using a unified knowledge distillation pretraining framework](https://doi.org/10.1038/s41551-025-01488-4)**<br/>Ma J et al. · *Nature Biomedical Engineering* · 2025-09-02 🔬
 - **[Unconditional latent diffusion models memorize patient imaging data](https://doi.org/10.1038/s41551-025-01468-8)**<br/>Dar SUH et al. · *Nature Biomedical Engineering* · 2025-08-11
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A deep learning system for detecting silent brain infarction and predicting stroke risk](https://doi.org/10.1038/s41551-025-01413-9)**<br/>Jiang N et al. · *Nature Biomedical Engineering* · 2025-06-06 👁️🧠
+- **[A deep learning system for detecting silent brain infarction and predicting stroke risk](https://doi.org/10.1038/s41551-025-01413-9)**<br/>Jiang N et al. · *Nature Biomedical Engineering* · 2025-06-06 👁️🧠
 - **[Synthetic data boosts medical foundation models](https://doi.org/10.1038/s41551-025-01375-y)**<br/>Sheng B et al. · *Nature Biomedical Engineering* · 2025-04-08
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Coordinated AI agents for advancing healthcare](https://doi.org/10.1038/s41551-025-01363-2)**<br/>Moritz M et al. · *Nature Biomedical Engineering* · 2025-04-01
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A generalist model for enhancing brain MRIs](https://doi.org/10.1038/s41551-024-01320-5)**<br/>Balbastre Y et al. · *Nature Biomedical Engineering* · 2025-04-01 🩻
+- **[Coordinated AI agents for advancing healthcare](https://doi.org/10.1038/s41551-025-01363-2)**<br/>Moritz M et al. · *Nature Biomedical Engineering* · 2025-04-01
+- **[A generalist model for enhancing brain MRIs](https://doi.org/10.1038/s41551-024-01320-5)**<br/>Balbastre Y et al. · *Nature Biomedical Engineering* · 2025-04-01 🩻
 - **[A data-efficient strategy for building high-performing medical foundation models](https://doi.org/10.1038/s41551-025-01365-0)**<br/>Sun Y et al. · *Nature Biomedical Engineering* · 2025-03-05 👁️
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[An application-based taxonomy for brain–computer interfaces](https://doi.org/10.1038/s41551-024-01326-z)**<br/>Robinson J et al. · *Nature Biomedical Engineering* · 2024-12-23 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Enhanced control of a brain–computer interface by tetraplegic participants via neural-network-mediated feature extraction](https://doi.org/10.1038/s41551-024-01297-1)**<br/>Haghi B et al. · *Nature Biomedical Engineering* · 2024-12-06 🎧
+- **[An application-based taxonomy for brain–computer interfaces](https://doi.org/10.1038/s41551-024-01326-z)**<br/>Robinson J et al. · *Nature Biomedical Engineering* · 2024-12-23 🎧
+- **[Enhanced control of a brain–computer interface by tetraplegic participants via neural-network-mediated feature extraction](https://doi.org/10.1038/s41551-024-01297-1)**<br/>Haghi B et al. · *Nature Biomedical Engineering* · 2024-12-06 🎧
 - **[A foundation model for enhancing magnetic resonance images and downstream segmentation, registration and diagnostic tasks](https://doi.org/10.1038/s41551-024-01283-7)**<br/>Sun Y et al. · *Nature Biomedical Engineering* · 2024-12-05
 - **[A multimodal machine learning model for the stratification of breast cancer risk](https://doi.org/10.1038/s41551-024-01302-7)**<br/>Qian X et al. · *Nature Biomedical Engineering* · 2024-12-04 🎗️🩻🌊
 - **[A vision-language foundation model for the generation of realistic chest X-ray images](https://doi.org/10.1038/s41551-024-01246-y)**<br/>Bluethgen C et al. · *Nature Biomedical Engineering* · 2024-08-26 🩻🔬
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A bilingual speech neuroprosthesis driven by cortical articulatory representations shared between languages](https://doi.org/10.1038/s41551-024-01207-5)**<br/>Silva AB et al. · *Nature Biomedical Engineering* · 2024-05-20 🎧
+- **[A bilingual speech neuroprosthesis driven by cortical articulatory representations shared between languages](https://doi.org/10.1038/s41551-024-01207-5)**<br/>Silva AB et al. · *Nature Biomedical Engineering* · 2024-05-20 🎧
 - **[Auditing the inference processes of medical-image classifiers by leveraging generative AI and the expertise of physicians](https://doi.org/10.1038/s41551-023-01160-9)**<br/>DeGrave AJ et al. · *Nature Biomedical Engineering* · 2023-12-28 🩹
 
 </details>
@@ -212,38 +213,39 @@
 
 - **[A domain-adapted large language model to support clinicians in psychiatric clinical practice](https://doi.org/10.1038/s42256-026-01224-w)**<br/>Wang R et al. · *Nature Machine Intelligence* · 2026-04-27 🧩
 - **[Cardiac health assessment across scenarios and devices using a multimodal foundation model pretrained on data from 1.7 million individuals](https://doi.org/10.1038/s42256-026-01180-5)**<br/>Gu X et al. · *Nature Machine Intelligence* · 2026-02-24 🫀
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[When large language models are reliable for judging empathic communication](https://doi.org/10.1038/s42256-025-01169-6)**<br/>Kumar A et al. · *Nature Machine Intelligence* · 2026-02-11
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A psychometric framework for evaluating and shaping personality traits in large language models](https://doi.org/10.1038/s42256-025-01115-6)**<br/>Serapio-García G et al. · *Nature Machine Intelligence* · 2025-12-18
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Brain-computer interface control with artificial intelligence copilots](https://doi.org/10.1038/s42256-025-01090-y)**<br/>Lee JY et al. · *Nature Machine Intelligence* · 2025-09-01 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[High-level visual representations in the human brain are aligned with large language models](https://doi.org/10.1038/s42256-025-01072-0)**<br/>Doerig A et al. · *Nature Machine Intelligence* · 2025-08-07
+- **[When large language models are reliable for judging empathic communication](https://doi.org/10.1038/s42256-025-01169-6)**<br/>Kumar A et al. · *Nature Machine Intelligence* · 2026-02-11
+- **[A psychometric framework for evaluating and shaping personality traits in large language models](https://doi.org/10.1038/s42256-025-01115-6)**<br/>Serapio-García G et al. · *Nature Machine Intelligence* · 2025-12-18
+- **[Brain-computer interface control with artificial intelligence copilots](https://doi.org/10.1038/s42256-025-01090-y)**<br/>Lee JY et al. · *Nature Machine Intelligence* · 2025-09-01 🎧
+- **[High-level visual representations in the human brain are aligned with large language models](https://doi.org/10.1038/s42256-025-01072-0)**<br/>Doerig A et al. · *Nature Machine Intelligence* · 2025-08-07
 - **[Next-generation phenotyping of inherited retinal diseases from multimodal imaging with Eye2Gene](https://doi.org/10.1038/s42256-025-01040-8)**<br/>Pontikos N et al. · *Nature Machine Intelligence* · 2025-06-18 👁️
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Visual cognition in multimodal large language models](https://doi.org/10.1038/s42256-024-00963-y)**<br/>Schulze Buschoff L et al. · *Nature Machine Intelligence* · 2025-01-15
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[LLM-based agentic systems in medicine and healthcare](https://doi.org/10.1038/s42256-024-00944-1)**<br/>Qiu J et al. · *Nature Machine Intelligence* · 2024-12-05
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Contextual feature extraction hierarchies converge in large language models and the brain](https://doi.org/10.1038/s42256-024-00925-4)**<br/>Mischler G et al. · *Nature Machine Intelligence* · 2024-11-26
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Clinical large language models with misplaced focus](https://doi.org/10.1038/s42256-024-00929-0)**<br/>Luo Z et al. · *Nature Machine Intelligence* · 2024-11-18
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Foundation models in healthcare require rethinking reliability](https://doi.org/10.1038/s42256-024-00924-5)**<br/>Grote T et al. · *Nature Machine Intelligence* · 2024-11-11
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[General-purpose foundation models for increased autonomy in robot-assisted surgery](https://doi.org/10.1038/s42256-024-00917-4)**<br/>Schmidgall S et al. · *Nature Machine Intelligence* · 2024-11-01 ✂️
+- **[Visual cognition in multimodal large language models](https://doi.org/10.1038/s42256-024-00963-y)**<br/>Schulze Buschoff L et al. · *Nature Machine Intelligence* · 2025-01-15
+- **[LLM-based agentic systems in medicine and healthcare](https://doi.org/10.1038/s42256-024-00944-1)**<br/>Qiu J et al. · *Nature Machine Intelligence* · 2024-12-05
+- **[Contextual feature extraction hierarchies converge in large language models and the brain](https://doi.org/10.1038/s42256-024-00925-4)**<br/>Mischler G et al. · *Nature Machine Intelligence* · 2024-11-26
+- **[Clinical large language models with misplaced focus](https://doi.org/10.1038/s42256-024-00929-0)**<br/>Luo Z et al. · *Nature Machine Intelligence* · 2024-11-18
+- **[Foundation models in healthcare require rethinking reliability](https://doi.org/10.1038/s42256-024-00924-5)**<br/>Grote T et al. · *Nature Machine Intelligence* · 2024-11-11
+- **[General-purpose foundation models for increased autonomy in robot-assisted surgery](https://doi.org/10.1038/s42256-024-00917-4)**<br/>Schmidgall S et al. · *Nature Machine Intelligence* · 2024-11-01 ✂️
 - **[Poisoning medical knowledge using large language models](https://doi.org/10.1038/s42256-024-00899-3)**<br/>Yang J et al. · *Nature Machine Intelligence* · 2024-09-20
 - **[Accelerating histopathology workflows with generative AI-based virtually multiplexed tumour profiling](https://doi.org/10.1038/s42256-024-00889-5)**<br/>Pati P et al. · *Nature Machine Intelligence* · 2024-09-09 🔬🎗️
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A neural speech decoding framework leveraging deep learning and speech synthesis](https://doi.org/10.1038/s42256-024-00824-8)**<br/>Chen X et al. · *Nature Machine Intelligence* · 2024-04-08 🎧💭🧠
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Foundation model for cancer imaging biomarkers](https://doi.org/10.1038/s42256-024-00807-9)**<br/>Pai S et al. · *Nature Machine Intelligence* · 2024-03-15 🎗️
+- **[A neural speech decoding framework leveraging deep learning and speech synthesis](https://doi.org/10.1038/s42256-024-00824-8)**<br/>Chen X et al. · *Nature Machine Intelligence* · 2024-04-08 🎧💭🧠
+- **[Foundation model for cancer imaging biomarkers](https://doi.org/10.1038/s42256-024-00807-9)**<br/>Pai S et al. · *Nature Machine Intelligence* · 2024-03-15 🎗️
 
 </details>
 
 <details open>
 <summary><b>Nature Biotechnology</b>（5）</summary>
 
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Tracing the rise of biomedical foundation models](https://doi.org/10.1038/s41587-026-03135-y)**<br/>Chang Y et al. · *Nature Biotechnology* · 2026-04-30
+- **[Tracing the rise of biomedical foundation models](https://doi.org/10.1038/s41587-026-03135-y)**<br/>Chang Y et al. · *Nature Biotechnology* · 2026-04-30
 - **[Agentic AI and the rise of in silico team science in biomedical research](https://doi.org/10.1038/s41587-026-03035-1)**<br/>Li B et al. · *Nature Biotechnology* · 2026-02-24 💊
 - **[Intestinal mucosal barrier repair and immune regulation with an AI-developed gut-restricted PHD inhibitor](https://doi.org/10.1038/s41587-024-02503-w)**<br/>Fu Y et al. · *Nature Biotechnology* · 2024-12-11 🔎💊
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A neuroprosthesis for Parkinson’s disease](https://doi.org/10.1038/s41587-023-02067-1)**<br/>Bishop A et al. · *Nature Biotechnology* · 2023-12-01 🎧🧠
+- **[A neuroprosthesis for Parkinson’s disease](https://doi.org/10.1038/s41587-023-02067-1)**<br/>Bishop A et al. · *Nature Biotechnology* · 2023-12-01 🎧🧠
 - **[ChatGPT and medicine: how AI language models are shaping the future and health related careers](https://doi.org/10.1038/s41587-023-02011-3)**<br/>Yan M et al. · *Nature Biotechnology* · 2023-11-01
 
 </details>
 
 <details open>
-<summary><b>Nature Methods</b>（4）</summary>
+<summary><b>Nature Methods</b>（5）</summary>
 
+- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Benchmarking biomedical foundation models](https://doi.org/10.1038/s41592-026-03182-y)**<br/>Saez-Rodriguez J et al. · *Nature Methods* · 2026-09-01
 - `LazySlide` **[LazySlide: accessible and interoperable whole-slide image analysis](https://doi.org/10.1038/s41592-026-03044-7)**<br/>Zheng Y et al. · *Nature Methods* · 2026-03-20 🔬
 - **[A foundation model unlocks unified biomedical image analysis](https://doi.org/10.1038/s41592-024-02519-9)**<br/>Huang Y et al. · *Nature Methods* · 2025-01-01
 - `BiomedParse` **[A foundation model for joint segmentation, detection and recognition of biomedical objects across nine modalities](https://doi.org/10.1038/s41592-024-02499-w)**<br/>Zhao T et al. · *Nature Methods* · 2024-11-18
@@ -261,27 +263,27 @@
 <details open>
 <summary><b>Nature Reviews Bioengineering</b>（8）</summary>
 
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Transitioning from speech to language brain–computer interfaces](https://doi.org/10.1038/s44222-026-00460-4)**<br/>Li J et al. · *Nature Reviews Bioengineering* · 2026-05-26 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Animal models in brain–computer interface research](https://doi.org/10.1038/s44222-025-00313-6)**<br/>Lo Y et al. · *Nature Reviews Bioengineering* · 2025-05-06 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Application of large language models in medicine](https://doi.org/10.1038/s44222-025-00279-5)**<br/>Liu F et al. · *Nature Reviews Bioengineering* · 2025-04-07
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Terahertz brain–computer interfaces](https://doi.org/10.1038/s44222-025-00275-9)**<br/>Nagarajan A et al. · *Nature Reviews Bioengineering* · 2025-01-28 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[The state of clinical trials of implantable brain–computer interfaces](https://doi.org/10.1038/s44222-024-00239-5)**<br/>Patrick-Krueger K et al. · *Nature Reviews Bioengineering* · 2024-09-20 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Reality check for brain–machine interfaces](https://doi.org/10.1038/s44222-024-00230-0)**<br/> · *Nature Reviews Bioengineering* · 2024-08-12 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Brain–computer interfaces for neuropsychiatric disorders](https://doi.org/10.1038/s44222-024-00177-2)**<br/>Oganesian L et al. · *Nature Reviews Bioengineering* · 2024-06-03 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[The convergence of neuromodulation and brain–computer interfaces](https://doi.org/10.1038/s44222-024-00187-0)**<br/>Herron J et al. · *Nature Reviews Bioengineering* · 2024-04-22 🎧
+- **[Transitioning from speech to language brain–computer interfaces](https://doi.org/10.1038/s44222-026-00460-4)**<br/>Li J et al. · *Nature Reviews Bioengineering* · 2026-05-26 🎧
+- **[Animal models in brain–computer interface research](https://doi.org/10.1038/s44222-025-00313-6)**<br/>Lo Y et al. · *Nature Reviews Bioengineering* · 2025-05-06 🎧
+- **[Application of large language models in medicine](https://doi.org/10.1038/s44222-025-00279-5)**<br/>Liu F et al. · *Nature Reviews Bioengineering* · 2025-04-07
+- **[Terahertz brain–computer interfaces](https://doi.org/10.1038/s44222-025-00275-9)**<br/>Nagarajan A et al. · *Nature Reviews Bioengineering* · 2025-01-28 🎧
+- **[The state of clinical trials of implantable brain–computer interfaces](https://doi.org/10.1038/s44222-024-00239-5)**<br/>Patrick-Krueger K et al. · *Nature Reviews Bioengineering* · 2024-09-20 🎧
+- **[Reality check for brain–machine interfaces](https://doi.org/10.1038/s44222-024-00230-0)**<br/> · *Nature Reviews Bioengineering* · 2024-08-12 🎧
+- **[Brain–computer interfaces for neuropsychiatric disorders](https://doi.org/10.1038/s44222-024-00177-2)**<br/>Oganesian L et al. · *Nature Reviews Bioengineering* · 2024-06-03 🎧
+- **[The convergence of neuromodulation and brain–computer interfaces](https://doi.org/10.1038/s44222-024-00187-0)**<br/>Herron J et al. · *Nature Reviews Bioengineering* · 2024-04-22 🎧
 
 </details>
 
 <details open>
 <summary><b>Nature Neuroscience</b>（8）</summary>
 
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Human learning of noninvasive brain–computer interfaces via manifold geometry](https://doi.org/10.1038/s41593-026-02311-2)**<br/>Busch E et al. · *Nature Neuroscience* · 2026-06-09 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Restoring rapid natural bimanual typing with a neuroprosthesis after paralysis](https://doi.org/10.1038/s41593-026-02218-y)**<br/>Jude J et al. · *Nature Neuroscience* · 2026-03-16 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Personalized brain decoding of spontaneous pain in individuals with chronic pain](https://doi.org/10.1038/s41593-026-02221-3)**<br/>Lee J et al. · *Nature Neuroscience* · 2026-02-26 💭🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A generalizable foundation model for analysis of human brain MRI](https://doi.org/10.1038/s41593-026-02202-6)**<br/>Tak D et al. · *Nature Neuroscience* · 2026-02-05 🩻🧠
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A streaming brain-to-voice neuroprosthesis to restore naturalistic communication](https://doi.org/10.1038/s41593-025-01905-6)**<br/>Littlejohn K et al. · *Nature Neuroscience* · 2025-03-31 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[This neuroprosthesis was made for walking](https://doi.org/10.1038/s41593-023-01528-9)**<br/>Zarate J et al. · *Nature Neuroscience* · 2023-12-01 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Decoding motor plans using a closed-loop ultrasonic brain–machine interface](https://doi.org/10.1038/s41593-023-01500-7)**<br/>Griggs W et al. · *Nature Neuroscience* · 2023-11-30 🎧🌊🧠
+- **[Human learning of noninvasive brain–computer interfaces via manifold geometry](https://doi.org/10.1038/s41593-026-02311-2)**<br/>Busch E et al. · *Nature Neuroscience* · 2026-06-09 🎧
+- **[Restoring rapid natural bimanual typing with a neuroprosthesis after paralysis](https://doi.org/10.1038/s41593-026-02218-y)**<br/>Jude J et al. · *Nature Neuroscience* · 2026-03-16 🎧
+- **[Personalized brain decoding of spontaneous pain in individuals with chronic pain](https://doi.org/10.1038/s41593-026-02221-3)**<br/>Lee J et al. · *Nature Neuroscience* · 2026-02-26 💭🎧
+- **[A generalizable foundation model for analysis of human brain MRI](https://doi.org/10.1038/s41593-026-02202-6)**<br/>Tak D et al. · *Nature Neuroscience* · 2026-02-05 🩻🧠
+- **[A streaming brain-to-voice neuroprosthesis to restore naturalistic communication](https://doi.org/10.1038/s41593-025-01905-6)**<br/>Littlejohn K et al. · *Nature Neuroscience* · 2025-03-31 🎧
+- **[This neuroprosthesis was made for walking](https://doi.org/10.1038/s41593-023-01528-9)**<br/>Zarate J et al. · *Nature Neuroscience* · 2023-12-01 🎧
+- **[Decoding motor plans using a closed-loop ultrasonic brain–machine interface](https://doi.org/10.1038/s41593-023-01500-7)**<br/>Griggs W et al. · *Nature Neuroscience* · 2023-11-30 🎧🌊🧠
 - **[Semantic reconstruction of continuous language from non-invasive brain recordings](https://doi.org/10.1038/s41593-023-01304-9)**<br/>Tang J et al. · *Nature Neuroscience* · 2023-05-01
 
 </details>
@@ -289,16 +291,16 @@
 <details open>
 <summary><b>Nature Human Behaviour</b>（10）</summary>
 
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Interaction with AI companions and psychological well-being](https://doi.org/10.1038/s41562-026-02516-2)**<br/>Zhang Y et al. · *Nature Human Behaviour* · 2026-08-04
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Assessing personality using zero-shot generative AI scoring of brief open-ended text](https://doi.org/10.1038/s41562-025-02389-x)**<br/>Wright AGC et al. · *Nature Human Behaviour* · 2026-01-30
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Combined evidence from artificial neural networks and human brain-lesion models reveals that language modulates vision in human perception](https://doi.org/10.1038/s41562-025-02357-5)**<br/>Chen H et al. · *Nature Human Behaviour* · 2025-12-15
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Active use of latent tree-structured sentence representation in humans and large language models](https://doi.org/10.1038/s41562-025-02297-0)**<br/>Liu W et al. · *Nature Human Behaviour* · 2025-09-10
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Cultural tendencies in generative AI](https://doi.org/10.1038/s41562-025-02242-1)**<br/>Lu JG et al. · *Nature Human Behaviour* · 2025-06-20
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A unified acoustic-to-speech-to-language embedding space captures the neural basis of natural language processing in everyday conversations](https://doi.org/10.1038/s41562-025-02105-9)**<br/>Goldstein A et al. · *Nature Human Behaviour* · 2025-03-07 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Large language models surpass human experts in predicting neuroscience results](https://doi.org/10.1038/s41562-024-02046-9)**<br/>Luo X et al. · *Nature Human Behaviour* · 2024-11-27
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A behaviourally informed chatbot increases vaccination rates in Argentina more than a one-way reminder](https://doi.org/10.1038/s41562-024-01985-7)**<br/>Brown D et al. · *Nature Human Behaviour* · 2024-10-18 🌍
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Ethical challenges in translating brain–computer interfaces](https://doi.org/10.1038/s41562-024-01972-y)**<br/>Wexler A et al. · *Nature Human Behaviour* · 2024-09-17 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Representation of internal speech by single neurons in human supramarginal gyrus](https://doi.org/10.1038/s41562-024-01867-y)**<br/>Wandelt S et al. · *Nature Human Behaviour* · 2024-05-13 🎧💭
+- **[Interaction with AI companions and psychological well-being](https://doi.org/10.1038/s41562-026-02516-2)**<br/>Zhang Y et al. · *Nature Human Behaviour* · 2026-08-04
+- **[Assessing personality using zero-shot generative AI scoring of brief open-ended text](https://doi.org/10.1038/s41562-025-02389-x)**<br/>Wright AGC et al. · *Nature Human Behaviour* · 2026-01-30
+- **[Combined evidence from artificial neural networks and human brain-lesion models reveals that language modulates vision in human perception](https://doi.org/10.1038/s41562-025-02357-5)**<br/>Chen H et al. · *Nature Human Behaviour* · 2025-12-15
+- **[Active use of latent tree-structured sentence representation in humans and large language models](https://doi.org/10.1038/s41562-025-02297-0)**<br/>Liu W et al. · *Nature Human Behaviour* · 2025-09-10
+- **[Cultural tendencies in generative AI](https://doi.org/10.1038/s41562-025-02242-1)**<br/>Lu JG et al. · *Nature Human Behaviour* · 2025-06-20
+- **[A unified acoustic-to-speech-to-language embedding space captures the neural basis of natural language processing in everyday conversations](https://doi.org/10.1038/s41562-025-02105-9)**<br/>Goldstein A et al. · *Nature Human Behaviour* · 2025-03-07 🎧
+- **[Large language models surpass human experts in predicting neuroscience results](https://doi.org/10.1038/s41562-024-02046-9)**<br/>Luo X et al. · *Nature Human Behaviour* · 2024-11-27
+- **[A behaviourally informed chatbot increases vaccination rates in Argentina more than a one-way reminder](https://doi.org/10.1038/s41562-024-01985-7)**<br/>Brown D et al. · *Nature Human Behaviour* · 2024-10-18 🌍
+- **[Ethical challenges in translating brain–computer interfaces](https://doi.org/10.1038/s41562-024-01972-y)**<br/>Wexler A et al. · *Nature Human Behaviour* · 2024-09-17 🎧
+- **[Representation of internal speech by single neurons in human supramarginal gyrus](https://doi.org/10.1038/s41562-024-01867-y)**<br/>Wandelt S et al. · *Nature Human Behaviour* · 2024-05-13 🎧💭
 
 </details>
 
@@ -307,14 +309,14 @@
 <details open>
 <summary><b>Science</b>（8）</summary>
 
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[The Therabot will see you now](https://doi.org/10.1126/science.aeh4808)**<br/>Jacobson NC. et al. · *Science* · 2026-07-16 🧩
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Regaining your voice](https://doi.org/10.1126/science.aeh4797)**<br/>Stavisky S et al. · *Science* · 2026-07-16 🎧🧠
+- **[The Therabot will see you now](https://doi.org/10.1126/science.aeh4808)**<br/>Jacobson NC. et al. · *Science* · 2026-07-16 🧩
+- **[Regaining your voice](https://doi.org/10.1126/science.aeh4797)**<br/>Stavisky S et al. · *Science* · 2026-07-16 🎧🧠
 - **[Autonomous biomedical research with an artificial intelligence agent](https://doi.org/10.1126/science.adz4351)**<br/>Huang K et al. · *Science* · 2026-07-09
 - **[Performance of a large language model on the reasoning tasks of a physician](https://doi.org/10.1126/science.adz4433)**<br/>Brodeur PG et al. · *Science* · 2026-04-30
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;`LightGen` **[All-optical synthesis chip for large-scale intelligent semantic vision generation](https://doi.org/10.1126/science.adv7434)**<br/>Chen Y et al. · *Science* · 2025-12-18 👁️
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Durably reducing conspiracy beliefs through dialogues with AI](https://doi.org/10.1126/science.adq1814)**<br/>Costello TH et al. · *Science* · 2024-09-13
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Volitional activation of remote place representations with a hippocampal brain–machine interface](https://doi.org/10.1126/science.adh5206)**<br/>Lai C et al. · *Science* · 2023-11-03 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[The neural basis of mental navigation in rats](https://doi.org/10.1126/science.adl0806)**<br/>Coulter M et al. · *Science* · 2023-11-03 🎧
+- `LightGen` **[All-optical synthesis chip for large-scale intelligent semantic vision generation](https://doi.org/10.1126/science.adv7434)**<br/>Chen Y et al. · *Science* · 2025-12-18 👁️
+- **[Durably reducing conspiracy beliefs through dialogues with AI](https://doi.org/10.1126/science.adq1814)**<br/>Costello TH et al. · *Science* · 2024-09-13
+- **[Volitional activation of remote place representations with a hippocampal brain–machine interface](https://doi.org/10.1126/science.adh5206)**<br/>Lai C et al. · *Science* · 2023-11-03 🎧
+- **[The neural basis of mental navigation in rats](https://doi.org/10.1126/science.adl0806)**<br/>Coulter M et al. · *Science* · 2023-11-03 🎧
 
 </details>
 
@@ -322,21 +324,22 @@
 <summary><b>Science Translational Medicine</b>（2）</summary>
 
 - `AI-CURA` **[AI-CURA, an automated LLM workflow for high-accuracy genetic variant classification](https://doi.org/10.1126/scitranslmed.adz4172)**<br/>Ma W et al. · *Science Translational Medicine* · 2026-06-24 🧬🔬
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Cortical hyperexcitability in mouse models and patients with amyotrophic lateral sclerosis is linked to noradrenaline deficiency](https://doi.org/10.1126/scitranslmed.adg3665)**<br/>Scekic-Zahirovic J et al. · *Science Translational Medicine* · 2024-03-13 🎧🧠
+- **[Cortical hyperexcitability in mouse models and patients with amyotrophic lateral sclerosis is linked to noradrenaline deficiency](https://doi.org/10.1126/scitranslmed.adg3665)**<br/>Scekic-Zahirovic J et al. · *Science Translational Medicine* · 2024-03-13 🎧🧠
 
 </details>
 
 ### Cell 正刊与子刊
 
 <details open>
-<summary><b>Cell</b>（6）</summary>
+<summary><b>Cell</b>（7）</summary>
 
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Fifteen challenges for generative AI applications to cell biology](https://doi.org/10.1016/j.cell.2026.07.004)**<br/>Dupire L et al. · *Cell* · 2026-08-17 🎗️
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Inner speech in motor cortex and implications for speech neuroprostheses](https://doi.org/10.1016/j.cell.2025.06.015)**<br/>Kunz EM et al. · *Cell* · 2025-08-14 🎧
+- **[Fifteen challenges for generative AI applications to cell biology](https://doi.org/10.1016/j.cell.2026.07.004)**<br/>Dupire L et al. · *Cell* · 2026-08-17 🎗️
+- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[AI-driven discovery of GPNMB CAR T cells as a multi-cancer therapy](https://doi.org/10.1016/j.cell.2026.06.002)**<br/>Baker DJ et al. · *Cell* · 2026-06-01 🎗️🧬
+- **[Inner speech in motor cortex and implications for speech neuroprostheses](https://doi.org/10.1016/j.cell.2025.06.015)**<br/>Kunz EM et al. · *Cell* · 2025-08-14 🎧
 - **[The generative era of medical AI](https://doi.org/10.1016/j.cell.2025.05.018)**<br/>Fahrner LJ et al. · *Cell* · 2025-07-01 🔬
 - **[Large language models deconstruct the clinical intuition behind diagnosing autism](https://doi.org/10.1016/j.cell.2025.02.025)**<br/>Stanley J et al. · *Cell* · 2025-03-26 🧬
 - **[Empowering biomedical discovery with AI agents](https://doi.org/10.1016/j.cell.2024.09.022)**<br/>Gao S et al. · *Cell* · 2024-10-01
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Macrophage-mediated myelin recycling fuels brain cancer malignancy](https://doi.org/10.1016/j.cell.2024.07.030)**<br/>Kloosterman DJ et al. · *Cell* · 2024-08-12 🎗️
+- **[Macrophage-mediated myelin recycling fuels brain cancer malignancy](https://doi.org/10.1016/j.cell.2024.07.030)**<br/>Kloosterman DJ et al. · *Cell* · 2024-08-12 🎗️
 
 </details>
 
@@ -345,10 +348,10 @@
 <details open>
 <summary><b>NEJM</b>（4）</summary>
 
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Generative AI in Medicine - Evaluating Progress and Challenges](https://doi.org/10.1056/nejmsb2503956)**<br/>Maddox TM et al. · *NEJM* · 2025-04-10
+- **[Generative AI in Medicine - Evaluating Progress and Challenges](https://doi.org/10.1056/nejmsb2503956)**<br/>Maddox TM et al. · *NEJM* · 2025-04-10
 - **[Large Language Models and the Degradation of the Medical Record](https://doi.org/10.1056/nejmp2405999)**<br/>McCoy L et al. · *NEJM* · 2024-10-31 📋
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[An Accurate and Rapidly Calibrating Speech Neuroprosthesis](https://doi.org/10.1056/nejmoa2314132)**<br/>Card N et al. · *NEJM* · 2024-08-15 🎧
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Longevity of a Brain–Computer Interface for Amyotrophic Lateral Sclerosis](https://doi.org/10.1056/nejmoa2314598)**<br/>Vansteensel M et al. · *NEJM* · 2024-08-15 🎧
+- **[An Accurate and Rapidly Calibrating Speech Neuroprosthesis](https://doi.org/10.1056/nejmoa2314132)**<br/>Card N et al. · *NEJM* · 2024-08-15 🎧
+- **[Longevity of a Brain–Computer Interface for Amyotrophic Lateral Sclerosis](https://doi.org/10.1056/nejmoa2314598)**<br/>Vansteensel M et al. · *NEJM* · 2024-08-15 🎧
 
 </details>
 
@@ -370,7 +373,7 @@
 - **[Exploring Large Language Models for Specialist-Level Oncology Care](https://doi.org/10.1056/aics2500025)**<br/>Palepu A et al. · *NEJM AI* · 2025-10-23 🎗️
 - **[Trial Emulation, Simulation, and Augmentation Using Electronic Health Records and Generative AI](https://doi.org/10.1056/aie2500894)**<br/>Dahabreh I et al. · *NEJM AI* · 2025-09-25 📋
 - **[Assessing Retrieval-Augmented Large Language Models for Medical Coding](https://doi.org/10.1056/aics2401161)**<br/>Klang E et al. · *NEJM AI* · 2025-09-25
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Assessment of Large Language Models in Clinical Reasoning: A Novel Benchmarking Study](https://doi.org/10.1056/aidbp2500120)**<br/>McCoy L et al. · *NEJM AI* · 2025-09-25
+- **[Assessment of Large Language Models in Clinical Reasoning: A Novel Benchmarking Study](https://doi.org/10.1056/aidbp2500120)**<br/>McCoy L et al. · *NEJM AI* · 2025-09-25
 - **[A Generative AI Chatbot for Mental Health Treatment: A Step in the Right Direction?](https://doi.org/10.1056/aip2500453)**<br/>Heckman T et al. · *NEJM AI* · 2025-08-28 🧩
 - `MedAgentBench` **[MedAgentBench: A Virtual EHR Environment to Benchmark Medical LLM Agents](https://doi.org/10.1056/aidbp2500144)**<br/>Jiang Y et al. · *NEJM AI* · 2025-08-28 📋
 - **[Redefining Bias Audits for Generative AI in Health Care](https://doi.org/10.1056/aip2500015)**<br/>Chen I et al. · *NEJM AI* · 2025-08-28
@@ -386,9 +389,9 @@
 - **[A Cross-Sectional Study of GPT-4–Based Plain Language Translation of Clinical Notes to Improve Patient Comprehension of Disease Course and Management](https://doi.org/10.1056/aioa2400402)**<br/>Kumar A et al. · *NEJM AI* · 2025-01-23 📋
 - **[Using Large Language Models to Promote Health Equity](https://doi.org/10.1056/aip2400889)**<br/>Pierson E et al. · *NEJM AI* · 2025-01-23 🌍
 - **[RAG in Health Care: A Novel Framework for Improving Communication and Decision-Making by Addressing LLM Limitations](https://doi.org/10.1056/aira2400380)**<br/>Ng K et al. · *NEJM AI* · 2025-01-01
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A Multimodal Biomedical Foundation Model Trained from Fifteen Million Image–Text Pairs](https://doi.org/10.1056/aioa2400640)**<br/>Zhang S et al. · *NEJM AI* · 2025-01-01
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Zero-Shot Clinical Trial Patient Matching with LLMs](https://doi.org/10.1056/aics2400360)**<br/>Wornow M et al. · *NEJM AI* · 2025-01-01
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Fine-Tuning LLMs with Medical Data: Can Safety Be Ensured?](https://doi.org/10.1056/aics2400390)**<br/>Kim M et al. · *NEJM AI* · 2025-01-01
+- **[A Multimodal Biomedical Foundation Model Trained from Fifteen Million Image–Text Pairs](https://doi.org/10.1056/aioa2400640)**<br/>Zhang S et al. · *NEJM AI* · 2025-01-01
+- **[Zero-Shot Clinical Trial Patient Matching with LLMs](https://doi.org/10.1056/aics2400360)**<br/>Wornow M et al. · *NEJM AI* · 2025-01-01
+- **[Fine-Tuning LLMs with Medical Data: Can Safety Be Ensured?](https://doi.org/10.1056/aics2400390)**<br/>Kim M et al. · *NEJM AI* · 2025-01-01
 - **[A New Foundation Model for Multimodal Ophthalmic Images: Advancing Disease Detection and Prediction](https://doi.org/10.1056/aie2401024)**<br/>Chia M et al. · *NEJM AI* · 2024-11-27 👁️
 - **[Combining Multiple Large Language Models Improves Diagnostic Accuracy](https://doi.org/10.1056/aics2400502)**<br/>Barabucci G et al. · *NEJM AI* · 2024-10-24
 - **[Large Language Models for More Efficient Reporting of Hospital Quality Measures](https://doi.org/10.1056/aics2400420)**<br/>Boussina A et al. · *NEJM AI* · 2024-10-21 🚑
@@ -411,22 +414,23 @@
 
 - **[Targeted advertising in generative artificial intelligence chatbots: a new public health risk](https://doi.org/10.1016/s0140-6736(26)00464-2)**<br/>Backholer K et al. · *The Lancet* · 2026-04-02 🌍
 - **[Assessing generative artificial intelligence for mental health](https://doi.org/10.1016/s0140-6736(25)01237-1)**<br/>Torous J et al. · *The Lancet* · 2025-06-11 🧩
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Is generative artificial intelligence capable of clinical reasoning?](https://doi.org/10.1016/s0140-6736(25)00348-4)**<br/>Rodman A et al. · *The Lancet* · 2025-03-01
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[The rise of agentic AI teammates in medicine](https://doi.org/10.1016/s0140-6736(25)00202-8)**<br/>Zou J et al. · *The Lancet* · 2025-02-01
+- **[Is generative artificial intelligence capable of clinical reasoning?](https://doi.org/10.1016/s0140-6736(25)00348-4)**<br/>Rodman A et al. · *The Lancet* · 2025-03-01
+- **[The rise of agentic AI teammates in medicine](https://doi.org/10.1016/s0140-6736(25)00202-8)**<br/>Zou J et al. · *The Lancet* · 2025-02-01
 - **[A clinical certification pathway for generalist medical AI systems](https://doi.org/10.1016/s0140-6736(24)02797-1)**<br/>Rajpurkar P et al. · *The Lancet* · 2025-01-01
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Clinician as editor: notes in the era of AI scribes](https://doi.org/10.1016/s0140-6736(24)02568-6)**<br/>Altschuler S et al. · *The Lancet* · 2024-11-01
+- **[Clinician as editor: notes in the era of AI scribes](https://doi.org/10.1016/s0140-6736(24)02568-6)**<br/>Altschuler S et al. · *The Lancet* · 2024-11-01
 - **[Explaining differential socioeconomic effects in population health interventions: development and application of a new tool to classify intervention agentic demand](https://doi.org/10.1016/s0140-6736(23)02056-1)**<br/>Garrott K et al. · *The Lancet* · 2023-11-01 🌍
 
 </details>
 
 <details open>
-<summary><b>The Lancet Digital Health</b>（45）</summary>
+<summary><b>The Lancet Digital Health</b>（46）</summary>
 
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Autonomous agentic artificial intelligence systems in health care: friend or foe?](https://doi.org/10.1016/j.landig.2026.101073)**<br/>Qin Y et al. · *The Lancet Digital Health* · 2026-08-29
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Performance and label efficiency of traditional deep-learning models and a retina-specific foundation model for ocular and systemic disease detection: a retrospective comparative study](https://doi.org/10.1016/j.landig.2026.101031)**<br/>Yew SME et al. · *The Lancet Digital Health* · 2026-08-28 👁️
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Multimodal artificial intelligence-based long-term mortality prediction after transcatheter aortic valve implantation: a multicentre development, validation, and testing study](https://doi.org/10.1016/j.landig.2026.101049)**<br/>Shiri I et al. · *The Lancet Digital Health* · 2026-08-27 🫀🌊🩻
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Toward unified and comprehensive automated electroencephalogram interpretation: a multicentre development and validation of an electroencephalogram foundation model](https://doi.org/10.1016/j.landig.2026.101039)**<br/>Sun C et al. · *The Lancet Digital Health* · 2026-08-25 🧠
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Deception in clinical large language models: an under-recognised safety risk](https://doi.org/10.1016/j.landig.2026.101043)**<br/>Reddy A et al. · *The Lancet Digital Health* · 2026-08-01
+- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Development and external validation of a contrastive learning foundation model for ECG-based prediction of cardiovascular diseases and outcomes](https://doi.org/10.1016/j.landig.2026.101092)**<br/>Ko M et al. · *The Lancet Digital Health* · 2026-09-01 🫀
+- **[Autonomous agentic artificial intelligence systems in health care: friend or foe?](https://doi.org/10.1016/j.landig.2026.101073)**<br/>Qin Y et al. · *The Lancet Digital Health* · 2026-08-29
+- **[Performance and label efficiency of traditional deep-learning models and a retina-specific foundation model for ocular and systemic disease detection: a retrospective comparative study](https://doi.org/10.1016/j.landig.2026.101031)**<br/>Yew SME et al. · *The Lancet Digital Health* · 2026-08-28 👁️
+- **[Multimodal artificial intelligence-based long-term mortality prediction after transcatheter aortic valve implantation: a multicentre development, validation, and testing study](https://doi.org/10.1016/j.landig.2026.101049)**<br/>Shiri I et al. · *The Lancet Digital Health* · 2026-08-27 🫀🌊🩻
+- **[Toward unified and comprehensive automated electroencephalogram interpretation: a multicentre development and validation of an electroencephalogram foundation model](https://doi.org/10.1016/j.landig.2026.101039)**<br/>Sun C et al. · *The Lancet Digital Health* · 2026-08-25 🧠
+- **[Deception in clinical large language models: an under-recognised safety risk](https://doi.org/10.1016/j.landig.2026.101043)**<br/>Reddy A et al. · *The Lancet Digital Health* · 2026-08-01
 - **[Towards a unified foundation model for medical imaging](https://doi.org/10.1016/j.landig.2026.101013)**<br/>Jin K et al. · *The Lancet Digital Health* · 2026-07-27
 - `MerMED-FM` **[MerMED-FM: Multimodal, Multi-Disease Medical Imaging Foundation Model](https://doi.org/10.1016/j.landig.2026.101007)**<br/>Zhou Y et al. · *The Lancet Digital Health* · 2026-07-27
 - **[Large language models as experimental systems in human psychopathology: a modelling study](https://doi.org/10.1016/j.landig.2026.101014)**<br/>Wekenborg MK et al. · *The Lancet Digital Health* · 2026-06-10 🧩
@@ -435,9 +439,9 @@
 - **[Effects of large language model-generated, patient-oriented discharge summaries on patient activation: a single-centre, single-blind, randomised controlled trial in Germany](https://doi.org/10.1016/j.landig.2026.100991)**<br/>Rust P et al. · *The Lancet Digital Health* · 2026-05-18 📋
 - **[ChatGPT for obesity management: a review of evidence, potential challenges, and clinical implications](https://doi.org/10.1016/j.landig.2026.100980)**<br/>Motevalli M et al. · *The Lancet Digital Health* · 2026-04-10 👁️
 - **[Molecular alterations prediction in gliomas via an interpretable deep learning model: a multicentre and retrospective study](https://doi.org/10.1016/j.landig.2025.100977)**<br/>Han C et al. · *The Lancet Digital Health* · 2026-04-01 🧠🔬🧬
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Can large language models help young researchers develop new clinical research ideas?](https://doi.org/10.1016/j.landig.2026.100983)**<br/>Yang Y et al. · *The Lancet Digital Health* · 2026-04-01
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Beyond artificial intelligence psychosis: a functional typology of large language model-associated psychotic phenomena](https://doi.org/10.1016/j.landig.2025.100974)**<br/>Flathers M et al. · *The Lancet Digital Health* · 2026-03-14
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[A multiagent large language model-based system to simulate the liver transplant selection committee: a retrospective cohort study](https://doi.org/10.1016/j.landig.2025.100966)**<br/>Hasjim BJ et al. · *The Lancet Digital Health* · 2026-03-01
+- **[Can large language models help young researchers develop new clinical research ideas?](https://doi.org/10.1016/j.landig.2026.100983)**<br/>Yang Y et al. · *The Lancet Digital Health* · 2026-04-01
+- **[Beyond artificial intelligence psychosis: a functional typology of large language model-associated psychotic phenomena](https://doi.org/10.1016/j.landig.2025.100974)**<br/>Flathers M et al. · *The Lancet Digital Health* · 2026-03-14
+- **[A multiagent large language model-based system to simulate the liver transplant selection committee: a retrospective cohort study](https://doi.org/10.1016/j.landig.2025.100966)**<br/>Hasjim BJ et al. · *The Lancet Digital Health* · 2026-03-01
 - `RareArena` **[RareArena: a comprehensive benchmark dataset unveiling the potential of large language models in rare disease diagnosis](https://doi.org/10.1016/j.landig.2025.100953)**<br/>Chen H et al. · *The Lancet Digital Health* · 2026-02-26 🧬🌍
 - **[Agentic artificial intelligence in eye care: is clinical autonomy finally within reach?](https://doi.org/10.1016/j.landig.2025.100967)**<br/>Zou K et al. · *The Lancet Digital Health* · 2026-02-19 👁️
 - **[Large language models for simplifying radiology reports: a systematic review and meta-analysis of patient, public, and clinician evaluations](https://doi.org/10.1016/j.landig.2025.100960)**<br/>Alabed S et al. · *The Lancet Digital Health* · 2026-02-16 🩻
@@ -449,14 +453,14 @@
 - **[Evaluating the effect of visual data on multimodal artificial intelligence diagnostic performance](https://doi.org/10.1016/j.landig.2025.100938)**<br/>Mahajan A et al. · *The Lancet Digital Health* · 2025-12-01
 - **[Physician input improves generative artificial intelligence models' diagnostic performance in solving complex clinical cases](https://doi.org/10.1016/j.landig.2025.100922)**<br/>Lam K et al. · *The Lancet Digital Health* · 2025-11-22
 - **[How can artificial intelligence transform the training of medical students and physicians?](https://doi.org/10.1016/j.landig.2025.100900)**<br/>Ning Y et al. · *The Lancet Digital Health* · 2025-10-04 🎓🌍
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[How CHART (Chatbot Assessment Reporting Tool) can help to advance clinical artificial intelligence research through clearer task definition and robust validation](https://doi.org/10.1016/j.landig.2025.100910)**<br/>Thirunavukarasu AJ et al. · *The Lancet Digital Health* · 2025-08-26
+- **[How CHART (Chatbot Assessment Reporting Tool) can help to advance clinical artificial intelligence research through clearer task definition and robust validation](https://doi.org/10.1016/j.landig.2025.100910)**<br/>Thirunavukarasu AJ et al. · *The Lancet Digital Health* · 2025-08-26
 - **[Exploring the potential of generative artificial intelligence in medical image synthesis: opportunities, challenges, and future directions](https://doi.org/10.1016/j.landig.2025.100890)**<br/>Khosravi B et al. · *The Lancet Digital Health* · 2025-08-14
 - **[External validation of a digital pathology-based multimodal artificial intelligence-derived prognostic model in patients with advanced prostate cancer starting long-term androgen deprivation therapy: a post-hoc ancillary biomarker study of four phase 3 randomised controlled trials of the STAMPEDE platform protocol](https://doi.org/10.1016/j.landig.2025.100885)**<br/>Parker CTA et al. · *The Lancet Digital Health* · 2025-06-03 🎗️🔬
 - **[Large language models for the mental health community: framework for translating code to care](https://doi.org/10.1016/s2589-7500(24)00255-3)**<br/>Malgaroli M et al. · *The Lancet Digital Health* · 2025-01-07 🧩📋
 - **[The potential of Generative Pre-trained Transformer 4 (GPT-4) to analyse medical notes in three different languages: a retrospective model-evaluation study](https://doi.org/10.1016/s2589-7500(24)00246-2)**<br/>Menezes MCS et al. · *The Lancet Digital Health* · 2025-01-01
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Generative Pre-trained Transformer 4 (GPT-4) in clinical settings](https://doi.org/10.1016/j.landig.2024.12.002)**<br/>Bellini V et al. · *The Lancet Digital Health* · 2025-01-01
+- **[Generative Pre-trained Transformer 4 (GPT-4) in clinical settings](https://doi.org/10.1016/j.landig.2024.12.002)**<br/>Bellini V et al. · *The Lancet Digital Health* · 2025-01-01
 - **[Attitudes and perceptions of medical researchers towards the use of artificial intelligence chatbots in the scientific process: an international cross-sectional survey](https://doi.org/10.1016/s2589-7500(24)00202-4)**<br/>Ng JY et al. · *The Lancet Digital Health* · 2024-11-15
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[The potential for large language models to transform cardiovascular medicine](https://doi.org/10.1016/s2589-7500(24)00151-1)**<br/>Quer G et al. · *The Lancet Digital Health* · 2024-10-01 🫀
+- **[The potential for large language models to transform cardiovascular medicine](https://doi.org/10.1016/s2589-7500(24)00151-1)**<br/>Quer G et al. · *The Lancet Digital Health* · 2024-10-01 🫀
 - **[Generative artificial intelligence and ethical considerations in health care: a scoping review and ethics checklist](https://doi.org/10.1016/s2589-7500(24)00143-2)**<br/>Ning Y et al. · *The Lancet Digital Health* · 2024-09-17
 - **[A future role for health applications of large language models depends on regulators enforcing safety standards](https://doi.org/10.1016/s2589-7500(24)00124-9)**<br/>Freyer O et al. · *The Lancet Digital Health* · 2024-09-01
 - **[The diagnostic and triage accuracy of the GPT-3 artificial intelligence model: an observational study](https://doi.org/10.1016/s2589-7500(24)00097-9)**<br/>Levine DM et al. · *The Lancet Digital Health* · 2024-08-01 🚑
@@ -466,53 +470,53 @@
 - **[Assessing the potential of GPT-4 to perpetuate racial and gender biases in health care: a model evaluation study](https://doi.org/10.1016/s2589-7500(23)00225-x)**<br/>Zack T et al. · *The Lancet Digital Health* · 2024-01-01
 - **[Large language models and their impact in ophthalmology](https://doi.org/10.1016/s2589-7500(23)00201-7)**<br/>Betzler BK et al. · *The Lancet Digital Health* · 2023-12-01 👁️
 - **[Predicting seizure recurrence after an initial seizure-like episode from routine clinical notes using large language models: a retrospective cohort study](https://doi.org/10.1016/s2589-7500(23)00179-6)**<br/>Beaulieu-Jones BK et al. · *The Lancet Digital Health* · 2023-12-01 📋🧠
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Using fine-tuned large language models to parse clinical notes in musculoskeletal pain disorders](https://doi.org/10.1016/s2589-7500(23)00202-9)**<br/>Vaid A et al. · *The Lancet Digital Health* · 2023-12-01 🦴📋
+- **[Using fine-tuned large language models to parse clinical notes in musculoskeletal pain disorders](https://doi.org/10.1016/s2589-7500(23)00202-9)**<br/>Vaid A et al. · *The Lancet Digital Health* · 2023-12-01 🦴📋
 
 </details>
 
 <details open>
 <summary><b>JAMA</b>（25）</summary>
 
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[ADVOCATing for Patients With Heart Failure](https://doi.org/10.1001/jama.2026.12837)**<br/>Perlis R et al. · *JAMA* · 2026-08-27 🫀
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[How Generative AI Should Transform Clinical Decision Support](https://doi.org/10.1001/jama.2026.13187)**<br/>Liu S et al. · *JAMA* · 2026-08-01
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[About 1 in 5 US Youth Use AI Chatbots for Mental Health Advice](https://doi.org/10.1001/jama.2026.8310)**<br/>Anderer S et al. · *JAMA* · 2026-07-14 🧩
+- **[ADVOCATing for Patients With Heart Failure](https://doi.org/10.1001/jama.2026.12837)**<br/>Perlis R et al. · *JAMA* · 2026-08-27 🫀
+- **[How Generative AI Should Transform Clinical Decision Support](https://doi.org/10.1001/jama.2026.13187)**<br/>Liu S et al. · *JAMA* · 2026-08-01
+- **[About 1 in 5 US Youth Use AI Chatbots for Mental Health Advice](https://doi.org/10.1001/jama.2026.8310)**<br/>Anderer S et al. · *JAMA* · 2026-07-14 🧩
 - **[When Patients Share Everything With an AI Chatbot: Risks and Opportunities of Large Language Models](https://doi.org/10.1001/jama.2026.9507)**<br/>Ajunwa I et al. · *JAMA* · 2026-07-01
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[AI Chatbots and Youth Mental Health](https://doi.org/10.1001/jama.2025.24027)**<br/>Hswen Y et al. · *JAMA* · 2026-04-21 🧩
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[What Can 50-Year-Old Chatbots Teach Us About Clinical Applications of AI?](https://doi.org/10.1001/jama.2025.26751)**<br/>Perlis R et al. · *JAMA* · 2026-02-24
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Millions Turn to AI Chatbots for Mental Health Support](https://doi.org/10.1001/jama.2025.23965)**<br/>Rubin R et al. · *JAMA* · 2026-02-03 🧩
+- **[AI Chatbots and Youth Mental Health](https://doi.org/10.1001/jama.2025.24027)**<br/>Hswen Y et al. · *JAMA* · 2026-04-21 🧩
+- **[What Can 50-Year-Old Chatbots Teach Us About Clinical Applications of AI?](https://doi.org/10.1001/jama.2025.26751)**<br/>Perlis R et al. · *JAMA* · 2026-02-24
+- **[Millions Turn to AI Chatbots for Mental Health Support](https://doi.org/10.1001/jama.2025.23965)**<br/>Rubin R et al. · *JAMA* · 2026-02-03 🧩
 - **[Mitigating Suicide Risk for Minors Involving AI Chatbots—A First in the Nation Law](https://doi.org/10.1001/jama.2025.23744)**<br/>Cohen I et al. · *JAMA* · 2026-01-27 🧩
 - **[The Need for Oversight Over Apps for Substance Use Reduction](https://doi.org/10.1001/jama.2025.19143)**<br/>Russell A et al. · *JAMA* · 2025-12-09 🌍
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[AI Scribe May Ease Administrative Burdens for Clinicians](https://doi.org/10.1001/jama.2025.17518)**<br/>Anderer S. et al. · *JAMA* · 2025-10-17
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[When Patients Arrive With Answers](https://doi.org/10.1001/jama.2025.10678)**<br/>Sundar K et al. · *JAMA* · 2025-08-26 🩺
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[DeepSeek’s “Low-Cost” Adoption Across China’s Hospital Systems](https://doi.org/10.1001/jama.2025.6571)**<br/>Zeng D et al. · *JAMA* · 2025-06-03
+- **[AI Scribe May Ease Administrative Burdens for Clinicians](https://doi.org/10.1001/jama.2025.17518)**<br/>Anderer S. et al. · *JAMA* · 2025-10-17
+- **[When Patients Arrive With Answers](https://doi.org/10.1001/jama.2025.10678)**<br/>Sundar K et al. · *JAMA* · 2025-08-26 🩺
+- **[DeepSeek’s “Low-Cost” Adoption Across China’s Hospital Systems](https://doi.org/10.1001/jama.2025.6571)**<br/>Zeng D et al. · *JAMA* · 2025-06-03
 - **[Can Open-Source AI Models Diagnose Complex Cases as Well as GPT-4?](https://doi.org/10.1001/jama.2025.2806)**<br/>Perlis R et al. · *JAMA* · 2025-05-01
 - **[Manual vs AI-Assisted Prescreening for Trial Eligibility Using Large Language Models-A Randomized Clinical Trial](https://doi.org/10.1001/jama.2024.28047)**<br/>Unlu O et al. · *JAMA* · 2025-03-01
 - **[Synthetic Data and Health Privacy](https://doi.org/10.1001/jama.2024.25821)**<br/>Abgrall G et al. · *JAMA* · 2025-02-18
 - **[Testing and Evaluation of Health Care Applications of Large Language Models: A Systematic Review](https://doi.org/10.1001/jama.2024.21700)**<br/>Bedi S et al. · *JAMA* · 2025-01-01
 - **[An AI Chatbot Outperformed Physicians and Physicians Plus AI in a Trial-What Does That Mean?](https://doi.org/10.1001/jama.2024.23860)**<br/>Hswen Y et al. · *JAMA* · 2025-01-01
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Comparative Analysis of Multimodal Large Language Model Performance on Clinical Vignette Questions](https://doi.org/10.1001/jama.2023.27861)**<br/>Han T et al. · *JAMA* · 2024-04-01
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Affiliation Bias in Peer Review of Abstracts by a Large Language Model](https://doi.org/10.1001/jama.2023.24641)**<br/>von Wedel D et al. · *JAMA* · 2024-01-16
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[How AI Assistants Could Help Answer Patients’ Messages—and Potentially Improve Their Outcomes](https://doi.org/10.1001/jama.2023.22555)**<br/>Abbasi J et al. · *JAMA* · 2024-01-09 🌍
+- **[Comparative Analysis of Multimodal Large Language Model Performance on Clinical Vignette Questions](https://doi.org/10.1001/jama.2023.27861)**<br/>Han T et al. · *JAMA* · 2024-04-01
+- **[Affiliation Bias in Peer Review of Abstracts by a Large Language Model](https://doi.org/10.1001/jama.2023.24641)**<br/>von Wedel D et al. · *JAMA* · 2024-01-16
+- **[How AI Assistants Could Help Answer Patients’ Messages—and Potentially Improve Their Outcomes](https://doi.org/10.1001/jama.2023.22555)**<br/>Abbasi J et al. · *JAMA* · 2024-01-09 🌍
 - **[Will Generative Artificial Intelligence Deliver on Its Promise in Health Care?](https://doi.org/10.1001/jama.2023.25054)**<br/>Wachter RM et al. · *JAMA* · 2024-01-01 📋
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Google Health’s Chief Clinical Officer Talks About Incorporating AI in Health Care](https://doi.org/10.1001/jama.2023.19137)**<br/>Voelker R et al. · *JAMA* · 2023-10-10
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Large Language Models Answer Medical Questions Accurately, but Can’t Match Clinicians’ Knowledge](https://doi.org/10.1001/jama.2023.14311)**<br/>Harris E et al. · *JAMA* · 2023-09-05
+- **[Google Health’s Chief Clinical Officer Talks About Incorporating AI in Health Care](https://doi.org/10.1001/jama.2023.19137)**<br/>Voelker R et al. · *JAMA* · 2023-10-10
+- **[Large Language Models Answer Medical Questions Accurately, but Can’t Match Clinicians’ Knowledge](https://doi.org/10.1001/jama.2023.14311)**<br/>Harris E et al. · *JAMA* · 2023-09-05
 - **[Creation and Adoption of Large Language Models in Medicine](https://doi.org/10.1001/jama.2023.14217)**<br/>Shah NH et al. · *JAMA* · 2023-09-01 📋
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Study Tests Large Language Models’ Ability to Answer Clinical Questions](https://doi.org/10.1001/jama.2023.12553)**<br/>Harris E et al. · *JAMA* · 2023-08-08
+- **[Study Tests Large Language Models’ Ability to Answer Clinical Questions](https://doi.org/10.1001/jama.2023.12553)**<br/>Harris E et al. · *JAMA* · 2023-08-08
 
 </details>
 
 <details open>
 <summary><b>BMJ</b>（11）</summary>
 
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[ChatGPT’s health AI has dangerous flaws, study warns](https://doi.org/10.1136/bmj.s438)**<br/>Armstrong S et al. · *BMJ* · 2026-03-04
+- **[ChatGPT’s health AI has dangerous flaws, study warns](https://doi.org/10.1136/bmj.s438)**<br/>Armstrong S et al. · *BMJ* · 2026-03-04
 - **[Clinical competencies for using generative AI in patient care](https://doi.org/10.1136/bmj-2025-085324)**<br/>Lewis M et al. · *BMJ* · 2025-12-02
 - **[How generative AI affects patient agency](https://doi.org/10.1136/bmj-2025-085323)**<br/>Blease C et al. · *BMJ* · 2025-11-25
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Generative AI and the changing dynamics of clinical consultations](https://doi.org/10.1136/bmj-2025-085325)**<br/>Fraile Navarro D et al. · *BMJ* · 2025-11-18
+- **[Generative AI and the changing dynamics of clinical consultations](https://doi.org/10.1136/bmj-2025-085325)**<br/>Fraile Navarro D et al. · *BMJ* · 2025-11-18
 - **[ChatGPT: More than a million users show signs of mental health distress and mania each week, internal data suggest](https://doi.org/10.1136/bmj.r2290)**<br/>O'Dowd A. et al. · *BMJ* · 2025-10-30 🧩
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[AI driven psychosis and suicide are on the rise, but what happens if we turn the chatbots off?](https://doi.org/10.1136/bmj.r2239)**<br/>Stokel-Walker C et al. · *BMJ* · 2025-10-24 🧩
+- **[AI driven psychosis and suicide are on the rise, but what happens if we turn the chatbots off?](https://doi.org/10.1136/bmj.r2239)**<br/>Stokel-Walker C et al. · *BMJ* · 2025-10-24 🧩
 - **[Reporting guidelines for chatbot health advice studies: explanation and elaboration for the Chatbot Assessment Reporting Tool (CHART)](https://doi.org/10.1136/bmj-2024-083305)**<br/>CHART Collaborative. et al. · *BMJ* · 2025-08-01
 - **[Should medical students be encouraged to use generative artificial intelligence to study?](https://doi.org/10.1136/bmj.r1418)**<br/>Sibal R et al. · *BMJ* · 2025-07-23 🎓
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Health information for all: do large language models bridge or widen the digital divide?](https://doi.org/10.1136/bmj-2024-080208)**<br/>Tang A et al. · *BMJ* · 2024-10-11
+- **[Health information for all: do large language models bridge or widen the digital divide?](https://doi.org/10.1136/bmj-2024-080208)**<br/>Tang A et al. · *BMJ* · 2024-10-11
 - **[Current safeguards, risk mitigation, and transparency measures of large language models against the generation of health disinformation: repeated cross sectional analysis](https://doi.org/10.1136/bmj-2023-078538)**<br/>Menz BD et al. · *BMJ* · 2024-03-20
 - **[Sixty seconds on . . . ChatGPT and medical exams](https://doi.org/10.1136/bmj.q675)**<br/>Wise J. et al. · *BMJ* · 2024-03-18
 
@@ -528,7 +532,7 @@
 - **[Cognitively Biased Prompt Effects on Large Language Model Accuracy for Radiology Board-style Examination Questions](https://doi.org/10.1148/ryai.250585)**<br/>Dietrich NT et al. · *Radiology: Artificial Intelligence* · 2026-05-01 🩻
 - **[Fine-Tuned Large Language Model for Automated Radiology Impression Generation: A Multicenter Evaluation](https://doi.org/10.1148/ryai.250714)**<br/>Li M et al. · *Radiology: Artificial Intelligence* · 2026-05-01 🩻
 - **[Clinic-aligned Dual Distillation of Video and Image Foundation Models for Automated Breast Cancer US Diagnosis](https://doi.org/10.1148/ryai.250600)**<br/>Zhao C et al. · *Radiology: Artificial Intelligence* · 2026-05-01 🎗️
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Deep Learning for Survival Prediction in Glioblastoma: Time-dependent Model Interpretability Using MRI, Clinical, and Molecular Data](https://doi.org/10.1148/ryai.250675)**<br/>Lee J et al. · *Radiology: Artificial Intelligence* · 2026-05-01 🩻
+- **[Deep Learning for Survival Prediction in Glioblastoma: Time-dependent Model Interpretability Using MRI, Clinical, and Molecular Data](https://doi.org/10.1148/ryai.250675)**<br/>Lee J et al. · *Radiology: Artificial Intelligence* · 2026-05-01 🩻
 - **[Impact of Label Noise from Large Language Model-generated Annotations on Evaluation of Diagnostic Model Performance](https://doi.org/10.1148/ryai.250477)**<br/>Chavoshi M et al. · *Radiology: Artificial Intelligence* · 2026-03-01
 - **[A Taxonomy of Machine Hallucination in Radiology](https://doi.org/10.1148/ryai.250203)**<br/>Brooks FJ et al. · *Radiology: Artificial Intelligence* · 2026-03-01 🩻
 - **[Agentic AI in Radiology: Evolution from Large Language Models to Future Clinical Integration](https://doi.org/10.1148/ryai.250651)**<br/>Khosravi B et al. · *Radiology: Artificial Intelligence* · 2026-03-01 🩻
@@ -540,12 +544,12 @@
 - **[Cybersecurity Threats and Mitigation Strategies for Large Language                     Models in Health Care](https://doi.org/10.1148/ryai.240739)**<br/>Akinci D’Antonoli T et al. · *Radiology: Artificial Intelligence* · 2025-07-01
 - **[Enhancing Large Language Models with Retrieval-Augmented Generation: A Radiology-Specific Approach](https://doi.org/10.1148/ryai.240313)**<br/>Weinert DA et al. · *Radiology: Artificial Intelligence* · 2025-05-01 🩻
 - **[Open-Weight Language Models and Retrieval-Augmented Generation for Automated Structured Data Extraction from Diagnostic Reports: Assessment of Approaches and Parameters](https://doi.org/10.1148/ryai.240551)**<br/>Jabal MS et al. · *Radiology: Artificial Intelligence* · 2025-05-01 🩻🔬🎗️
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Optimizing Performance of Transformer-based Models for Fetal Brain MR Image Segmentation](https://doi.org/10.1148/ryai.230229)**<br/>Pecco N et al. · *Radiology: Artificial Intelligence* · 2024-11-01 🤰
+- **[Optimizing Performance of Transformer-based Models for Fetal Brain MR Image Segmentation](https://doi.org/10.1148/ryai.230229)**<br/>Pecco N et al. · *Radiology: Artificial Intelligence* · 2024-11-01 🤰
 - **[Performance of an Open-Source Large Language Model in Extracting Information from Free-Text Radiology Reports](https://doi.org/10.1148/ryai.230364)**<br/>Le Guellec B et al. · *Radiology: Artificial Intelligence* · 2024-07-01 🩻🚑
 - **[Generative Large Language Models for Detection of Speech Recognition Errors in Radiology Reports](https://doi.org/10.1148/ryai.230205)**<br/>Schmidt RA et al. · *Radiology: Artificial Intelligence* · 2024-03-01 🩻
 - **[Performance of ChatGPT on the Brazilian Radiology and Diagnostic Imaging and Mammography Board Examinations](https://doi.org/10.1148/ryai.230103)**<br/>Almeida LC et al. · *Radiology: Artificial Intelligence* · 2024-01-01 🩻🎓
 - **[Risk of Bias in Chest Radiography Deep Learning Foundation Models](https://doi.org/10.1148/ryai.230060)**<br/>Glocker B et al. · *Radiology: Artificial Intelligence* · 2023-09-27 🩻🌍
-- <img src="https://img.shields.io/badge/NEW-FFD1DC?style=flat-square&logoColor=333" alt="new" align="top">&nbsp;**[Domain-adapted Large Language Models for Classifying Nuclear Medicine Reports](https://doi.org/10.1148/ryai.220281)**<br/>Huemann Z et al. · *Radiology: Artificial Intelligence* · 2023-09-27 🩻🎗️
+- **[Domain-adapted Large Language Models for Classifying Nuclear Medicine Reports](https://doi.org/10.1148/ryai.220281)**<br/>Huemann Z et al. · *Radiology: Artificial Intelligence* · 2023-09-27 🩻🎗️
 
 </details>
 

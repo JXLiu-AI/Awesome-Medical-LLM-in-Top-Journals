@@ -1,6 +1,81 @@
 {
   "papers": [
     {
+      "doi": "10.1038/s41591-026-04694-y",
+      "pmid": "",
+      "title": "Prediction of maternal and infant outcomes from longitudinal electronic health records with a Mother-Child AI agent",
+      "journal": "Nature Medicine",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-09-04",
+      "year": "2026",
+      "first_author": "Liu S",
+      "url": "https://doi.org/10.1038/s41591-026-04694-y",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-09-07",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "peds",
+        "ehr"
+      ]
+    },
+    {
+      "doi": "10.1038/s41592-026-03182-y",
+      "pmid": "42697996",
+      "title": "Benchmarking biomedical foundation models",
+      "journal": "Nature Methods",
+      "group": "Nature 正刊与子刊",
+      "date": "2026-09-01",
+      "year": "2026",
+      "first_author": "Saez-Rodriguez J",
+      "url": "https://doi.org/10.1038/s41592-026-03182-y",
+      "code": "",
+      "abstract": "",
+      "pub_types": [
+        "review",
+        "journal article"
+      ],
+      "source": "crossref",
+      "added_batch": "2026-09-07",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": []
+    },
+    {
+      "doi": "10.1016/j.landig.2026.101092",
+      "pmid": "42680677",
+      "title": "Development and external validation of a contrastive learning foundation model for ECG-based prediction of cardiovascular diseases and outcomes",
+      "journal": "The Lancet Digital Health",
+      "group": "顶级医学期刊",
+      "date": "2026-09-01",
+      "year": "2026",
+      "first_author": "Ko M",
+      "url": "https://doi.org/10.1016/j.landig.2026.101092",
+      "code": "",
+      "abstract": "<h4>Background</h4>Automated electrocardiogram (ECG) assessment tools to assist clinicians in diagnosis have improved substantially over the past decade; however, the full diagnostic and predictive potential of ECGs is limited when using traditional machine learning approaches because of an over-reliance on task-specific labels. We aimed to develop a large-scale ECG foundation model, ECG-CLIP, with improved generalisability and clinical applicability for ECG analysis.<h4>Methods</h4>This study used data from the Scripps Health GE MUSE system, a large-scale, retrospective dataset containing mor",
+      "pub_types": [
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-09-07",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "cardio"
+      ]
+    },
+    {
       "doi": "10.1016/j.landig.2026.101073",
       "pmid": "42665468",
       "title": "Autonomous agentic artificial intelligence systems in health care: friend or foe?",
@@ -1309,6 +1384,33 @@
       "specialties": [],
       "source": "crossref",
       "model": "Co-intelligence"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.06.002",
+      "pmid": "42349383",
+      "title": "AI-driven discovery of GPNMB CAR T cells as a multi-cancer therapy",
+      "journal": "Cell",
+      "group": "Cell 正刊与子刊",
+      "date": "2026-06-01",
+      "year": "2026",
+      "first_author": "Baker DJ",
+      "url": "https://doi.org/10.1016/j.cell.2026.06.002",
+      "code": "",
+      "abstract": "Chimeric antigen receptor (CAR) T cells have demonstrated curative potential in hematologic cancers and increasing efficacy in solid tumors and non-malignant diseases. However, target identification remains a major bottleneck. We developed an artificial intelligence (AI)-driven approach for CAR T cell target discovery by integrating single-cell RNA sequencing datasets from human skin cancer and healthy tissue. Candidates were refined using public datasets to optimize for tumor composition, tissue specificity, and clinical feasibility. Large language models were applied to prioritize and nomina",
+      "pub_types": [
+        "research-article",
+        "journal article"
+      ],
+      "source": "epmc",
+      "added_batch": "2026-09-07",
+      "tags": [],
+      "highlight": false,
+      "status": "new",
+      "model": "",
+      "specialties": [
+        "onco",
+        "genom"
+      ]
     },
     {
       "doi": "10.1056/ailtr2600197",
@@ -3272,6 +3374,7 @@
       "code": "",
       "abstract": "Abstract Intracortical brain–computer interfaces (iBCIs) require frequent recalibration to maintain robust performance due to changes in neural activity that accumulate over time, which result in periods when users cannot use their device. Here we introduce a hidden Markov model to infer which targets users are moving towards during iBCI use and we retrain the system using these inferred targets, enabling unsupervised adaptation to changing neural activity. Our approach outperforms distribution alignment methods in large-scale, closed-loop simulations over two months, as well as in a closed lo",
       "pub_types": [
+        "research-article",
         "journal article"
       ],
       "source": "crossref",
@@ -9430,9 +9533,13 @@
       "added": 101
     },
     {
+      "batch": "2026-09-07",
+      "added": 58
+    },
+    {
       "batch": "initial",
       "added": 199
     }
   ],
-  "latest_batch": "2026-08-31"
+  "latest_batch": "2026-09-07"
 }
